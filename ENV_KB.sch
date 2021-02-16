@@ -2857,63 +2857,111 @@ Wire Wire Line
 	17800 950  17800 2950
 Wire Wire Line
 	18800 950  18800 2950
-Text GLabel 19450 1450 0    50   Input ~ 0
-COL17
-Text GLabel 19450 1550 0    50   Input ~ 0
-COL16
-Text GLabel 19450 1650 0    50   Input ~ 0
-COL15
-Text GLabel 19450 1750 0    50   Input ~ 0
-COL14
-Text GLabel 19450 1950 0    50   Input ~ 0
-COL13
-Text GLabel 19450 2050 0    50   Input ~ 0
-COL12
-Text GLabel 19450 2150 0    50   Input ~ 0
-COL11
-Text GLabel 19450 2250 0    50   Input ~ 0
-COL10
-Text GLabel 19450 2450 0    50   Input ~ 0
-COL9
-Text GLabel 19450 2550 0    50   Input ~ 0
-COL8
-Text GLabel 19450 2650 0    50   Input ~ 0
-COL7
-Text GLabel 19450 2750 0    50   Input ~ 0
-COL6
-Text GLabel 19450 2950 0    50   Input ~ 0
-COL5
-Text GLabel 19450 3050 0    50   Input ~ 0
-COL4
-Text GLabel 20700 3050 2    50   Input ~ 0
-COL3
-Text GLabel 20700 2950 2    50   Input ~ 0
-COL2
-Text GLabel 20700 2750 2    50   Input ~ 0
-COL1
-Text GLabel 20700 2650 2    50   Input ~ 0
-COL0
-Text GLabel 20700 2550 2    50   Input ~ 0
-ROW6
-Text GLabel 20700 2450 2    50   Input ~ 0
-ROW5
-Text GLabel 20700 2250 2    50   Input ~ 0
-ROW4
-Text GLabel 20700 2050 2    50   Input ~ 0
-ROW3
-Text GLabel 20700 1950 2    50   Input ~ 0
-ROW1
-Text GLabel 20700 1750 2    50   Input ~ 0
-ROW0
+Text GLabel 13750 9900 2    50   Input ~ 0
+row2
+Text GLabel 13750 10000 2    50   Input ~ 0
+row3
+Text GLabel 13750 10200 2    50   Input ~ 0
+row4
+Text GLabel 13750 10400 2    50   Input ~ 0
+row5
+Text GLabel 13750 10500 2    50   Input ~ 0
+row6
+Text GLabel 13750 10600 2    50   Input ~ 0
+col0
+Text GLabel 13750 10700 2    50   Input ~ 0
+col1
+Text GLabel 13750 10900 2    50   Input ~ 0
+col2
+Text GLabel 12150 11000 0    50   Input ~ 0
+col4
+Text GLabel 12150 10900 0    50   Input ~ 0
+col5
+Text GLabel 12150 10700 0    50   Input ~ 0
+col6
+Text GLabel 12150 10600 0    50   Input ~ 0
+col7
+Text GLabel 12150 10500 0    50   Input ~ 0
+col8
+Text GLabel 12150 10400 0    50   Input ~ 0
+col9
+Text GLabel 12150 10200 0    50   Input ~ 0
+col10
+Text GLabel 12150 10100 0    50   Input ~ 0
+col11
+Text GLabel 12150 10000 0    50   Input ~ 0
+col12
+Text GLabel 12150 9900 0    50   Input ~ 0
+col13
+Text GLabel 12150 9700 0    50   Input ~ 0
+col14
+Text GLabel 12150 9600 0    50   Input ~ 0
+col15
+Text GLabel 12150 9500 0    50   Input ~ 0
+col16
+Text GLabel 12150 9400 0    50   Input ~ 0
+col17
+Text GLabel 13750 11000 2    50   Input ~ 0
+col3
 $Comp
-L RPI_PICO:PICO_RP2040 U1
-U 1 1 603DCA3D
-P 20100 2100
-F 0 "U1" H 20075 3465 50  0000 C CNN
-F 1 "PICO_RP2040" H 20075 3374 50  0000 C CNN
-F 2 "MCU_RaspberryPi_and_Boards.pretty:RPi_Pico_SMD_TH" H 20000 3550 50  0001 C CNN
-F 3 "" H 20000 3550 50  0001 C CNN
-	1    20100 2100
+L MCU_RaspberryPi_and_Boards:Pico RPI1
+U 1 1 604D8043
+P 12950 10050
+F 0 "RPI1" H 12950 11265 50  0000 C CNN
+F 1 "Pico" H 12950 11174 50  0000 C CNN
+F 2 "MCU_RaspberryPi_and_Boards.pretty:RPi_Pico_SMD_TH" V 12950 10050 50  0001 C CNN
+F 3 "" H 12950 10050 50  0001 C CNN
+	1    12950 10050
 	1    0    0    -1  
 $EndComp
+Text GLabel 13750 9700 2    50   Input ~ 0
+row0
+Wire Wire Line
+	13650 9700 13750 9700
+Wire Wire Line
+	13650 9900 13750 9900
+Wire Wire Line
+	13750 10000 13650 10000
+Wire Wire Line
+	13650 10200 13750 10200
+Wire Wire Line
+	13650 10400 13750 10400
+Wire Wire Line
+	13750 10500 13650 10500
+Wire Wire Line
+	13650 10600 13750 10600
+Wire Wire Line
+	13650 10700 13750 10700
+Wire Wire Line
+	13750 10900 13650 10900
+Wire Wire Line
+	13650 11000 13750 11000
+Wire Wire Line
+	12250 11000 12150 11000
+Wire Wire Line
+	12150 10900 12250 10900
+Wire Wire Line
+	12250 10700 12150 10700
+Wire Wire Line
+	12150 10600 12250 10600
+Wire Wire Line
+	12150 10500 12250 10500
+Wire Wire Line
+	12150 10400 12250 10400
+Wire Wire Line
+	12150 10200 12250 10200
+Wire Wire Line
+	12250 10100 12150 10100
+Wire Wire Line
+	12150 10000 12250 10000
+Wire Wire Line
+	12250 9900 12150 9900
+Wire Wire Line
+	12150 9700 12250 9700
+Wire Wire Line
+	12250 9600 12150 9600
+Wire Wire Line
+	12150 9500 12250 9500
+Wire Wire Line
+	12250 9400 12150 9400
 $EndSCHEMATC
