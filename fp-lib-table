@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MX_only)(type KiCad)(uri ${KIPRJMOD}/KB/Footprint_library/MX_Only.pretty)(options "")(descr ""))
+  (lib (name "RPI Bits")(type KiCad)(uri ${KIPRJMOD}/KB/Footprint_library/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
+)
