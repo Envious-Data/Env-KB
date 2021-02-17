@@ -1,6 +1,10 @@
 # Env-KB
  A custom mechanical keyboard inspired by the CFTKB Mysterium
 
+### What Im currently doing
+* Drawing Traces
+* Organising Diodes
+
 
 ### What is to do?
 * Organise Diodes
