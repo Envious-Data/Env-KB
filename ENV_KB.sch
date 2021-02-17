@@ -2857,22 +2857,16 @@ Wire Wire Line
 	17800 950  17800 2950
 Wire Wire Line
 	18800 950  18800 2950
-Text GLabel 13750 9900 2    50   Input ~ 0
-row2
 Text GLabel 13750 10000 2    50   Input ~ 0
+row2
+Text GLabel 13750 9700 2    50   Input ~ 0
 row3
 Text GLabel 13750 10200 2    50   Input ~ 0
 row4
-Text GLabel 13750 10400 2    50   Input ~ 0
-row5
 Text GLabel 13750 10500 2    50   Input ~ 0
+row5
+Text GLabel 13750 10400 2    50   Input ~ 0
 row6
-Text GLabel 13750 10600 2    50   Input ~ 0
-col0
-Text GLabel 13750 10700 2    50   Input ~ 0
-col1
-Text GLabel 13750 10900 2    50   Input ~ 0
-col2
 Text GLabel 12150 11000 0    50   Input ~ 0
 col4
 Text GLabel 12150 10900 0    50   Input ~ 0
@@ -2901,8 +2895,6 @@ Text GLabel 12150 9500 0    50   Input ~ 0
 col16
 Text GLabel 12150 9400 0    50   Input ~ 0
 col17
-Text GLabel 13750 11000 2    50   Input ~ 0
-col3
 $Comp
 L MCU_RaspberryPi_and_Boards:Pico RPI1
 U 1 1 604D8043
@@ -2914,7 +2906,7 @@ F 3 "" H 12950 10050 50  0001 C CNN
 	1    12950 10050
 	1    0    0    -1  
 $EndComp
-Text GLabel 13750 9700 2    50   Input ~ 0
+Text GLabel 13750 9900 2    50   Input ~ 0
 row0
 Wire Wire Line
 	13650 9700 13750 9700
@@ -2964,4 +2956,12 @@ Wire Wire Line
 	12150 9500 12250 9500
 Wire Wire Line
 	12250 9400 12150 9400
+Text GLabel 13750 10700 2    50   Input ~ 0
+col3
+Text GLabel 13750 11000 2    50   Input ~ 0
+col0
+Text GLabel 13750 10600 2    50   Input ~ 0
+col1
+Text GLabel 13750 10900 2    50   Input ~ 0
+col2
 $EndSCHEMATC
