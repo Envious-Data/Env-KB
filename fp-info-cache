@@ -1,4 +1,4 @@
-19219911638870662
+19269477139816001
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -2271,6 +2271,216 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CFTKB Bits
+AVR_ICSP_3x2
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+6
+6
+CFTKB Bits
+CP_Radial_D4.0mm_P1.50mm
+CP, Radial series, Radial, pin pitch=1.50mm, , diameter=4mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 1.50mm  diameter 4mm Electrolytic Capacitor
+0
+2
+2
+CFTKB Bits
+C_Disc_D3.0mm_W1.6mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor
+0
+2
+2
+CFTKB Bits
+C_Disc_D4.3mm_W1.9mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor
+0
+2
+2
+CFTKB Bits
+Crystal_HC49-4H_Vertical
+Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf
+THT crystalHC-49-4H
+0
+2
+2
+CFTKB Bits
+DIP-40_W15.24mm
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+40
+40
+CFTKB Bits
+DISCIPLINE_SMALL_COPPER
+
+
+0
+0
+0
+CFTKB Bits
+DISCIPLINE_SMALL_MASK
+
+
+0
+0
+0
+CFTKB Bits
+D_DO-35_SOD27_P5.08mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+CFTKB Bits
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+CFTKB Bits
+MX-6.25U-Stabilizer
+
+
+0
+0
+0
+CFTKB Bits
+MX-7U-Stabilizer
+
+
+0
+0
+0
+CFTKB Bits
+MountingHole_2.2mm_M2_Pad
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+1
+1
+CFTKB Bits
+R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+CFTKB Bits
+R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+CFTKB Bits
+SPST_ALPS_SKTCABE010
+
+
+0
+4
+2
+CFTKB Bits
+SPST_KXT311LHS
+
+
+0
+2
+2
+CFTKB Bits
+SW_Cherry_MX1A_1.00u_PCB-NOSCREEN
+Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.00u PCB
+0
+2
+2
+CFTKB Bits
+SW_Cherry_MX1A_1.25u_LEDNOSCREEN
+Cherry MX keyswitch, MX1A, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u PCB
+0
+2
+2
+CFTKB Bits
+SW_Cherry_MX1A_1.25u_PCBNOSCREEN
+Cherry MX keyswitch, MX1A, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.25u PCB
+0
+2
+2
+CFTKB Bits
+SW_Cherry_MX1A_1.50u_PCBNOSCREEN
+Cherry MX keyswitch, MX1A, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.50u PCB
+0
+2
+2
+CFTKB Bits
+SW_Cherry_MX1A_1.75u_PCBNOSCREEN
+Cherry MX keyswitch, MX1A, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 1.75u PCB
+0
+2
+2
+CFTKB Bits
+SW_Cherry_MX1A_2.00u_PCBNOSCREEN
+Cherry MX keyswitch, MX1A, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 2.00u PCB
+0
+2
+2
+CFTKB Bits
+SW_Cherry_MX1A_2.25u_PCBNOSCREEN
+Cherry MX keyswitch, MX1A, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 2.25u PCB
+0
+2
+2
+CFTKB Bits
+SW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
+CFTKB Bits
+THT_RGB_LED_5mm
+Through hole straight pin header, 1x04, 1.00mm pitch, single row
+Through hole pin header THT 1x04 1.00mm single row
+0
+4
+4
+CFTKB Bits
+TOPY 4MM MASK
+
+
+0
+0
+0
+CFTKB Bits
+TP124005-2
+
+
+0
+2
+2
+CFTKB Bits
+USB_C_GCT_USB4085
+
+
+0
+20
+17
+CFTKB Bits
+polyfuse_5.1mm
+
+
 0
 2
 2
@@ -50714,6 +50924,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EM_Logo
+PersonalLogo
+
+
+0
+0
+0
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters

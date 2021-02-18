@@ -3,4 +3,5 @@
   (lib (name pico_rp2040)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/pico_rp2040.lib)(options "")(descr ""))
   (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/MCU_RaspberryPi_and_Boards.lib)(options "")(descr ""))
   (lib (name Diodes)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/Diode.lib)(options "")(descr ""))
+  (lib (name PersonalLogo)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/PersonalLogo.lib)(options "")(descr ""))
 )
