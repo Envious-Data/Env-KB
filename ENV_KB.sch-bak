@@ -13,86 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text GLabel 12150 9600 0    50   Input ~ 0
-col2
-Text GLabel 12150 9500 0    50   Input ~ 0
-col1
-Text GLabel 12150 9400 0    50   Input ~ 0
-col0
-Text GLabel 12150 9700 0    50   Input ~ 0
-col3
-Wire Wire Line
-	12250 9400 12150 9400
-Wire Wire Line
-	12150 9500 12250 9500
-Wire Wire Line
-	12250 9600 12150 9600
-Wire Wire Line
-	12150 9700 12250 9700
-Wire Wire Line
-	12250 9900 12150 9900
-Wire Wire Line
-	12150 10000 12250 10000
-Wire Wire Line
-	12250 10100 12150 10100
-Wire Wire Line
-	12150 10200 12250 10200
-Wire Wire Line
-	12150 10400 12250 10400
-Wire Wire Line
-	12150 10500 12250 10500
-Wire Wire Line
-	12150 10600 12250 10600
-Wire Wire Line
-	12250 10700 12150 10700
-Wire Wire Line
-	12150 10900 12250 10900
-Wire Wire Line
-	12250 11000 12150 11000
-Wire Wire Line
-	13650 11000 13750 11000
-Wire Wire Line
-	13750 10900 13650 10900
-Wire Wire Line
-	13650 10700 13750 10700
-Wire Wire Line
-	13650 10600 13750 10600
-Wire Wire Line
-	13750 10500 13650 10500
-Wire Wire Line
-	13650 10400 13750 10400
-Wire Wire Line
-	13650 10200 13750 10200
-Wire Wire Line
-	13750 10000 13650 10000
-Wire Wire Line
-	13650 9900 13750 9900
-Wire Wire Line
-	13650 9700 13750 9700
-Text GLabel 13750 9900 2    50   Input ~ 0
-row0
-Text GLabel 13750 10700 2    50   Input ~ 0
-col17
-Text GLabel 13750 10600 2    50   Input ~ 0
-col16
-Text GLabel 13750 10500 2    50   Input ~ 0
-col15
-Text GLabel 13750 10400 2    50   Input ~ 0
-col14
-Text GLabel 12150 10200 0    50   Input ~ 0
-col7
-Text GLabel 12150 10100 0    50   Input ~ 0
-col6
-Text GLabel 12150 10000 0    50   Input ~ 0
-col5
-Text GLabel 12150 9900 0    50   Input ~ 0
-col4
-Text GLabel 13750 10200 2    50   Input ~ 0
-row4
-Text GLabel 13750 9700 2    50   Input ~ 0
-row3
-Text GLabel 13750 10000 2    50   Input ~ 0
-row2
 Wire Wire Line
 	18800 950  18800 2950
 Wire Wire Line
@@ -1001,22 +921,6 @@ Wire Wire Line
 	900  1400 1350 1400
 Text GLabel 900  1400 0    50   Input ~ 0
 row0
-Text GLabel 12150 11000 0    50   Input ~ 0
-col13
-Text GLabel 12150 10900 0    50   Input ~ 0
-col12
-Text GLabel 12150 10600 0    50   Input ~ 0
-col10
-Text GLabel 12150 10700 0    50   Input ~ 0
-col11
-Text GLabel 13750 11000 2    50   Input ~ 0
-row5
-Text GLabel 13750 10900 2    50   Input ~ 0
-row6
-Text GLabel 12150 10400 0    50   Input ~ 0
-col8
-Text GLabel 12150 10500 0    50   Input ~ 0
-col9
 $Comp
 L MX_Alps_Hybrid:MX-NoLED K_0
 U 1 1 00000001
@@ -2855,17 +2759,6 @@ F 3 "" H 1050 1250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MCU_RaspberryPi_and_Boards:Pico RPI1
-U 1 1 604D8043
-P 12950 10050
-F 0 "RPI1" H 12950 11265 50  0000 C CNN
-F 1 "Pico" H 12950 11174 50  0000 C CNN
-F 2 "MCU_RaspberryPi_and_Boards.pretty:RPi_Pico_SMD_TH" V 12950 10050 50  0001 C CNN
-F 3 "" H 12950 10050 50  0001 C CNN
-	1    12950 10050
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:D_Small D87
 U 1 1 00000870
 P 18350 7300
@@ -2963,5 +2856,112 @@ F 2 "CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal" H 4050 7250 50  0001 C CNN
 F 3 "" H 4050 7250 50  0001 C CNN
 	1    4350 7300
 	0    -1   -1   0   
+$EndComp
+Text GLabel 13750 10900 2    50   Input ~ 0
+row6
+Text GLabel 13750 11000 2    50   Input ~ 0
+row5
+Text GLabel 13750 10000 2    50   Input ~ 0
+row2
+Text GLabel 13750 9700 2    50   Input ~ 0
+row3
+Text GLabel 13750 10200 2    50   Input ~ 0
+row4
+Text GLabel 13750 10400 2    50   Input ~ 0
+col14
+Text GLabel 13750 10500 2    50   Input ~ 0
+col15
+Text GLabel 13750 10600 2    50   Input ~ 0
+col16
+Text GLabel 13750 10700 2    50   Input ~ 0
+col17
+Text GLabel 13750 9900 2    50   Input ~ 0
+row0
+Wire Wire Line
+	13650 9700 13750 9700
+Wire Wire Line
+	13650 9900 13750 9900
+Wire Wire Line
+	13750 10000 13650 10000
+Wire Wire Line
+	13650 10200 13750 10200
+Wire Wire Line
+	13650 10400 13750 10400
+Wire Wire Line
+	13750 10500 13650 10500
+Wire Wire Line
+	13650 10600 13750 10600
+Wire Wire Line
+	13650 10700 13750 10700
+Wire Wire Line
+	13750 10900 13650 10900
+Wire Wire Line
+	13650 11000 13750 11000
+Text GLabel 12150 10500 0    50   Input ~ 0
+col9
+Text GLabel 12150 10400 0    50   Input ~ 0
+col8
+Text GLabel 12150 10700 0    50   Input ~ 0
+col11
+Text GLabel 12150 10600 0    50   Input ~ 0
+col10
+Text GLabel 12150 10900 0    50   Input ~ 0
+col12
+Text GLabel 12150 11000 0    50   Input ~ 0
+col13
+Text GLabel 12150 9900 0    50   Input ~ 0
+col4
+Text GLabel 12150 10000 0    50   Input ~ 0
+col5
+Text GLabel 12150 10100 0    50   Input ~ 0
+col6
+Text GLabel 12150 10200 0    50   Input ~ 0
+col7
+Wire Wire Line
+	12250 11000 12150 11000
+Wire Wire Line
+	12150 10900 12250 10900
+Wire Wire Line
+	12250 10700 12150 10700
+Wire Wire Line
+	12150 10600 12250 10600
+Wire Wire Line
+	12150 10500 12250 10500
+Wire Wire Line
+	12150 10400 12250 10400
+Wire Wire Line
+	12150 10200 12250 10200
+Wire Wire Line
+	12250 10100 12150 10100
+Wire Wire Line
+	12150 10000 12250 10000
+Wire Wire Line
+	12250 9900 12150 9900
+Wire Wire Line
+	12150 9700 12250 9700
+Wire Wire Line
+	12250 9600 12150 9600
+Wire Wire Line
+	12150 9500 12250 9500
+Wire Wire Line
+	12250 9400 12150 9400
+Text GLabel 12150 9700 0    50   Input ~ 0
+col3
+Text GLabel 12150 9400 0    50   Input ~ 0
+col0
+Text GLabel 12150 9500 0    50   Input ~ 0
+col1
+Text GLabel 12150 9600 0    50   Input ~ 0
+col2
+$Comp
+L MCU_RaspberryPi_and_Boards:Pico RPI1
+U 1 1 604D8043
+P 12950 10050
+F 0 "RPI1" H 12950 11265 50  0000 C CNN
+F 1 "Pico" H 12950 11174 50  0000 C CNN
+F 2 "MCU_RaspberryPi_and_Boards.pretty:RPi_Pico_SMD_TH" V 12950 10050 50  0001 C CNN
+F 3 "" H 12950 10050 50  0001 C CNN
+	1    12950 10050
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
