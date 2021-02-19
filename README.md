@@ -2,26 +2,17 @@
  A custom mechanical keyboard inspired by the CFTKB Mysterium
 
 ### What Im currently doing
-* Taking a momentary break
+* Taking a momentary break from this project.
 
 
 ### What is to do?
 * Figure out locations for TP1, TP2, TP3 and wire those + Vbus and GND to the usb port.
 * Make pretty. (rounded corners, few bits of text, etc)
 
-* ~~Organise Diodes~~
-* ~~Draw Traces~~
-* ~~Dictate needed components~~
-* ~~Build and test~~
-* ~~More stuff to be decided~~
-* ~~(at some point pretty it all up)~~
-
-### As of right now
-Ive mainly just laid out the schematic and rats nest using some online tools and also made sure the correct footprints are being used.
-There are 2 spare GPIO pins on the RPI Pico so its possible to add a I2C device to this KB like a i2c oled or something of the sort.
 
 ### Why a RPI Pico?
 uh well why not, I think it would be a nice example for people to use as a example since python is surprizingly simple.
+Ive made sure to leave GPIO 0 and 1 empty incase someone wants to add something like a I2C OLED or something of the sorts.
 
 ### ISO only?
 for now I guess, its upto someone else if they want a ANSI version but I like the idea of adding another ISO custom KB to the market.
