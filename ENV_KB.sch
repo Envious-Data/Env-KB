@@ -2857,25 +2857,21 @@ F 3 "" H 4050 7250 50  0001 C CNN
 	1    4350 7300
 	0    -1   -1   0   
 $EndComp
-Text GLabel 13750 10900 2    50   Input ~ 0
+Text GLabel 13750 10500 2    50   Input ~ 0
 row6
-Text GLabel 13750 11000 2    50   Input ~ 0
+Text GLabel 13750 10400 2    50   Input ~ 0
 row5
-Text GLabel 13750 10000 2    50   Input ~ 0
+Text GLabel 13750 9900 2    50   Input ~ 0
 row2
-Text GLabel 13750 9700 2    50   Input ~ 0
+Text GLabel 13750 10000 2    50   Input ~ 0
 row3
 Text GLabel 13750 10200 2    50   Input ~ 0
 row4
-Text GLabel 13750 10400 2    50   Input ~ 0
-col14
-Text GLabel 13750 10500 2    50   Input ~ 0
-col15
 Text GLabel 13750 10600 2    50   Input ~ 0
-col16
+col14
 Text GLabel 13750 10700 2    50   Input ~ 0
-col17
-Text GLabel 13750 9900 2    50   Input ~ 0
+col15
+Text GLabel 13750 9700 2    50   Input ~ 0
 row0
 Wire Wire Line
 	13650 9700 13750 9700
@@ -2889,10 +2885,6 @@ Wire Wire Line
 	13650 10400 13750 10400
 Wire Wire Line
 	13750 10500 13650 10500
-Wire Wire Line
-	13650 10600 13750 10600
-Wire Wire Line
-	13650 10700 13750 10700
 Wire Wire Line
 	13750 10900 13650 10900
 Wire Wire Line
@@ -2975,4 +2967,12 @@ F 3 "~" H 10550 9250 50  0001 C CNN
 	1    10400 9300
 	0    -1   -1   0   
 $EndComp
+Wire Wire Line
+	13650 10700 13750 10700
+Wire Wire Line
+	13650 10600 13750 10600
+Text GLabel 13750 11000 2    50   Input ~ 0
+col17
+Text GLabel 13750 10900 2    50   Input ~ 0
+col16
 $EndSCHEMATC
