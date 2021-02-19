@@ -2,17 +2,19 @@
  A custom mechanical keyboard inspired by the CFTKB Mysterium
 
 ### What Im currently doing
-* Drawing Traces
-* Organising Diodes
+* Taking a momentary break
 
 
 ### What is to do?
-* Organise Diodes
-* Draw Traces
-* Dictate needed components
-* Build and test
-* More stuff to be decided
-* (at some point pretty it all up)
+* Figure out locations for TP1, TP2, TP3 and wire those + Vbus and GND to the usb port.
+* Make pretty. (rounded corners, few bits of text, etc)
+
+* ~~Organise Diodes~~
+* ~~Draw Traces~~
+* ~~Dictate needed components~~
+* ~~Build and test~~
+* ~~More stuff to be decided~~
+* ~~(at some point pretty it all up)~~
 
 ### As of right now
 Ive mainly just laid out the schematic and rats nest using some online tools and also made sure the correct footprints are being used.
