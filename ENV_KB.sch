@@ -2975,4 +2975,20 @@ Text GLabel 13750 11000 2    50   Input ~ 0
 col17
 Text GLabel 13750 10900 2    50   Input ~ 0
 col16
+Text GLabel 12800 8900 1    50   Input ~ 0
+USBGND
+Text GLabel 10800 9300 2    50   Input ~ 0
+USBGND
+Text GLabel 12950 8900 1    50   Input ~ 0
+USBDM
+Text GLabel 10500 9000 1    50   Input ~ 0
+USBDM
+Text GLabel 10400 9000 1    50   Input ~ 0
+USBDP
+Text GLabel 13100 8900 1    50   Input ~ 0
+USBDP
+Text GLabel 13650 9100 2    50   Input ~ 0
+USBVBUS
+Text GLabel 10200 9000 1    50   Input ~ 0
+USBVBUS
 $EndSCHEMATC
