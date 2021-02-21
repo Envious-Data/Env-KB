@@ -2956,17 +2956,6 @@ F 3 "" H 12950 10050 50  0001 C CNN
 	1    12950 10050
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:USB_B_Micro J1
-U 1 1 6031CA0E
-P 10400 9300
-F 0 "J1" V 10503 9630 50  0000 L CNN
-F 1 "USB_B_Micro" V 10412 9630 50  0000 L CNN
-F 2 "Connector_USB:USB_Micro-B_Wuerth_629105150521" H 10550 9250 50  0001 C CNN
-F 3 "~" H 10550 9250 50  0001 C CNN
-	1    10400 9300
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	13650 10700 13750 10700
 Wire Wire Line
@@ -2977,18 +2966,29 @@ Text GLabel 13750 10900 2    50   Input ~ 0
 col16
 Text GLabel 12800 8900 1    50   Input ~ 0
 USBGND
-Text GLabel 10800 9300 2    50   Input ~ 0
-USBGND
 Text GLabel 12950 8900 1    50   Input ~ 0
 USB2_N
-Text GLabel 10500 9000 1    50   Input ~ 0
+Text GLabel 9500 9550 2    50   Input ~ 0
 USB2_N
-Text GLabel 10400 9000 1    50   Input ~ 0
+Text GLabel 9500 9750 2    50   Input ~ 0
 USB2_P
 Text GLabel 13100 8900 1    50   Input ~ 0
 USB2_P
 Text GLabel 13650 9100 2    50   Input ~ 0
 USBVBUS
-Text GLabel 10200 9000 1    50   Input ~ 0
+Text GLabel 8900 10550 3    50   Input ~ 0
+USBGND
+Text GLabel 9500 9050 2    50   Input ~ 0
 USBVBUS
+$Comp
+L Connector:USB_C_Plug_USB2.0 P1
+U 1 1 6035DC13
+P 8900 9650
+F 0 "P1" H 9007 10517 50  0000 C CNN
+F 1 "USB_C_Plug_USB2.0" H 9007 10426 50  0000 C CNN
+F 2 "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 9050 9650 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 9050 9650 50  0001 C CNN
+	1    8900 9650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
