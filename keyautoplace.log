@@ -1,1 +1,700 @@
-01:07:44 keyautoplace 289: Plugin executed with python version: '2.7.18 (default, Apr 20 2020, 16:57:11)  [GCC 9.3.0 64 bit (AMD64)]'
+17:39:21 keyautoplace 289: Plugin executed with python version: '2.7.18 (default, Apr 20 2020, 16:57:11)  [GCC 9.3.0 64 bit (AMD64)]'
+17:39:27 keyautoplace 302: User layout: {u'keys': [{u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Esc'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 0}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F1'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 2}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F2'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 3}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F3'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 4}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F4'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F5'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 6.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F6'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 7.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F7'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 8.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F8'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 9.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F9'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 11}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F10'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 12}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F11'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 13}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F12'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 14}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'PrtSc'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 15.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Scroll Lock'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 16.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Pause', None, None, None, None, None, u'Break'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 0, u'x': 17.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'\xac', None, None, None, None, None, u'`'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 0}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'!', None, None, None, None, None, u'1'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 1}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'"', None, None, None, None, None, u'2'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 2}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'\xa3', None, None, None, None, None, u'3'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 3}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'$', None, None, None, None, None, u'4'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 4}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'%', None, None, None, None, None, u'5'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'^', None, None, None, None, None, u'6'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 6}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'&', None, None, None, None, None, u'7'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 7}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'*', None, None, None, None, None, u'8'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 8}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'(', None, None, None, None, None, u'9'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 9}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u')', None, None, None, None, None, u'0'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 10}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'_', None, None, None, None, None, u'-'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 11}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'+', None, None, None, None, None, u'='], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 12}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Backspace'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 2, u'width': 2, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 13}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Insert'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 15.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Home'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 16.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'PgUp'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 17.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Num Lock'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 18.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'/'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 19.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'*'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 20.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'-'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 1.5, u'x': 21.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Tab'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.5, u'width': 1.5, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 0}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Q'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 1.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'W'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 2.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'E'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 3.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'R'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 4.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'T'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 5.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Y'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 6.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'U'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 7.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'I'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 8.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'O'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 9.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'P'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 10.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'{', None, None, None, None, None, u'['], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 11.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'}', None, None, None, None, None, u']'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 12.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Enter'], u'height': 2, u'y2': 0, u'nub': False, u'width2': 1.5, u'width': 1.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': -0.25, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 13.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Delete'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 15.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'End'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 16.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'PgDn'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 17.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'7', None, None, None, None, None, u'Home'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 18.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'8', None, None, None, None, None, u'\u2191'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 19.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'9', None, None, None, None, None, u'PgUp'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 20.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'+'], u'height': 2, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 2, u'st': u'', u'sm': u'', u'y': 2.5, u'x': 21.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Caps Lock'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.75, u'width': 1.75, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 0}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'A'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 1.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'S'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 2.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'D'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 3.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'F'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 4.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'G'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 5.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'H'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 6.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'J'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 7.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'K'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 8.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'L'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 9.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u':', None, None, None, None, None, u';'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 10.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'@', None, None, None, None, None, u"'"], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 11.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'~', None, None, None, None, None, u'#'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 12.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'4', None, None, None, None, None, u'\u2190'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 18.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'5'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 19.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'6', None, None, None, None, None, u'\u2192'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 3.5, u'x': 20.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Shift'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.25, u'width': 1.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 0}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'|', None, None, None, None, None, u'\\'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 1.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Z'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 2.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'X'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 3.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'C'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 4.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'V'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 5.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'B'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 6.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'N'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 7.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'M'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 8.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'<', None, None, None, None, None, u','], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 9.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'>', None, None, None, None, None, u'.'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 10.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'?', None, None, None, None, None, u'/'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 11.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Shift'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 2.75, u'width': 2.75, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 12.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'\u2191'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 16.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'1', None, None, None, None, None, u'End'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 18.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'2', None, None, None, None, None, u'\u2193'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 19.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'3', None, None, None, None, None, u'PgDn'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 20.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Enter'], u'height': 2, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 2, u'st': u'', u'sm': u'', u'y': 4.5, u'x': 21.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Ctrl'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.25, u'width': 1.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 0}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Win'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.25, u'width': 1.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 1.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Alt'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.25, u'width': 1.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 2.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [], u'height': 1, u'y2': 0, u'nub': False, u'width2': 6.25, u'width': 6.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 3.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'AltGr'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.25, u'width': 1.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 10}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Win'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.25, u'width': 1.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 11.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Menu'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.25, u'width': 1.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 12.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'Ctrl'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1.25, u'width': 1.25, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 13.75}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'\u2190'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 15.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'\u2193'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 16.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'\u2192'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 17.25}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'0', None, None, None, None, None, u'Ins'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 2, u'width': 2, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 18.5}, {u'profile': u'', u'textSize': [], u'color': u'#cccccc', u'labels': [u'.', None, None, None, None, None, u'Del'], u'height': 1, u'y2': 0, u'nub': False, u'width2': 1, u'width': 1, u'decal': False, u'stepped': False, u'textColor': [], u'rotation_angle': 0, u'rotation_y': 0, u'rotation_x': 0, u'sb': u'', u'x2': 0, u'ghost': False, u'default': {u'textSize': 3, u'textColor': u'#000000'}, u'height2': 1, u'st': u'', u'sm': u'', u'y': 5.5, u'x': 20.5}], u'meta': {u'switchBrand': u'', u'switchType': u'', u'name': u'', u'author': u'', u'notes': u'', u'radii': u'', u'background': None, u'backcolor': u'#eeeeee', u'switchMount': u''}}
+17:39:27 keyautoplace 22: Searching for K_1 module
+17:39:27 keyautoplace 46: Setting K_1 module position: (34525000, 34525000)
+17:39:27 keyautoplace 22: Searching for D1 module
+17:39:27 keyautoplace 46: Setting D1 module position: (39605000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(39605000, 31205000), (37065000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(37065000, 28665000), (37065000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_2 module
+17:39:27 keyautoplace 46: Setting K_2 module position: (72625000, 34525000)
+17:39:27 keyautoplace 22: Searching for D2 module
+17:39:27 keyautoplace 46: Setting D2 module position: (77705000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(77705000, 31205000), (75165000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(75165000, 28665000), (75165000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_3 module
+17:39:27 keyautoplace 46: Setting K_3 module position: (91675000, 34525000)
+17:39:27 keyautoplace 22: Searching for D3 module
+17:39:27 keyautoplace 46: Setting D3 module position: (96755000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(96755000, 31205000), (94215000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(94215000, 28665000), (94215000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_4 module
+17:39:27 keyautoplace 46: Setting K_4 module position: (110725000, 34525000)
+17:39:27 keyautoplace 22: Searching for D4 module
+17:39:27 keyautoplace 46: Setting D4 module position: (115805000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(115805000, 31205000), (113265000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(113265000, 28665000), (113265000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_5 module
+17:39:27 keyautoplace 46: Setting K_5 module position: (129775000, 34525000)
+17:39:27 keyautoplace 22: Searching for D5 module
+17:39:27 keyautoplace 46: Setting D5 module position: (134855000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(134855000, 31205000), (132315000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(132315000, 28665000), (132315000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_6 module
+17:39:27 keyautoplace 46: Setting K_6 module position: (158350000, 34525000)
+17:39:27 keyautoplace 22: Searching for D6 module
+17:39:27 keyautoplace 46: Setting D6 module position: (163430000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(163430000, 31205000), (160890000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(160890000, 28665000), (160890000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_7 module
+17:39:27 keyautoplace 46: Setting K_7 module position: (177400000, 34525000)
+17:39:27 keyautoplace 22: Searching for D7 module
+17:39:27 keyautoplace 46: Setting D7 module position: (182480000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(182480000, 31205000), (179940000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(179940000, 28665000), (179940000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_8 module
+17:39:27 keyautoplace 46: Setting K_8 module position: (196450000, 34525000)
+17:39:27 keyautoplace 22: Searching for D8 module
+17:39:27 keyautoplace 46: Setting D8 module position: (201530000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(201530000, 31205000), (198990000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(198990000, 28665000), (198990000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_9 module
+17:39:27 keyautoplace 46: Setting K_9 module position: (215500000, 34525000)
+17:39:27 keyautoplace 22: Searching for D9 module
+17:39:27 keyautoplace 46: Setting D9 module position: (220580000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(220580000, 31205000), (218040000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(218040000, 28665000), (218040000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_10 module
+17:39:27 keyautoplace 46: Setting K_10 module position: (244075000, 34525000)
+17:39:27 keyautoplace 22: Searching for D10 module
+17:39:27 keyautoplace 46: Setting D10 module position: (249155000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(249155000, 31205000), (246615000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(246615000, 28665000), (246615000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_11 module
+17:39:27 keyautoplace 46: Setting K_11 module position: (263125000, 34525000)
+17:39:27 keyautoplace 22: Searching for D11 module
+17:39:27 keyautoplace 46: Setting D11 module position: (268205000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(268205000, 31205000), (265665000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(265665000, 28665000), (265665000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_12 module
+17:39:27 keyautoplace 46: Setting K_12 module position: (282175000, 34525000)
+17:39:27 keyautoplace 22: Searching for D12 module
+17:39:27 keyautoplace 46: Setting D12 module position: (287255000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(287255000, 31205000), (284715000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(284715000, 28665000), (284715000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_13 module
+17:39:27 keyautoplace 46: Setting K_13 module position: (301225000, 34525000)
+17:39:27 keyautoplace 22: Searching for D13 module
+17:39:27 keyautoplace 46: Setting D13 module position: (306305000, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(306305000, 31205000), (303765000, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(303765000, 28665000), (303765000, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_14 module
+17:39:27 keyautoplace 46: Setting K_14 module position: (325037500, 34525000)
+17:39:27 keyautoplace 22: Searching for D14 module
+17:39:27 keyautoplace 46: Setting D14 module position: (330117500, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(330117500, 31205000), (327577500, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(327577500, 28665000), (327577500, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_15 module
+17:39:27 keyautoplace 46: Setting K_15 module position: (344087500, 34525000)
+17:39:27 keyautoplace 22: Searching for D15 module
+17:39:27 keyautoplace 46: Setting D15 module position: (349167500, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(349167500, 31205000), (346627500, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(346627500, 28665000), (346627500, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_16 module
+17:39:27 keyautoplace 46: Setting K_16 module position: (363137500, 34525000)
+17:39:27 keyautoplace 22: Searching for D16 module
+17:39:27 keyautoplace 46: Setting D16 module position: (368217500, 37555000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(368217500, 31205000), (365677500, 28665000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(365677500, 28665000), (365677500, 27885000)]
+17:39:27 keyautoplace 22: Searching for K_17 module
+17:39:27 keyautoplace 46: Setting K_17 module position: (34525000, 63100000)
+17:39:27 keyautoplace 22: Searching for D17 module
+17:39:27 keyautoplace 46: Setting D17 module position: (39605000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(39605000, 59780000), (37065000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(37065000, 57240000), (37065000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_18 module
+17:39:27 keyautoplace 46: Setting K_18 module position: (53575000, 63100000)
+17:39:27 keyautoplace 22: Searching for D18 module
+17:39:27 keyautoplace 46: Setting D18 module position: (58655000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(58655000, 59780000), (56115000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(56115000, 57240000), (56115000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_19 module
+17:39:27 keyautoplace 46: Setting K_19 module position: (72625000, 63100000)
+17:39:27 keyautoplace 22: Searching for D19 module
+17:39:27 keyautoplace 46: Setting D19 module position: (77705000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(77705000, 59780000), (75165000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(75165000, 57240000), (75165000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_20 module
+17:39:27 keyautoplace 46: Setting K_20 module position: (91675000, 63100000)
+17:39:27 keyautoplace 22: Searching for D20 module
+17:39:27 keyautoplace 46: Setting D20 module position: (96755000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(96755000, 59780000), (94215000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(94215000, 57240000), (94215000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_21 module
+17:39:27 keyautoplace 46: Setting K_21 module position: (110725000, 63100000)
+17:39:27 keyautoplace 22: Searching for D21 module
+17:39:27 keyautoplace 46: Setting D21 module position: (115805000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(115805000, 59780000), (113265000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(113265000, 57240000), (113265000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_22 module
+17:39:27 keyautoplace 46: Setting K_22 module position: (129775000, 63100000)
+17:39:27 keyautoplace 22: Searching for D22 module
+17:39:27 keyautoplace 46: Setting D22 module position: (134855000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(134855000, 59780000), (132315000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(132315000, 57240000), (132315000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_23 module
+17:39:27 keyautoplace 46: Setting K_23 module position: (148825000, 63100000)
+17:39:27 keyautoplace 22: Searching for D23 module
+17:39:27 keyautoplace 46: Setting D23 module position: (153905000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(153905000, 59780000), (151365000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(151365000, 57240000), (151365000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_24 module
+17:39:27 keyautoplace 46: Setting K_24 module position: (167875000, 63100000)
+17:39:27 keyautoplace 22: Searching for D24 module
+17:39:27 keyautoplace 46: Setting D24 module position: (172955000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(172955000, 59780000), (170415000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(170415000, 57240000), (170415000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_25 module
+17:39:27 keyautoplace 46: Setting K_25 module position: (186925000, 63100000)
+17:39:27 keyautoplace 22: Searching for D25 module
+17:39:27 keyautoplace 46: Setting D25 module position: (192005000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(192005000, 59780000), (189465000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(189465000, 57240000), (189465000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_26 module
+17:39:27 keyautoplace 46: Setting K_26 module position: (205975000, 63100000)
+17:39:27 keyautoplace 22: Searching for D26 module
+17:39:27 keyautoplace 46: Setting D26 module position: (211055000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(211055000, 59780000), (208515000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(208515000, 57240000), (208515000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_27 module
+17:39:27 keyautoplace 46: Setting K_27 module position: (225025000, 63100000)
+17:39:27 keyautoplace 22: Searching for D27 module
+17:39:27 keyautoplace 46: Setting D27 module position: (230105000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(230105000, 59780000), (227565000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(227565000, 57240000), (227565000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_28 module
+17:39:27 keyautoplace 46: Setting K_28 module position: (244075000, 63100000)
+17:39:27 keyautoplace 22: Searching for D28 module
+17:39:27 keyautoplace 46: Setting D28 module position: (249155000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(249155000, 59780000), (246615000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(246615000, 57240000), (246615000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_29 module
+17:39:27 keyautoplace 46: Setting K_29 module position: (263125000, 63100000)
+17:39:27 keyautoplace 22: Searching for D29 module
+17:39:27 keyautoplace 46: Setting D29 module position: (268205000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(268205000, 59780000), (265665000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(265665000, 57240000), (265665000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_30 module
+17:39:27 keyautoplace 46: Setting K_30 module position: (291700000, 63100000)
+17:39:27 keyautoplace 22: Searching for D30 module
+17:39:27 keyautoplace 46: Setting D30 module position: (296780000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(296780000, 59780000), (294240000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(294240000, 57240000), (294240000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_31 module
+17:39:27 keyautoplace 46: Setting K_31 module position: (325037500, 63100000)
+17:39:27 keyautoplace 22: Searching for D31 module
+17:39:27 keyautoplace 46: Setting D31 module position: (330117500, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(330117500, 59780000), (327577500, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(327577500, 57240000), (327577500, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_32 module
+17:39:27 keyautoplace 46: Setting K_32 module position: (344087500, 63100000)
+17:39:27 keyautoplace 22: Searching for D32 module
+17:39:27 keyautoplace 46: Setting D32 module position: (349167500, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(349167500, 59780000), (346627500, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(346627500, 57240000), (346627500, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_33 module
+17:39:27 keyautoplace 46: Setting K_33 module position: (363137500, 63100000)
+17:39:27 keyautoplace 22: Searching for D33 module
+17:39:27 keyautoplace 46: Setting D33 module position: (368217500, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(368217500, 59780000), (365677500, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(365677500, 57240000), (365677500, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_34 module
+17:39:27 keyautoplace 46: Setting K_34 module position: (386950000, 63100000)
+17:39:27 keyautoplace 22: Searching for D34 module
+17:39:27 keyautoplace 46: Setting D34 module position: (392030000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(392030000, 59780000), (389490000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(389490000, 57240000), (389490000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_35 module
+17:39:27 keyautoplace 46: Setting K_35 module position: (406000000, 63100000)
+17:39:27 keyautoplace 22: Searching for D35 module
+17:39:27 keyautoplace 46: Setting D35 module position: (411080000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(411080000, 59780000), (408540000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(408540000, 57240000), (408540000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_36 module
+17:39:27 keyautoplace 46: Setting K_36 module position: (425050000, 63100000)
+17:39:27 keyautoplace 22: Searching for D36 module
+17:39:27 keyautoplace 46: Setting D36 module position: (430130000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(430130000, 59780000), (427590000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(427590000, 57240000), (427590000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_37 module
+17:39:27 keyautoplace 46: Setting K_37 module position: (444100000, 63100000)
+17:39:27 keyautoplace 22: Searching for D37 module
+17:39:27 keyautoplace 46: Setting D37 module position: (449180000, 66130000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(449180000, 59780000), (446640000, 57240000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(446640000, 57240000), (446640000, 56460000)]
+17:39:27 keyautoplace 22: Searching for K_38 module
+17:39:27 keyautoplace 46: Setting K_38 module position: (39287500, 82150000)
+17:39:27 keyautoplace 22: Searching for D38 module
+17:39:27 keyautoplace 46: Setting D38 module position: (44367500, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(44367500, 78830000), (41827500, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(41827500, 76290000), (41827500, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_39 module
+17:39:27 keyautoplace 46: Setting K_39 module position: (63100000, 82150000)
+17:39:27 keyautoplace 22: Searching for D39 module
+17:39:27 keyautoplace 46: Setting D39 module position: (68180000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(68180000, 78830000), (65640000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(65640000, 76290000), (65640000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_40 module
+17:39:27 keyautoplace 46: Setting K_40 module position: (82150000, 82150000)
+17:39:27 keyautoplace 22: Searching for D40 module
+17:39:27 keyautoplace 46: Setting D40 module position: (87230000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(87230000, 78830000), (84690000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(84690000, 76290000), (84690000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_41 module
+17:39:27 keyautoplace 46: Setting K_41 module position: (101200000, 82150000)
+17:39:27 keyautoplace 22: Searching for D41 module
+17:39:27 keyautoplace 46: Setting D41 module position: (106280000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(106280000, 78830000), (103740000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(103740000, 76290000), (103740000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_42 module
+17:39:27 keyautoplace 46: Setting K_42 module position: (120250000, 82150000)
+17:39:27 keyautoplace 22: Searching for D42 module
+17:39:27 keyautoplace 46: Setting D42 module position: (125330000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(125330000, 78830000), (122790000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(122790000, 76290000), (122790000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_43 module
+17:39:27 keyautoplace 46: Setting K_43 module position: (139300000, 82150000)
+17:39:27 keyautoplace 22: Searching for D43 module
+17:39:27 keyautoplace 46: Setting D43 module position: (144380000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(144380000, 78830000), (141840000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(141840000, 76290000), (141840000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_44 module
+17:39:27 keyautoplace 46: Setting K_44 module position: (158350000, 82150000)
+17:39:27 keyautoplace 22: Searching for D44 module
+17:39:27 keyautoplace 46: Setting D44 module position: (163430000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(163430000, 78830000), (160890000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(160890000, 76290000), (160890000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_45 module
+17:39:27 keyautoplace 46: Setting K_45 module position: (177400000, 82150000)
+17:39:27 keyautoplace 22: Searching for D45 module
+17:39:27 keyautoplace 46: Setting D45 module position: (182480000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(182480000, 78830000), (179940000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(179940000, 76290000), (179940000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_46 module
+17:39:27 keyautoplace 46: Setting K_46 module position: (196450000, 82150000)
+17:39:27 keyautoplace 22: Searching for D46 module
+17:39:27 keyautoplace 46: Setting D46 module position: (201530000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(201530000, 78830000), (201530000, 78830000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(201530000, 78830000), (201530000, 72970000)]
+17:39:27 keyautoplace 22: Searching for K_47 module
+17:39:27 keyautoplace 46: Setting K_47 module position: (215500000, 82150000)
+17:39:27 keyautoplace 22: Searching for D47 module
+17:39:27 keyautoplace 46: Setting D47 module position: (220580000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(220580000, 78830000), (218040000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(218040000, 76290000), (218040000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_48 module
+17:39:27 keyautoplace 46: Setting K_48 module position: (234550000, 82150000)
+17:39:27 keyautoplace 22: Searching for D48 module
+17:39:27 keyautoplace 46: Setting D48 module position: (239630000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(239630000, 78830000), (237090000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(237090000, 76290000), (237090000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_49 module
+17:39:27 keyautoplace 46: Setting K_49 module position: (253600000, 82150000)
+17:39:27 keyautoplace 22: Searching for D49 module
+17:39:27 keyautoplace 46: Setting D49 module position: (258680000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(258680000, 78830000), (256140000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(256140000, 76290000), (256140000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_50 module
+17:39:27 keyautoplace 46: Setting K_50 module position: (272650000, 82150000)
+17:39:27 keyautoplace 22: Searching for D50 module
+17:39:27 keyautoplace 46: Setting D50 module position: (277730000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(277730000, 78830000), (275190000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(275190000, 76290000), (275190000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_51 module
+17:39:27 keyautoplace 46: Setting K_51 module position: (298843750, 91675000)
+17:39:27 keyautoplace 22: Searching for D51 module
+17:39:27 keyautoplace 46: Setting D51 module position: (303923750, 94705000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(303923750, 88355000), (301383750, 85815000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(301383750, 85815000), (301383750, 85035000)]
+17:39:27 keyautoplace 22: Searching for K_52 module
+17:39:27 keyautoplace 46: Setting K_52 module position: (325037500, 82150000)
+17:39:27 keyautoplace 22: Searching for D52 module
+17:39:27 keyautoplace 46: Setting D52 module position: (330117500, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(330117500, 78830000), (327577500, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(327577500, 76290000), (327577500, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_53 module
+17:39:27 keyautoplace 46: Setting K_53 module position: (344087500, 82150000)
+17:39:27 keyautoplace 22: Searching for D53 module
+17:39:27 keyautoplace 46: Setting D53 module position: (349167500, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(349167500, 78830000), (346627500, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(346627500, 76290000), (346627500, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_54 module
+17:39:27 keyautoplace 46: Setting K_54 module position: (363137500, 82150000)
+17:39:27 keyautoplace 22: Searching for D54 module
+17:39:27 keyautoplace 46: Setting D54 module position: (368217500, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(368217500, 78830000), (365677500, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(365677500, 76290000), (365677500, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_55 module
+17:39:27 keyautoplace 46: Setting K_55 module position: (386950000, 82150000)
+17:39:27 keyautoplace 22: Searching for D55 module
+17:39:27 keyautoplace 46: Setting D55 module position: (392030000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(392030000, 78830000), (389490000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(389490000, 76290000), (389490000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_56 module
+17:39:27 keyautoplace 46: Setting K_56 module position: (406000000, 82150000)
+17:39:27 keyautoplace 22: Searching for D56 module
+17:39:27 keyautoplace 46: Setting D56 module position: (411080000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(411080000, 78830000), (408540000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(408540000, 76290000), (408540000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_57 module
+17:39:27 keyautoplace 46: Setting K_57 module position: (425050000, 82150000)
+17:39:27 keyautoplace 22: Searching for D57 module
+17:39:27 keyautoplace 46: Setting D57 module position: (430130000, 85180000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(430130000, 78830000), (427590000, 76290000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(427590000, 76290000), (427590000, 75510000)]
+17:39:27 keyautoplace 22: Searching for K_58 module
+17:39:27 keyautoplace 46: Setting K_58 module position: (444100000, 91675000)
+17:39:27 keyautoplace 22: Searching for D58 module
+17:39:27 keyautoplace 46: Setting D58 module position: (449180000, 94705000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(449180000, 88355000), (446640000, 85815000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(446640000, 85815000), (446640000, 85035000)]
+17:39:27 keyautoplace 22: Searching for K_59 module
+17:39:27 keyautoplace 46: Setting K_59 module position: (41668750, 101200000)
+17:39:27 keyautoplace 22: Searching for D59 module
+17:39:27 keyautoplace 46: Setting D59 module position: (46748750, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(46748750, 97880000), (44208750, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(44208750, 95340000), (44208750, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_60 module
+17:39:27 keyautoplace 46: Setting K_60 module position: (67862500, 101200000)
+17:39:27 keyautoplace 22: Searching for D60 module
+17:39:27 keyautoplace 46: Setting D60 module position: (72942500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(72942500, 97880000), (70402500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(70402500, 95340000), (70402500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_61 module
+17:39:27 keyautoplace 46: Setting K_61 module position: (86912500, 101200000)
+17:39:27 keyautoplace 22: Searching for D61 module
+17:39:27 keyautoplace 46: Setting D61 module position: (91992500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(91992500, 97880000), (89452500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(89452500, 95340000), (89452500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_62 module
+17:39:27 keyautoplace 46: Setting K_62 module position: (105962500, 101200000)
+17:39:27 keyautoplace 22: Searching for D62 module
+17:39:27 keyautoplace 46: Setting D62 module position: (111042500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(111042500, 97880000), (108502500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(108502500, 95340000), (108502500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_63 module
+17:39:27 keyautoplace 46: Setting K_63 module position: (125012500, 101200000)
+17:39:27 keyautoplace 22: Searching for D63 module
+17:39:27 keyautoplace 46: Setting D63 module position: (130092500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(130092500, 97880000), (127552500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(127552500, 95340000), (127552500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_64 module
+17:39:27 keyautoplace 46: Setting K_64 module position: (144062500, 101200000)
+17:39:27 keyautoplace 22: Searching for D64 module
+17:39:27 keyautoplace 46: Setting D64 module position: (149142500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(149142500, 97880000), (146602500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(146602500, 95340000), (146602500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_65 module
+17:39:27 keyautoplace 46: Setting K_65 module position: (163112500, 101200000)
+17:39:27 keyautoplace 22: Searching for D65 module
+17:39:27 keyautoplace 46: Setting D65 module position: (168192500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(168192500, 97880000), (165652500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(165652500, 95340000), (165652500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_66 module
+17:39:27 keyautoplace 46: Setting K_66 module position: (182162500, 101200000)
+17:39:27 keyautoplace 22: Searching for D66 module
+17:39:27 keyautoplace 46: Setting D66 module position: (187242500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(187242500, 97880000), (184702500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(184702500, 95340000), (184702500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_67 module
+17:39:27 keyautoplace 46: Setting K_67 module position: (201212500, 101200000)
+17:39:27 keyautoplace 22: Searching for D67 module
+17:39:27 keyautoplace 46: Setting D67 module position: (206292500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(206292500, 97880000), (203752500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(203752500, 95340000), (203752500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_68 module
+17:39:27 keyautoplace 46: Setting K_68 module position: (220262500, 101200000)
+17:39:27 keyautoplace 22: Searching for D68 module
+17:39:27 keyautoplace 46: Setting D68 module position: (225342500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(225342500, 97880000), (222802500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(222802500, 95340000), (222802500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_69 module
+17:39:27 keyautoplace 46: Setting K_69 module position: (239312500, 101200000)
+17:39:27 keyautoplace 22: Searching for D69 module
+17:39:27 keyautoplace 46: Setting D69 module position: (244392500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(244392500, 97880000), (241852500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(241852500, 95340000), (241852500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_70 module
+17:39:27 keyautoplace 46: Setting K_70 module position: (258362500, 101200000)
+17:39:27 keyautoplace 22: Searching for D70 module
+17:39:27 keyautoplace 46: Setting D70 module position: (263442500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(263442500, 97880000), (260902500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(260902500, 95340000), (260902500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_71 module
+17:39:27 keyautoplace 46: Setting K_71 module position: (277412500, 101200000)
+17:39:27 keyautoplace 22: Searching for D71 module
+17:39:27 keyautoplace 46: Setting D71 module position: (282492500, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(282492500, 97880000), (279952500, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(279952500, 95340000), (279952500, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_72 module
+17:39:27 keyautoplace 46: Setting K_72 module position: (386950000, 101200000)
+17:39:27 keyautoplace 22: Searching for D72 module
+17:39:27 keyautoplace 46: Setting D72 module position: (392030000, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(392030000, 97880000), (389490000, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(389490000, 95340000), (389490000, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_73 module
+17:39:27 keyautoplace 46: Setting K_73 module position: (406000000, 101200000)
+17:39:27 keyautoplace 22: Searching for D73 module
+17:39:27 keyautoplace 46: Setting D73 module position: (411080000, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(411080000, 97880000), (408540000, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(408540000, 95340000), (408540000, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_74 module
+17:39:27 keyautoplace 46: Setting K_74 module position: (425050000, 101200000)
+17:39:27 keyautoplace 22: Searching for D74 module
+17:39:27 keyautoplace 46: Setting D74 module position: (430130000, 104230000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(430130000, 97880000), (427590000, 95340000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(427590000, 95340000), (427590000, 94560000)]
+17:39:27 keyautoplace 22: Searching for K_75 module
+17:39:27 keyautoplace 46: Setting K_75 module position: (36906250, 120250000)
+17:39:27 keyautoplace 22: Searching for D75 module
+17:39:27 keyautoplace 46: Setting D75 module position: (41986250, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(41986250, 116930000), (39446250, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(39446250, 114390000), (39446250, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_76 module
+17:39:27 keyautoplace 46: Setting K_76 module position: (58337500, 120250000)
+17:39:27 keyautoplace 22: Searching for D76 module
+17:39:27 keyautoplace 46: Setting D76 module position: (63417500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(63417500, 116930000), (60877500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(60877500, 114390000), (60877500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_77 module
+17:39:27 keyautoplace 46: Setting K_77 module position: (77387500, 120250000)
+17:39:27 keyautoplace 22: Searching for D77 module
+17:39:27 keyautoplace 46: Setting D77 module position: (82467500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(82467500, 116930000), (79927500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(79927500, 114390000), (79927500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_78 module
+17:39:27 keyautoplace 46: Setting K_78 module position: (96437500, 120250000)
+17:39:27 keyautoplace 22: Searching for D78 module
+17:39:27 keyautoplace 46: Setting D78 module position: (101517500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(101517500, 116930000), (98977500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(98977500, 114390000), (98977500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_79 module
+17:39:27 keyautoplace 46: Setting K_79 module position: (115487500, 120250000)
+17:39:27 keyautoplace 22: Searching for D79 module
+17:39:27 keyautoplace 46: Setting D79 module position: (120567500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(120567500, 116930000), (118027500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(118027500, 114390000), (118027500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_80 module
+17:39:27 keyautoplace 46: Setting K_80 module position: (134537500, 120250000)
+17:39:27 keyautoplace 22: Searching for D80 module
+17:39:27 keyautoplace 46: Setting D80 module position: (139617500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(139617500, 116930000), (137077500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(137077500, 114390000), (137077500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_81 module
+17:39:27 keyautoplace 46: Setting K_81 module position: (153587500, 120250000)
+17:39:27 keyautoplace 22: Searching for D81 module
+17:39:27 keyautoplace 46: Setting D81 module position: (158667500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(158667500, 116930000), (156127500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(156127500, 114390000), (156127500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_82 module
+17:39:27 keyautoplace 46: Setting K_82 module position: (172637500, 120250000)
+17:39:27 keyautoplace 22: Searching for D82 module
+17:39:27 keyautoplace 46: Setting D82 module position: (177717500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(177717500, 116930000), (175177500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(175177500, 114390000), (175177500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_83 module
+17:39:27 keyautoplace 46: Setting K_83 module position: (191687500, 120250000)
+17:39:27 keyautoplace 22: Searching for D83 module
+17:39:27 keyautoplace 46: Setting D83 module position: (196767500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(196767500, 116930000), (194227500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(194227500, 114390000), (194227500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_84 module
+17:39:27 keyautoplace 46: Setting K_84 module position: (210737500, 120250000)
+17:39:27 keyautoplace 22: Searching for D84 module
+17:39:27 keyautoplace 46: Setting D84 module position: (215817500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(215817500, 116930000), (213277500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(213277500, 114390000), (213277500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_85 module
+17:39:27 keyautoplace 46: Setting K_85 module position: (229787500, 120250000)
+17:39:27 keyautoplace 22: Searching for D85 module
+17:39:27 keyautoplace 46: Setting D85 module position: (234867500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(234867500, 116930000), (232327500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(232327500, 114390000), (232327500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_86 module
+17:39:27 keyautoplace 46: Setting K_86 module position: (248837500, 120250000)
+17:39:27 keyautoplace 22: Searching for D86 module
+17:39:27 keyautoplace 46: Setting D86 module position: (253917500, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(253917500, 116930000), (251377500, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(251377500, 114390000), (251377500, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_87 module
+17:39:27 keyautoplace 46: Setting K_87 module position: (284556250, 120250000)
+17:39:27 keyautoplace 22: Searching for D87 module
+17:39:27 keyautoplace 46: Setting D87 module position: (289636250, 123280000)
+17:39:27 keyautoplace 146: Switch pad without recognized net name found.
+17:39:27 keyautoplace 155: Switch pad without recognized net name found.
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(289636250, 116930000), (287096250, 114390000)]
+17:39:27 keyautoplace 62: Adding track segment (B.Cu): [(287096250, 114390000), (287096250, 113610000)]
+17:39:27 keyautoplace 22: Searching for K_88 module
+17:39:27 keyautoplace 25: Module not found
