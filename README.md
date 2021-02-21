@@ -2,12 +2,14 @@
  A custom mechanical keyboard inspired by the CFTKB Mysterium
 
 ### What Im currently doing
-* Taking a momentary break from this project.
+* getting ready to make a first version PCB and send out to a couple people who were interested.
+
 
 
 ### What is to do?
-* Figure out locations for TP1, TP2, TP3 and wire those + Vbus and GND to the usb port.
-* Make pretty. (rounded corners, few bits of text, etc)
+* Design a case/housing
+* figure out screw sizes and holes locations for mounting acrylic and the board to a housing.
+* more pretty things
 
 
 ### Why a RPI Pico?

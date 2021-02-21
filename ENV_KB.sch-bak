@@ -2980,13 +2980,13 @@ USBGND
 Text GLabel 10800 9300 2    50   Input ~ 0
 USBGND
 Text GLabel 12950 8900 1    50   Input ~ 0
-USBDM
+USB2_N
 Text GLabel 10500 9000 1    50   Input ~ 0
-USBDM
+USB2_N
 Text GLabel 10400 9000 1    50   Input ~ 0
-USBDP
+USB2_P
 Text GLabel 13100 8900 1    50   Input ~ 0
-USBDP
+USB2_P
 Text GLabel 13650 9100 2    50   Input ~ 0
 USBVBUS
 Text GLabel 10200 9000 1    50   Input ~ 0

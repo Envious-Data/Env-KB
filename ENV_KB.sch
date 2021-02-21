@@ -2857,21 +2857,21 @@ F 3 "" H 4050 7250 50  0001 C CNN
 	1    4350 7300
 	0    -1   -1   0   
 $EndComp
-Text GLabel 13750 10500 2    50   Input ~ 0
+Text GLabel 13750 9700 2    50   Input ~ 0
 row6
-Text GLabel 13750 10400 2    50   Input ~ 0
-row5
 Text GLabel 13750 9900 2    50   Input ~ 0
+row5
+Text GLabel 13750 10400 2    50   Input ~ 0
 row2
-Text GLabel 13750 10000 2    50   Input ~ 0
-row3
 Text GLabel 13750 10200 2    50   Input ~ 0
+row3
+Text GLabel 13750 10000 2    50   Input ~ 0
 row4
 Text GLabel 13750 10600 2    50   Input ~ 0
 col14
 Text GLabel 13750 10700 2    50   Input ~ 0
 col15
-Text GLabel 13750 9700 2    50   Input ~ 0
+Text GLabel 13750 10500 2    50   Input ~ 0
 row0
 Wire Wire Line
 	13650 9700 13750 9700
@@ -2980,13 +2980,13 @@ USBGND
 Text GLabel 10800 9300 2    50   Input ~ 0
 USBGND
 Text GLabel 12950 8900 1    50   Input ~ 0
-USBDM
+USB2_N
 Text GLabel 10500 9000 1    50   Input ~ 0
-USBDM
+USB2_N
 Text GLabel 10400 9000 1    50   Input ~ 0
-USBDP
+USB2_P
 Text GLabel 13100 8900 1    50   Input ~ 0
-USBDP
+USB2_P
 Text GLabel 13650 9100 2    50   Input ~ 0
 USBVBUS
 Text GLabel 10200 9000 1    50   Input ~ 0
