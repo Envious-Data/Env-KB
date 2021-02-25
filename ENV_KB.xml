@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:\Users\Envy\Documents\GitHub\Env-KB\ENV_KB.sch</source>
-    <date>25/02/2021 22:02:31</date>
+    <date>25/02/2021 23:13:54</date>
     <tool>Eeschema (5.1.9)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1253,7 +1253,7 @@
     </comp>
     <comp ref="RPI1">
       <value>Pico</value>
-      <footprint>MCU_RaspberryPi_and_Boards.pretty:RPi_Pico_SMD_TH</footprint>
+      <footprint>EM_Extras:RPi_Pico_SMD_TH</footprint>
       <libsource lib="MCU_RaspberryPi_and_Boards" part="Pico" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>604D8043</tstamp>
@@ -1275,9 +1275,15 @@
       <tstamp>6066AF89</tstamp>
     </comp>
     <comp ref="J1">
-      <value>USB_C_Receptacle</value>
-      <footprint>Type-C-Bits:HRO_TYPE-C-31-M-12</footprint>
-      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <value>TYPE-C-31-M-12</value>
+      <footprint>HRO_TYPE-C-31-M-12</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="MANUFACTURER">HRO Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.31mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
       <libsource lib="Type-C-Lib" part="TYPE-C-31-M-12" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>607F5ECC</tstamp>
