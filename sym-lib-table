@@ -6,4 +6,5 @@
   (lib (name PersonalLogo)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/PersonalLogo.lib)(options "")(descr ""))
   (lib (name USB4125-GF-A-REVA)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/USB4125-GF-A_REVA.lib)(options "")(descr ""))
   (lib (name keyboard_parts)(type Legacy)(uri C:/Users/Envy/Downloads/layout/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name Type-C-Lib)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/USB-EXTRAS/TYPE-C-31-M-12.lib)(options "")(descr ""))
 )

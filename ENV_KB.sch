@@ -2965,30 +2965,90 @@ col17
 Text GLabel 13750 10900 2    50   Input ~ 0
 col16
 Text GLabel 12800 8900 1    50   Input ~ 0
-USBGND
+GND
 Text GLabel 12950 8900 1    50   Input ~ 0
 USB2_N
-Text GLabel 9500 9550 2    50   Input ~ 0
+Text GLabel 8450 8850 0    50   Input ~ 0
 USB2_N
-Text GLabel 9500 9750 2    50   Input ~ 0
+Text GLabel 9850 8850 2    50   Input ~ 0
 USB2_P
 Text GLabel 13100 8900 1    50   Input ~ 0
 USB2_P
 Text GLabel 13650 9100 2    50   Input ~ 0
 USBVBUS
-Text GLabel 8900 10550 3    50   Input ~ 0
-USBGND
-Text GLabel 9500 9050 2    50   Input ~ 0
+Text GLabel 9850 8450 2    50   Input ~ 0
 USBVBUS
+Text GLabel 10050 8950 2    50   Input ~ 0
+GND
+Text GLabel 12150 9300 0    50   Input ~ 0
+GND
+Text GLabel 12150 9800 0    50   Input ~ 0
+GND
+Text GLabel 12150 10300 0    50   Input ~ 0
+GND
+Text GLabel 12150 10800 0    50   Input ~ 0
+GND
+Text GLabel 13750 10800 2    50   Input ~ 0
+GND
+Text GLabel 13750 10300 2    50   Input ~ 0
+GND
+Text GLabel 13750 9300 2    50   Input ~ 0
+GND
+Wire Wire Line
+	13650 9300 13750 9300
+Wire Wire Line
+	12250 9300 12150 9300
+Wire Wire Line
+	12150 9800 12250 9800
+Wire Wire Line
+	12150 10300 12250 10300
+Wire Wire Line
+	12150 10800 12250 10800
+Wire Wire Line
+	13650 10800 13750 10800
+Wire Wire Line
+	13650 10300 13750 10300
 $Comp
-L Connector:USB_C_Plug_USB2.0 P1
-U 1 1 6035DC13
-P 8900 9650
-F 0 "P1" H 9007 10517 50  0000 C CNN
-F 1 "USB_C_Plug_USB2.0" H 9007 10426 50  0000 C CNN
-F 2 "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 9050 9650 50  0001 C CNN
-F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 9050 9650 50  0001 C CNN
-	1    8900 9650
+L Device:R_Small RESISTOR1
+U 1 1 606333E5
+P 9950 8950
+F 0 "RESISTOR1" V 9754 8950 39  0001 C CNN
+F 1 "5.1kohm" V 9845 8950 30  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 9950 8950 50  0001 C CNN
+F 3 "~" H 9950 8950 50  0001 C CNN
+	1    9950 8950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small RESISTOR2
+U 1 1 6066AF89
+P 8350 8650
+F 0 "RESISTOR2" V 8154 8650 39  0001 C CNN
+F 1 "5.1kohm" V 8245 8650 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 8350 8650 50  0001 C CNN
+F 3 "~" H 8350 8650 50  0001 C CNN
+	1    8350 8650
+	0    -1   -1   0   
+$EndComp
+Text GLabel 8250 8650 0    50   Input ~ 0
+GND
+Text GLabel 9850 9150 2    50   Input ~ 0
+GND
+Text GLabel 9850 9250 2    50   Input ~ 0
+GND
+$Comp
+L Type-C-Lib:TYPE-C-31-M-12 J1
+U 1 1 607F5ECC
+P 9150 8850
+F 0 "J1" H 9150 9517 50  0000 C CNN
+F 1 "USB_C_Receptacle" H 9150 9426 50  0000 C CNN
+F 2 "Type-C-Bits:HRO_TYPE-C-31-M-12" H 9300 8850 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 9300 8850 50  0001 C CNN
+	1    9150 8850
 	1    0    0    -1  
 $EndComp
+Text GLabel 9850 8750 2    50   Input ~ 0
+USB2_N
+Text GLabel 8450 8750 0    50   Input ~ 0
+USB2_P
 $EndSCHEMATC
