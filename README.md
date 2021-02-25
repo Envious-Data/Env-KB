@@ -2,7 +2,7 @@
  A custom mechanical keyboard inspired by the CFTKB Mysterium
 
 ### What Im currently doing
-* getting ready to make a first version PCB and send out to a couple people who were interested.
+* attempting to finalize everything so I can have JLCPCB make a first version.
 
 
 
@@ -14,10 +14,11 @@
 
 ### Why a RPI Pico?
 uh well why not, I think it would be a nice example for people to use as a example since python is surprizingly simple.
-Ive made sure to leave GPIO 0 and 1 empty incase someone wants to add something like a I2C OLED or something of the sorts.
+Ive made sure to leave GPIO 0 and 1 empty incase someone wants to add something like a I2C OLED or something of the sorts since we'll be using circuitpython.
+And to add ive already tested everything needed so all I need to do is have a PCB made and see if all works as expected once I adjust the row and column pins on the MCU.
 
 ### ISO only?
-for now I guess, its upto someone else if they want a ANSI version but I like the idea of adding another ISO custom KB to the market.
+Yep but eventually ill add support for different width and spacing bottom row, not sure if ill personally make a ansi version since im just learning this stuff and same goes for RGB, im not sure if I personally want to bother with that.
 
 ### Deviations!
 Im not sure what to think about the base/backing place that the mysterium has though it does its job, For now I shall mimick its design though ive never been fond of philips head so if its easily possible to get my hands on robertson or allen head M2 screws (probably going to be allen).
