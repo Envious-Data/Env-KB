@@ -3036,13 +3036,43 @@ Text GLabel 9850 9150 2    50   Input ~ 0
 GND
 Text GLabel 9850 9250 2    50   Input ~ 0
 GND
+Text GLabel 9850 8750 2    50   Input ~ 0
+USB2_N
+Text GLabel 8450 8750 0    50   Input ~ 0
+USB2_P
+$Comp
+L Device:LED PowerLED1
+U 1 1 6043F14D
+P 8300 9950
+F 0 "PowerLED1" H 8293 10167 50  0001 C CNN
+F 1 "Green Power Led" H 8300 10050 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric" H 8300 9950 50  0001 C CNN
+F 3 "~" H 8300 9950 50  0001 C CNN
+	1    8300 9950
+	1    0    0    -1  
+$EndComp
+Text GLabel 8150 9950 0    50   Input ~ 0
+GND
+Text GLabel 8650 9950 2    50   Input ~ 0
+USBVBUS
+$Comp
+L Device:R_Small PowerLedResistor1
+U 1 1 604A80B1
+P 8550 9950
+F 0 "PowerLedResistor1" V 8650 10200 50  0000 C CNN
+F 1 "1K Resistor" V 8700 10000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 8550 9950 50  0001 C CNN
+F 3 "~" H 8550 9950 50  0001 C CNN
+	1    8550 9950
+	0    1    1    0   
+$EndComp
 $Comp
 L Type-C-Lib:TYPE-C-31-M-12 J1
 U 1 1 607F5ECC
 P 9150 8850
 F 0 "J1" H 9150 9517 50  0000 C CNN
 F 1 "TYPE-C-31-M-12" H 9150 9426 50  0000 C CNN
-F 2 "HRO_TYPE-C-31-M-12" H 9150 8250 50  0000 C CNN
+F 2 "EM_Extras:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 9150 8250 50  0000 C CNN
 F 3 "~" H 9300 8850 50  0001 C CNN
 F 4 "HRO Electronics" H 9150 8850 50  0001 C CNN "MANUFACTURER"
 F 5 "3.31mm" H 9150 8850 50  0001 C CNN "MAXIMUM_PACKAGE_HEIGHT"
@@ -3051,8 +3081,31 @@ F 7 "Manufacturer Recommendations" H 9150 8850 50  0001 C CNN "STANDARD"
 	1    9150 8850
 	1    0    0    -1  
 $EndComp
-Text GLabel 9850 8750 2    50   Input ~ 0
-USB2_N
-Text GLabel 8450 8750 0    50   Input ~ 0
-USB2_P
+Text GLabel 9850 9350 2    50   Input ~ 0
+GND
+$Comp
+L Connector_Generic:Conn_01x04 I2CHeader1
+U 1 1 605CD72C
+P 13550 8250
+F 0 "I2CHeader1" H 13630 8242 50  0000 L CNN
+F 1 "Conn_01x04" H 13630 8151 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 13550 8250 50  0001 C CNN
+F 3 "~" H 13550 8250 50  0001 C CNN
+	1    13550 8250
+	-1   0    0    1   
+$EndComp
+Text GLabel 12250 9100 0    50   Input ~ 0
+I2CSDA
+Text GLabel 12250 9200 0    50   Input ~ 0
+I2CSCL
+Text GLabel 13650 9500 2    50   Input ~ 0
+3.3V
+Text GLabel 13750 8050 2    50   Input ~ 0
+I2CSDA
+Text GLabel 13750 8150 2    50   Input ~ 0
+I2CSCL
+Text GLabel 13750 8350 2    50   Input ~ 0
+GND
+Text GLabel 13750 8250 2    50   Input ~ 0
+3.3V
 $EndSCHEMATC
