@@ -1,7 +1,7 @@
 # Env-KB
  A custom mechanical keyboard inspired by the CFTKB Mysterium
 
-![Front](KBFront.jpg?raw=true "Front of PCB")
+![Front](KBFront.png?raw=true "Front of PCB")
 
 ### What is to do?
 * Design a case/housing
