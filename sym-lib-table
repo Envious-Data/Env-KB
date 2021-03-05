@@ -7,4 +7,5 @@
   (lib (name PersonalLogo)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/PersonalLogo.lib)(options "")(descr ""))
   (lib (name pico_rp2040)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/pico_rp2040.lib)(options "")(descr ""))
   (lib (name Type-C-Lib)(type Legacy)(uri ${KIPRJMOD}/USB-EXTRAS/TYPE-C-31-M-12.lib)(options "")(descr ""))
+  (lib (name Type-C-fix)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/Type-C-fix.lib)(options "")(descr ""))
 )
