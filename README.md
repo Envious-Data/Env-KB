@@ -1,15 +1,13 @@
 # Env-KB
  A custom mechanical keyboard inspired by the CFTKB Mysterium
 
-### What Im currently doing
-* attempting to finalize everything so I can have JLCPCB make a first version.
-
-
+![Front](KBFront.jpg?raw=true "Front of PCB")
 
 ### What is to do?
 * Design a case/housing
 * figure out screw sizes and holes locations for mounting acrylic and the board to a housing.
 * more pretty things
+* you get the idea right?
 
 
 ### Why a RPI Pico?
