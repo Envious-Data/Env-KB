@@ -4,10 +4,10 @@ EELAYER END
 $Descr User 19685 11811
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "EnvKB"
+Date "2021-03-08"
+Rev "Rev.B"
+Comp "Envious Media"
 Comment1 ""
 Comment2 ""
 Comment3 ""
