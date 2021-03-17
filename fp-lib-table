@@ -4,4 +4,5 @@
   (lib (name "CFTKB Bits")(type KiCad)(uri ${KIPRJMOD}/Footprint_library/cftkb.pretty)(options "")(descr ""))
   (lib (name "RPI Bits")(type KiCad)(uri ${KIPRJMOD}/Footprint_library/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/MX_Only.pretty)(options "")(descr ""))
+  (lib (name MX_only)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/MX_Only.pretty)(options "")(descr ""))
 )

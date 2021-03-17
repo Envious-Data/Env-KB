@@ -1,6 +1,6 @@
 (sym_lib_table
-  (lib (name USB4125-GF-A-REVA)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/USB4125-GF-A_REVA.lib)(options "")(descr ""))
-  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/Envy/Downloads/layout/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name USB4125-GF-A-REVA)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/USB4125-GF-A_REVA.lib)(options "")(descr "")(disabled))
+  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/Envy/Downloads/layout/keyboard_parts.lib)(options "")(descr "")(disabled))
   (lib (name Diode)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/Diode.lib)(options "")(descr ""))
   (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/MCU_RaspberryPi_and_Boards.lib)(options "")(descr ""))
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/MX_Alps_Hybrid.lib)(options "")(descr ""))
