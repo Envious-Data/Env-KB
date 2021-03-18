@@ -3129,14 +3129,7 @@ Text GLabel 22050 9550 0    50   Input ~ 0
 GND
 Wire Wire Line
 	22050 9550 22150 9550
-Wire Wire Line
-	21450 9050 21450 9150
-Connection ~ 21450 9150
-Wire Wire Line
-	21450 9150 21450 9250
-Wire Wire Line
-	21450 9150 21350 9150
-Text GLabel 21350 9150 0    50   Input ~ 0
+Text GLabel 20650 9150 0    50   Input ~ 0
 GND
 Text GLabel 23000 8550 2    50   Input ~ 0
 col18
@@ -3722,7 +3715,7 @@ col19
 Text GLabel 23700 550  0    50   Input ~ 0
 col20
 Text GLabel 24700 550  0    50   Input ~ 0
-col20
+col21
 Wire Wire Line
 	24800 3400 24800 5400
 Wire Wire Line
@@ -3829,33 +3822,6 @@ Wire Wire Line
 	21300 8550 21300 8450
 Wire Wire Line
 	21300 8450 21150 8450
-$Comp
-L Connector_Generic:Conn_01x08 J3
-U 1 1 60DDE9A5
-P 23200 7950
-F 0 "J3" H 23280 7942 50  0000 L CNN
-F 1 "Conn_01x08" H 23280 7851 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 23200 7950 50  0001 C CNN
-F 3 "~" H 23200 7950 50  0001 C CNN
-	1    23200 7950
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	23000 7650 22850 7650
-Wire Wire Line
-	23000 7750 22850 7750
-Wire Wire Line
-	22850 7850 23000 7850
-Wire Wire Line
-	22850 7950 23000 7950
-Wire Wire Line
-	22850 8050 23000 8050
-Wire Wire Line
-	22850 8150 23000 8150
-Wire Wire Line
-	22850 8250 23000 8250
-Wire Wire Line
-	22850 8350 23000 8350
 Wire Wire Line
 	21250 8350 21250 8250
 Wire Wire Line
@@ -3870,4 +3836,99 @@ Wire Wire Line
 	21350 8000 21150 8000
 Wire Wire Line
 	21150 8000 21150 8350
+$Comp
+L Jumper:SolderJumper_2_Bridged JP1
+U 1 1 605A7E43
+P 21100 9050
+F 0 "JP1" H 21100 9255 50  0000 C CNN
+F 1 "Adress Pin A2" H 21100 9164 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 21100 9050 50  0001 C CNN
+F 3 "~" H 21100 9050 50  0001 C CNN
+	1    21100 9050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:SolderJumper_2_Bridged JP2
+U 1 1 605A8E6C
+P 21100 9150
+F 0 "JP2" H 20000 9150 50  0000 C CNN
+F 1 "ADress Pin A1" H 20050 9050 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 21100 9150 50  0001 C CNN
+F 3 "~" H 21100 9150 50  0001 C CNN
+	1    21100 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:SolderJumper_2_Bridged JP3
+U 1 1 605A94CB
+P 21100 9250
+F 0 "JP3" H 20800 9050 50  0000 C CNN
+F 1 "Adress Pin A0" H 20800 8950 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 21100 9250 50  0001 C CNN
+F 3 "~" H 21100 9250 50  0001 C CNN
+	1    21100 9250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	20950 9050 20750 9050
+Wire Wire Line
+	20750 9050 20750 9150
+Wire Wire Line
+	20750 9150 20950 9150
+Wire Wire Line
+	20950 9250 20750 9250
+Wire Wire Line
+	20750 9250 20750 9150
+Connection ~ 20750 9150
+Wire Wire Line
+	21450 9250 21250 9250
+Wire Wire Line
+	21450 9150 21250 9150
+Wire Wire Line
+	21250 9050 21450 9050
+Wire Wire Line
+	20750 9150 20650 9150
+$Comp
+L Device:R R1
+U 1 1 607E1D31
+P 19400 8050
+F 0 "R1" V 19193 8050 50  0000 C CNN
+F 1 "R" V 19284 8050 50  0000 C CNN
+F 2 "CFTKB Bits:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 19330 8050 50  0001 C CNN
+F 3 "~" H 19400 8050 50  0001 C CNN
+	1    19400 8050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 607E2C73
+P 19400 8400
+F 0 "R2" V 19193 8400 50  0000 C CNN
+F 1 "R" V 19284 8400 50  0000 C CNN
+F 2 "CFTKB Bits:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 19330 8400 50  0001 C CNN
+F 3 "~" H 19400 8400 50  0001 C CNN
+	1    19400 8400
+	0    1    1    0   
+$EndComp
+Text GLabel 19700 8050 2    50   Input ~ 0
+I2CSCL
+Text GLabel 19700 8400 2    50   Input ~ 0
+I2CSDA
+Wire Wire Line
+	19700 8050 19550 8050
+Wire Wire Line
+	19700 8400 19550 8400
+Wire Wire Line
+	19250 8050 19250 8400
+Wire Wire Line
+	18950 8400 19250 8400
+Connection ~ 19250 8400
+Text GLabel 18950 8400 0    50   Input ~ 0
+3.3V
+Text GLabel 23000 7450 2    50   Input ~ 0
+col21
+Wire Wire Line
+	23000 7450 22850 7450
+Wire Wire Line
+	22850 7450 22850 7650
 $EndSCHEMATC
