@@ -3723,14 +3723,6 @@ Wire Wire Line
 	22900 1650 22800 1650
 Wire Wire Line
 	19450 4150 19450 4200
-Text GLabel 17800 10100 2    50   Input ~ 0
-row10
-Text GLabel 17800 10200 2    50   Input ~ 0
-row9
-Text GLabel 17800 10400 2    50   Input ~ 0
-row7
-Text GLabel 17800 10300 2    50   Input ~ 0
-row8
 Wire Wire Line
 	17800 10200 17650 10200
 Wire Wire Line
@@ -3741,8 +3733,6 @@ Wire Wire Line
 	17800 10100 17650 10100
 Wire Wire Line
 	17650 10000 17800 10000
-Text GLabel 17800 10000 2    50   Input ~ 0
-row11
 $Comp
 L Interface_Expansion:MCP23017_SP U?
 U 1 1 609D1365
@@ -3781,20 +3771,6 @@ Wire Wire Line
 	16100 9700 16100 9600
 Wire Wire Line
 	16100 9600 15950 9600
-Wire Wire Line
-	16050 9500 16050 9400
-Wire Wire Line
-	16050 9400 15950 9400
-Wire Wire Line
-	16250 9500 16050 9500
-Wire Wire Line
-	16250 9400 16150 9400
-Wire Wire Line
-	16150 9400 16150 9150
-Wire Wire Line
-	16150 9150 15950 9150
-Wire Wire Line
-	15950 9150 15950 9400
 $Comp
 L Jumper:SolderJumper_2_Bridged JP1
 U 1 1 605A7E43
@@ -3884,12 +3860,8 @@ Wire Wire Line
 Connection ~ 19200 9500
 Text GLabel 18900 9500 0    50   Input ~ 0
 3.3V
-Text GLabel 17800 8600 2    50   Input ~ 0
+Text GLabel 17800 10000 2    50   Input ~ 0
 col21
-Wire Wire Line
-	17800 8600 17650 8600
-Wire Wire Line
-	17650 8600 17650 8800
 Connection ~ 19450 3400
 Wire Wire Line
 	20450 7400 18350 7400
@@ -3909,7 +3881,6 @@ Connection ~ 20900 2950
 Wire Wire Line
 	19900 1650 19900 2950
 Connection ~ 19900 2950
-Connection ~ 15950 9400
 Connection ~ 17350 6400
 Wire Wire Line
 	17350 6400 19450 6400
@@ -3931,4 +3902,8 @@ Connection ~ 18350 4400
 Wire Wire Line
 	18350 3400 19450 3400
 Connection ~ 18350 3400
+Wire Wire Line
+	15950 9400 16250 9400
+Wire Wire Line
+	15950 9500 16250 9500
 $EndSCHEMATC
