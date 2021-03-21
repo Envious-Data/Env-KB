@@ -5,3 +5,4 @@
 * ~~opt for pads on the addresing pins of the MCP23017~~
 * ~~lay down New EDGE cut~~
 * figure out supporting stucture
+* add Silkscreen for Leds for Num, Cabs and Scroll Lock
