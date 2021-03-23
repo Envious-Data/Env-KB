@@ -3168,4 +3168,26 @@ F 3 "~" H 6600 9650 50  0001 C CNN
 	1    6600 9650
 	1    0    0    -1  
 $EndComp
+Text GLabel 13650 10100 2    50   Input ~ 0
+Resetbtn
+Text GLabel 9050 10500 2    50   Input ~ 0
+GND
+Text GLabel 8050 10900 0    50   Input ~ 0
+Resetbtn
+$Comp
+L B3F-1000:B3F-1000 SW-RST1
+U 1 1 605FBFA6
+P 8550 10700
+F 0 "SW-RST1" H 8550 11167 50  0000 C CNN
+F 1 "B3F-1000" H 8550 11076 50  0000 C CNN
+F 2 "EM_Extras:SW_B3F-1000" H 8550 10700 50  0001 L BNN
+F 3 "" H 8550 10700 50  0001 L BNN
+F 4 "Omron" H 8550 10700 50  0001 L BNN "MANUFACTURER"
+	1    8550 10700
+	1    0    0    -1  
+$EndComp
+Text GLabel 8050 10500 0    50   Input ~ 0
+GND
+Text GLabel 9050 10900 2    50   Input ~ 0
+Resetbtn
 $EndSCHEMATC

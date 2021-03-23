@@ -6,4 +6,5 @@
   (lib (name PersonalLogo)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/PersonalLogo.lib)(options "")(descr ""))
   (lib (name Type-C-Lib)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/USB-EXTRAS/TYPE-C-31-M-12.lib)(options "")(descr ""))
   (lib (name Type-C-fix)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/Type-C-fix.lib)(options "")(descr ""))
+  (lib (name B3F-1000)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/Schematic_Library/B3F-1000.lib)(options "")(descr ""))
 )
