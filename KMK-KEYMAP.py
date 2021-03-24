@@ -13,7 +13,7 @@ envkb.row_pins = (board.GP20, board.GP21, board.GP22, board.GP26, board.GP27, bo
 
 envkb.diode_orientation = DiodeOrientation.COLUMNS
 
-envkb.debug_enabled = True
+envkb.debug_enabled = False
 nokey = KC.NO
 
 envkb.keymap = [
@@ -29,5 +29,3 @@ envkb.keymap = [
 
 if __name__ == '__main__':
     envkb.go(hid_type=HIDModes.USB) #Wired USB enable
-    
-print("Loaded")
