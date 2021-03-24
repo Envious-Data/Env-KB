@@ -4,11 +4,8 @@
 ![Front](KBFront.png?raw=true "Front of PCB")
 
 ### What is to do?
-* Design a case/housing
-* figure out screw sizes and holes locations for mounting acrylic and the board to a housing.
-* more pretty things
-* you get the idea right?
-
+* Right now for the first 5 PCBs I have, ive ordered some wood to make a backing plate and im looking around for some cheap foam I can use for damping.
+* For Rev 1 onward I have a decent idea with what I want to do and at some point they should all be generally forward compatible once major changes stop.
 
 ### Why a RPI Pico?
 uh well why not, I think it would be a nice example for people to use as a example since python is surprizingly simple.
