@@ -3,7 +3,7 @@
 
 ![Front](KBFront.png?raw=true "Front of PCB")
 
-[Build Guide and Parts List](../blob/main/guide-and-parts.pdf)
+[Build Guide and Parts List](guide-and-parts.pdf)
 
 ### What is to do?
 * Right now for the first 5 PCBs I have, ive ordered some wood to make a backing plate and im looking around for some cheap foam I can use for damping.
