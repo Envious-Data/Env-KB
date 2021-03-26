@@ -19,3 +19,9 @@ Yep but eventually ill add support for different width and spacing bottom row, n
 
 ### Deviations!
 Im not sure what to think about the base/backing place that the mysterium has though it does its job, For now I shall mimick its design though ive never been fond of philips head so if its easily possible to get my hands on robertson or allen head M2 screws (probably going to be allen).
+
+### Misc bits!
+Feel free to make your own PCBs of this keyboard, if you feel like supporting me you can "Buy me a coffee"
+Paypal: Kel786@msn.com
+
+(Ill publish some gerber files in the future)
