@@ -6,3 +6,4 @@
 * ~~lay down New EDGE cut~~
 * figure out supporting stucture
 * add Silkscreen for Leds for Num, Cabs and Scroll Lock
+* add Silkscreen for Breakout Led header
