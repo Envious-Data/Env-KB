@@ -3264,4 +3264,6 @@ Wire Wire Line
 Wire Wire Line
 	1550 5900 1500 5900
 Connection ~ 1550 5950
+Text Notes 14950 5550 0    50   ~ 0
+This needs double checking
 $EndSCHEMATC
