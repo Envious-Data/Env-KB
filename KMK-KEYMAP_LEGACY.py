@@ -7,15 +7,11 @@ from kmk.matrix import DiodeOrientation
 from kmk.hid import HIDModes
 
 envkb = KMKKeyboard()
-
 envkb.col_pins = (board.GP2, board.GP3, board.GP4, board.GP5, board.GP6, board.GP7, board.GP8, board.GP9, board.GP10, board.GP11, board.GP12, board.GP13, board.GP14, board.GP15, board.GP19, board.GP18, board.GP17, board.GP16)
 envkb.row_pins = (board.GP20, board.GP21, board.GP22, board.GP26, board.GP27, board.GP28)
-
 envkb.diode_orientation = DiodeOrientation.COLUMNS
-
 envkb.debug_enabled = False
 nokey = KC.NO
-
 envkb.keymap = [
     [
         KC.ESC, nokey, KC.F1, KC.F2, KC.F3, KC.F4, nokey, KC.F5, KC.F6, KC.F7, KC.F8, KC.F9, KC.F10, KC.F11, KC.F12, KC.PSCREEN, KC.SCROLLLOCK, KC.PAUSE,
@@ -27,5 +23,12 @@ envkb.keymap = [
     ],
 ]
 
+#Simple thing to enable LED on pi once this script is executed
+import board
+import digitalio
+led = digitalio.DigitalInOut(board.GP25)
+led.direction = digitalio.Direction.OUTPUT
+led.value = True
+#At this point once the LED is enabled the keyboard should be usable
 if __name__ == '__main__':
-    envkb.go(hid_type=HIDModes.USB) #Wired USB enable
+    envkb.go(hid_type=HIDModes.USB) #Wired USB enables
