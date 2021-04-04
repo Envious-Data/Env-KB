@@ -25,3 +25,10 @@ Feel free to make your own PCBs of this keyboard, if you feel like supporting me
 Paypal: Kel786@msn.com
 
 (Ill publish some gerber files in the future)
+
+### Things of handy dandy nature!
+This keyboard makes use of KMKfw and CircuitPython
+https://github.com/KMKfw/kmk_firmware
+https://github.com/adafruit/circuitpython
+
+This keyboard should be compatible with any language layout that is physically the same as ISO UK (ISO-DE for example), Ive also added ANSI support hence the reason the legacy keymap, You should be able to use my keymap on a keyboard of your own design so long as its wiring setup is generally the same, Vertical aligned diodes and row incrementing keys.
