@@ -9,7 +9,7 @@
 * For Rev#1 and onward I would like the option of a case, I think a sandwich type design would be best.
 * I currently dont know how to use CAD software so the above point will either need to be done by someone else or Ill try to figure out some CAD software.
 
-I would like to keep them open source and compatible outside this keyboard because there is a serious lack of TKL things so for example a TKL plate is something I'd like to be open source and avaliable to others.
+I would like to keep as much possible open source and compatible outside this keyboard because there is a serious lack of TKL things so for example a TKL plate is something I'd like to be open source and avaliable to others.
 That said there is a lack of TKL things in the mechanical keyboard market so Im always happy to try and add more ISO and TKL things.
 
 
