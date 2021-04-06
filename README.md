@@ -6,8 +6,12 @@
 [Build Guide and Parts List](guide-and-parts.pdf)
 
 ### What is to do?
-* Right now for the first 5 PCBs I have, ive ordered some wood to make a backing plate and im looking around for some cheap foam I can use for damping.
-* For Rev 1 onward I have a decent idea with what I want to do and at some point they should all be generally forward compatible once major changes stop.
+* For Rev#1 and onward I would like the option of a case, I think a sandwich type design would be best.
+* I currently dont know how to use CAD software so the above point will either need to be done by someone else or Ill try to figure out some CAD software.
+
+I would like to keep them open source and compatible outside this keyboard because there is a serious lack of TKL things so for example a TKL plate is something I'd like to be open source and avaliable to others.
+That said there is a lack of TKL things in the mechanical keyboard market so Im always happy to try and add more ISO and TKL things.
+
 
 ### Why a RPI Pico?
 uh well why not, I think it would be a nice example for people to use as a example since python is surprizingly simple.
@@ -15,10 +19,10 @@ Ive made sure to leave GPIO 0 and 1 empty incase someone wants to add something 
 And to add ive already tested everything needed so all I need to do is have a PCB made and see if all works as expected once I adjust the row and column pins on the MCU.
 
 ### ISO only?
-Yep but eventually ill add support for different width and spacing bottom row, not sure if ill personally make a ansi version since im just learning this stuff and same goes for RGB, im not sure if I personally want to bother with that.
+As of recent commits this keyboard now supports ANSI layout! *yay!*
+This keyboard should be compatible with any language layout that is physically the same as ISO UK (ISO-DE for example)
 
-### Deviations!
-Im not sure what to think about the base/backing place that the mysterium has though it does its job, For now I shall mimick its design though ive never been fond of philips head so if its easily possible to get my hands on robertson or allen head M2 screws (probably going to be allen).
+You should be able to use my keymap on a keyboard of your own design so long as its wiring setup is generally the same, Vertical aligned diodes and row incrementing keys.
 
 ### Misc bits!
 Feel free to make your own PCBs of this keyboard, if you feel like supporting me you can "Buy me a coffee"
@@ -30,5 +34,3 @@ Paypal: Kel786@msn.com
 This keyboard makes use of KMKfw and CircuitPython
 * https://github.com/KMKfw/kmk_firmware
 * https://github.com/adafruit/circuitpython
-
-This keyboard should be compatible with any language layout that is physically the same as ISO UK (ISO-DE for example), Ive also added ANSI support hence the reason the legacy keymap, You should be able to use my keymap on a keyboard of your own design so long as its wiring setup is generally the same, Vertical aligned diodes and row incrementing keys.
