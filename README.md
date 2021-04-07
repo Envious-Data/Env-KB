@@ -1,9 +1,9 @@
 # Env-KB
  A custom mechanical keyboard inspired by the CFTKB Mysterium
 
-![Front](KBFront.png?raw=true "Front of PCB")
+![Front](_docs/KBFront.png?raw=true "Front of PCB")
 
-[Build Guide and Parts List](guide-and-parts.pdf)
+[Build Guide and Parts List](_docs/guide-and-parts.pdf)
 
 ### What is to do?
 * For Rev#1 and onward I would like the option of a case, I think a sandwich type design would be best.
