@@ -4,7 +4,7 @@
 
 be sure to remove code.py and if you need or want to make adjustment to the keymap then edit main.py.
 
-[Custom Circuitpython UF2](https://github.com/Envious-Data/Env-KB/blob/main/_Firmware/Adafruit%CircuitPython%7.0.0-alpha.1-55-gebfe36c9a.uf2) this is a custom circuitpython firmware that has some HID stuff disabled and some things renamed so your raspberry pi pico shows up more like a keyboard and less a Raspberry pi, Do note that Storage mounting is disabled so either flash this after you've uploaded your files or upload them via something like thonny. (The code used to compile this UF2 is unmodified I just used some extra flags to optmize and disable certain features.)
+[Custom Circuitpython UF2](https://github.com/Envious-Data/Env-KB/blob/1862d70bfd2ad17bf55162f39dc7c53abe3e89be/_Firmware/Adafruit%20CircuitPython%207.0.0-alpha.1-55-gebfe36c9a.uf2) this is a custom circuitpython firmware that has some HID stuff disabled and some things renamed so your raspberry pi pico shows up more like a keyboard and less a Raspberry pi, Do note that Storage mounting is disabled so either flash this after you've uploaded your files or upload them via something like thonny. (The code used to compile this UF2 is unmodified I just used some extra flags to optmize and disable certain features.)
 
 In circuitpython 7.0 we should be able to disable extra HID descriptors via a config file but for now as said Ive just compiled a version with these extra HID devices disabled.
 
