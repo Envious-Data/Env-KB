@@ -32,10 +32,26 @@ envkb.keymap = [
         KC.TRNS, KC.TRNS, nokey, KC.TRNS, nokey, nokey, KC.TRNS, nokey, nokey, nokey, KC.TRNS, KC.TRNS, nokey, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,
     ],
 ]
-#I would like to add Calculator launch, file exlporer launch but im not sure how (I did experiment with this briefly. KC.CALC
+
 #Simple thing to enable LED on pi once this script is executed
-import pwmio
-led = pwmio.PWMOut(board.GP25, frequency=120, duty_cycle=5000)
+import digitalio
+led = digitalio.DigitalInOut(board.GP25)
+led.direction = digitalio.Direction.OUTPUT
+led.value = True
 #At this point once the LED is enabled the keyboard should be usable
-if __name__ == '__main__':
-    envkb.go(hid_type=HIDModes.USB) #Wired USB enable
+
+def usbfunc():
+    if __name__ == '__main__':
+        envkb.go(hid_type=HIDModes.USB) #Wired USB enable
+        raise Exception('Something has caused an error.')
+        
+try:
+    usbfunc()
+except Exception as e:
+    import supervisor
+    print(e)
+    led.value = False
+    supervisor.reload()
+
+supervisor.reload()
+#last ditch effor to reset the MCU, if this is being ran then something really is wrong lol
