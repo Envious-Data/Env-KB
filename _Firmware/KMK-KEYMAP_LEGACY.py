@@ -54,4 +54,4 @@ except Exception as e:
     supervisor.reload()
 
 supervisor.reload()
-#last ditch effor to reset the MCU, if this is being ran then something really is wrong lol
+#last ditch effort to reset the MCU, if this is being ran then something really is wrong lol
