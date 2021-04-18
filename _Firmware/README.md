@@ -4,9 +4,8 @@
 
 be sure to remove code.py and if you need or want to make adjustment to the keymap then edit main.py.
 
-Custom Circuitpython UF2, this is a custom circuitpython firmware that has some HID stuff disabled and some things renamed so your raspberry pi pico shows up more like a keyboard and less a Raspberry pi, Do note that Storage mounting is disabled so either flash this after you've uploaded your files or upload them via something like thonny. (The code used to compile this UF2 is unmodified I just used some extra flags to optmize and disable certain features.)
+CircuitPython-KMK, This is a Circuitpython fork that has some HID features disabled, this is a tempoary measure as some features which we could use are not implemented in circuitpython, in 7.0 we'll be able to override USB VID and which USB Descriptors within a config file on the MCU.
 
-In circuitpython 7.0 we should be able to disable extra HID descriptors via a config file but for now as said Ive just compiled a version with these extra HID devices disabled.
 
 If you've designed your own keyboard and it happens to be similar in its schematic you can use my keymap (as an example), I couldnt find a iso or ansi TKL keymap for KMK so there is mine if needed. The keymap also contains a basic example for an aditional layer, the menu/option key has been replaced with a layer 1 modifier.
 
