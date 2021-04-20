@@ -3,6 +3,8 @@
 
 ![Front](_docs/KBFront.png?raw=true "Front of PCB")
 
+![PCB](_Pictures/PCB3.JPG?raw=true "A Rev0 PCB")
+
 [Build Guide and Parts List](_docs/guide-and-parts.pdf)
 
 ### What is to do?
