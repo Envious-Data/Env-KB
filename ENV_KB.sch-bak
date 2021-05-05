@@ -2973,7 +2973,7 @@ Wire Wire Line
 Wire Wire Line
 	13650 10300 13750 10300
 $Comp
-L ENV_KB-rescue:R_Small-Device RESISTOR1
+L Device:R_Small RESISTOR1
 U 1 1 606333E5
 P 9950 8950
 F 0 "RESISTOR1" V 9754 8950 39  0001 C CNN
@@ -2985,7 +2985,7 @@ F 4 "C25905" V 9950 8950 50  0001 C CNN "LSCS Part"
 	0    1    1    0   
 $EndComp
 $Comp
-L ENV_KB-rescue:R_Small-Device RESISTOR0
+L Device:R_Small RESISTOR0
 U 1 1 6066AF89
 P 8350 8650
 F 0 "RESISTOR0" V 8154 8650 39  0001 C CNN
@@ -3007,7 +3007,7 @@ USB2_N
 Text GLabel 8450 8750 0    50   Input ~ 0
 USB2_P
 $Comp
-L ENV_KB-rescue:LED-Device PowerLED0
+L Device:LED PowerLED0
 U 1 1 6043F14D
 P 8300 9950
 F 0 "PowerLED0" H 8293 10167 50  0001 C CNN
@@ -3023,7 +3023,7 @@ GND
 Text GLabel 8650 9950 2    50   Input ~ 0
 USBVBUS
 $Comp
-L ENV_KB-rescue:R_Small-Device PowerLedResistor0
+L Device:R_Small PowerLedResistor0
 U 1 1 604A80B1
 P 8550 9950
 F 0 "PowerLedResistor0" V 8650 10200 50  0000 C CNN
@@ -3053,7 +3053,7 @@ $EndComp
 Text GLabel 9850 9350 2    50   Input ~ 0
 GND
 $Comp
-L ENV_KB-rescue:Conn_01x04-Connector_Generic I2CHeader0
+L Connector_Generic:Conn_01x04 I2CHeader0
 U 1 1 605CD72C
 P 13550 8250
 F 0 "I2CHeader0" H 13630 8242 50  0000 L CNN
@@ -3078,7 +3078,7 @@ GND
 Text GLabel 13750 8250 2    50   Input ~ 0
 3.3V
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H3
+L Mechanical:MountingHole H3
 U 1 1 6058BC08
 P 6600 9450
 F 0 "H3" H 6700 9496 50  0000 L CNN
@@ -3089,7 +3089,7 @@ F 3 "~" H 6600 9450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H2
+L Mechanical:MountingHole H2
 U 1 1 60591F15
 P 6600 9250
 F 0 "H2" H 6700 9296 50  0000 L CNN
@@ -3100,7 +3100,7 @@ F 3 "~" H 6600 9250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H0
+L Mechanical:MountingHole H0
 U 1 1 605938C3
 P 6600 8850
 F 0 "H0" H 6700 8896 50  0000 L CNN
@@ -3111,7 +3111,7 @@ F 3 "~" H 6600 8850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H1
+L Mechanical:MountingHole H1
 U 1 1 605BD366
 P 6600 9050
 F 0 "H1" H 6700 9096 50  0000 L CNN
@@ -3122,7 +3122,7 @@ F 3 "~" H 6600 9050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H4
+L Mechanical:MountingHole H4
 U 1 1 6068A680
 P 6600 9650
 F 0 "H4" H 6700 9696 50  0000 L CNN
@@ -3134,26 +3134,20 @@ F 3 "~" H 6600 9650 50  0001 C CNN
 $EndComp
 Text GLabel 13650 10100 2    50   Input ~ 0
 Resetbtn
-Text GLabel 9050 10500 2    50   Input ~ 0
-GND
-Text GLabel 8050 10900 0    50   Input ~ 0
+Text GLabel 8350 10700 0    50   Input ~ 0
 Resetbtn
 $Comp
-L B3F-1000:B3F-1000 SW-RST0
+L Switch:SW_Push SW-RST0
 U 1 1 605FBFA6
 P 8550 10700
-F 0 "SW-RST0" H 8550 11167 50  0000 C CNN
-F 1 "B3F-1000" H 8550 11076 50  0000 C CNN
-F 2 "EM_Extras:SW_B3F-1000" H 8550 10700 50  0001 L BNN
+F 0 "SW-RST0" H 8550 11100 50  0000 C CNN
+F 1 "Reset Buton" H 8550 10950 50  0000 C CNN
+F 2 "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA" H 8550 10700 50  0001 L BNN
 F 3 "" H 8550 10700 50  0001 L BNN
 F 4 "Omron" H 8550 10700 50  0001 L BNN "MANUFACTURER"
 	1    8550 10700
 	1    0    0    -1  
 $EndComp
-Text GLabel 8050 10500 0    50   Input ~ 0
-GND
-Text GLabel 9050 10900 2    50   Input ~ 0
-Resetbtn
 Wire Wire Line
 	15350 4400 16350 4400
 Wire Wire Line
@@ -3267,7 +3261,7 @@ Connection ~ 1550 5950
 Text Notes 14950 5550 0    50   ~ 0
 This needs double checking
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H5
+L Mechanical:MountingHole H5
 U 1 1 606F0C32
 P 6600 9850
 F 0 "H5" H 6700 9896 50  0000 L CNN
@@ -3278,7 +3272,7 @@ F 3 "~" H 6600 9850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H6
+L Mechanical:MountingHole H6
 U 1 1 60748B43
 P 6600 10050
 F 0 "H6" H 6700 10096 50  0000 L CNN
@@ -3289,7 +3283,7 @@ F 3 "~" H 6600 10050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H7
+L Mechanical:MountingHole H7
 U 1 1 6077360A
 P 6600 10250
 F 0 "H7" H 6700 10296 50  0000 L CNN
@@ -3300,7 +3294,7 @@ F 3 "~" H 6600 10250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H8
+L Mechanical:MountingHole H8
 U 1 1 607CB78F
 P 6600 10450
 F 0 "H8" H 6700 10496 50  0000 L CNN
@@ -3311,7 +3305,7 @@ F 3 "~" H 6600 10450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H9
+L Mechanical:MountingHole H9
 U 1 1 60717F95
 P 6600 10650
 F 0 "H9" H 6700 10696 50  0000 L CNN
@@ -3322,7 +3316,7 @@ F 3 "~" H 6600 10650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-rescue:MountingHole-Mechanical H10
+L Mechanical:MountingHole H10
 U 1 1 607429B3
 P 6600 10850
 F 0 "H10" H 6700 10896 50  0000 L CNN
@@ -3343,4 +3337,6 @@ F 3 "" H 5000 9700 50  0001 C CNN
 	1    5000 9700
 	1    0    0    -1  
 $EndComp
+Text GLabel 8750 10700 2    50   Input ~ 0
+GND
 $EndSCHEMATC
