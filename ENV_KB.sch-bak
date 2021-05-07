@@ -3077,67 +3077,12 @@ Text GLabel 13750 8350 2    50   Input ~ 0
 GND
 Text GLabel 13750 8250 2    50   Input ~ 0
 3.3V
-$Comp
-L Mechanical:MountingHole H3
-U 1 1 6058BC08
-P 6600 9450
-F 0 "H3" H 6700 9496 50  0000 L CNN
-F 1 "MountingHole" H 6700 9405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 9450 50  0001 C CNN
-F 3 "~" H 6600 9450 50  0001 C CNN
-	1    6600 9450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 60591F15
-P 6600 9250
-F 0 "H2" H 6700 9296 50  0000 L CNN
-F 1 "MountingHole" H 6700 9205 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 9250 50  0001 C CNN
-F 3 "~" H 6600 9250 50  0001 C CNN
-	1    6600 9250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H0
-U 1 1 605938C3
-P 6600 8850
-F 0 "H0" H 6700 8896 50  0000 L CNN
-F 1 "MountingHole" H 6700 8805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 8850 50  0001 C CNN
-F 3 "~" H 6600 8850 50  0001 C CNN
-	1    6600 8850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H1
-U 1 1 605BD366
-P 6600 9050
-F 0 "H1" H 6700 9096 50  0000 L CNN
-F 1 "MountingHole" H 6700 9005 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 9050 50  0001 C CNN
-F 3 "~" H 6600 9050 50  0001 C CNN
-	1    6600 9050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H4
-U 1 1 6068A680
-P 6600 9650
-F 0 "H4" H 6700 9696 50  0000 L CNN
-F 1 "MountingHole" H 6700 9605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 9650 50  0001 C CNN
-F 3 "~" H 6600 9650 50  0001 C CNN
-	1    6600 9650
-	1    0    0    -1  
-$EndComp
 Text GLabel 13650 10100 2    50   Input ~ 0
 Resetbtn
 Text GLabel 8350 10700 0    50   Input ~ 0
 Resetbtn
 $Comp
-L Switch:SW_Push SW-RST0
+L Switch:SW_Push_Dual SW-RST0
 U 1 1 605FBFA6
 P 8550 10700
 F 0 "SW-RST0" H 8550 11100 50  0000 C CNN
@@ -3261,45 +3206,12 @@ Connection ~ 1550 5950
 Text Notes 14950 5550 0    50   ~ 0
 This needs double checking
 $Comp
-L Mechanical:MountingHole H5
-U 1 1 606F0C32
-P 6600 9850
-F 0 "H5" H 6700 9896 50  0000 L CNN
-F 1 "MountingHole" H 6700 9805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 9850 50  0001 C CNN
-F 3 "~" H 6600 9850 50  0001 C CNN
-	1    6600 9850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H6
-U 1 1 60748B43
-P 6600 10050
-F 0 "H6" H 6700 10096 50  0000 L CNN
-F 1 "MountingHole" H 6700 10005 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 10050 50  0001 C CNN
-F 3 "~" H 6600 10050 50  0001 C CNN
-	1    6600 10050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H7
-U 1 1 6077360A
-P 6600 10250
-F 0 "H7" H 6700 10296 50  0000 L CNN
-F 1 "MountingHole" H 6700 10205 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 10250 50  0001 C CNN
-F 3 "~" H 6600 10250 50  0001 C CNN
-	1    6600 10250
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole H8
 U 1 1 607CB78F
 P 6600 10450
 F 0 "H8" H 6700 10496 50  0000 L CNN
 F 1 "MountingHole" H 6700 10405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 10450 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 10450 50  0001 C CNN
 F 3 "~" H 6600 10450 50  0001 C CNN
 	1    6600 10450
 	1    0    0    -1  
@@ -3310,7 +3222,7 @@ U 1 1 60717F95
 P 6600 10650
 F 0 "H9" H 6700 10696 50  0000 L CNN
 F 1 "MountingHole" H 6700 10605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 10650 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 10650 50  0001 C CNN
 F 3 "~" H 6600 10650 50  0001 C CNN
 	1    6600 10650
 	1    0    0    -1  
@@ -3321,7 +3233,7 @@ U 1 1 607429B3
 P 6600 10850
 F 0 "H10" H 6700 10896 50  0000 L CNN
 F 1 "MountingHole" H 6700 10805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 6600 10850 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 10850 50  0001 C CNN
 F 3 "~" H 6600 10850 50  0001 C CNN
 	1    6600 10850
 	1    0    0    -1  
@@ -3339,4 +3251,96 @@ F 3 "" H 5000 9700 50  0001 C CNN
 $EndComp
 Text GLabel 8750 10700 2    50   Input ~ 0
 GND
+Text GLabel 8750 10900 2    50   Input ~ 0
+GND
+Text GLabel 8350 10900 0    50   Input ~ 0
+Resetbtn
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 6077360A
+P 6600 10250
+F 0 "H7" H 6700 10296 50  0000 L CNN
+F 1 "MountingHole" H 6700 10205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 10250 50  0001 C CNN
+F 3 "~" H 6600 10250 50  0001 C CNN
+	1    6600 10250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 60748B43
+P 6600 10050
+F 0 "H6" H 6700 10096 50  0000 L CNN
+F 1 "MountingHole" H 6700 10005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 10050 50  0001 C CNN
+F 3 "~" H 6600 10050 50  0001 C CNN
+	1    6600 10050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 606F0C32
+P 6600 9850
+F 0 "H5" H 6700 9896 50  0000 L CNN
+F 1 "MountingHole" H 6700 9805 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9850 50  0001 C CNN
+F 3 "~" H 6600 9850 50  0001 C CNN
+	1    6600 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 6068A680
+P 6600 9650
+F 0 "H4" H 6700 9696 50  0000 L CNN
+F 1 "MountingHole" H 6700 9605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9650 50  0001 C CNN
+F 3 "~" H 6600 9650 50  0001 C CNN
+	1    6600 9650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 605BD366
+P 6600 9050
+F 0 "H1" H 6700 9096 50  0000 L CNN
+F 1 "MountingHole" H 6700 9005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9050 50  0001 C CNN
+F 3 "~" H 6600 9050 50  0001 C CNN
+	1    6600 9050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H0
+U 1 1 605938C3
+P 6600 8850
+F 0 "H0" H 6700 8896 50  0000 L CNN
+F 1 "MountingHole" H 6700 8805 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 8850 50  0001 C CNN
+F 3 "~" H 6600 8850 50  0001 C CNN
+	1    6600 8850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 60591F15
+P 6600 9250
+F 0 "H2" H 6700 9296 50  0000 L CNN
+F 1 "MountingHole" H 6700 9205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9250 50  0001 C CNN
+F 3 "~" H 6600 9250 50  0001 C CNN
+	1    6600 9250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 6058BC08
+P 6600 9450
+F 0 "H3" H 6700 9496 50  0000 L CNN
+F 1 "MountingHole" H 6700 9405 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9450 50  0001 C CNN
+F 3 "~" H 6600 9450 50  0001 C CNN
+	1    6600 9450
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
