@@ -4,6 +4,8 @@
 
 be sure to remove code.py and if you need or want to make adjustment to the keymap then edit main.py.
 
+![What your Raspberry Pi Drive Should Look Like](example.jpg)
+
 CircuitPython-KMK, This is a Circuitpython fork that has some HID features disabled, this is a tempoary measure as some features which we could use are not implemented in circuitpython, in 7.0 we'll be able to override USB VID and which USB Descriptors within a config file on the MCU.
 
 
