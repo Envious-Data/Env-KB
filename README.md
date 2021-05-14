@@ -38,3 +38,20 @@ This keyboard makes use of KMKfw and CircuitPython
 * https://github.com/adafruit/circuitpython
 
 So one note in relation to circuitpython, Im waiting for Circuitpython 7.0.0 which should allow us to change USB information without needing a custom firmware, this should be pretty handy.
+
+
+## BUILD INSTRUCTIONS
+if you arent interested in checking out the PDF here are some quick and dirty build instructions
+- included in your kit there will be female headers and male headers for the raspberry pi pico 
+- - The female headers are to be installed to the board and the male to the pico
+- all diodes face with their top toward the right side of the board
+
+- for USB Type-C you are going to need to connect the TP pads on the underside of your PICO to the matching pads on the board, this can be done with some wire or some pogo pins
+
+- for acrylic cases included in my kits you'll get some M3 screws, nuts and 3mm non threaded spacers.
+- The screws are 12mm long
+- the spacers are to be placed between the top plate and the PCB as 3mm is needed to properly fit MX style switches
+- the M3 nut will be placed under the PCB with the back acrylic next and with another nut to secure the back acrylic to the whole keyboard
+
+you can find pictures on what its suposed to look like here:
+https://github.com/Envious-Data/Env-KB/tree/main/_pictures/built

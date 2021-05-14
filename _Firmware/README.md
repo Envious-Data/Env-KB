@@ -13,3 +13,13 @@ If you've designed your own keyboard and it happens to be similar in its schemat
 
 ### LEDs!
 as of when KMK was last (majorly) updated circuitpython didnt support HID out for LED status (like capslock, numlock, scroll lock). Circuitpython now supports these features but KMK hasnt been updated and I'm not very good at complex python coding so for now the keyboard wont have LEDs other than power and initilization.
+
+
+## SETUP INSTRUCTIONS
+The setup for any of my keyboards using a Raspberry Pi Pico should generally be the same
+
+- Install [Circuitpython](https://circuitpython.org/board/raspberry_pi_pico/) To your Raspberry Pi Pico
+- Once installed Extract [EnvKB-FW.zip](http://github.com/Envious-Data/Env-KB/blob/main/_Firmware/EnvKB-FW.zip) to your raspberry pi pico 
+- remove code.py if it exists
+- replace main.py with the respective keymap file for your keyboard, in this case for EnvKB it would be [This file](https://github.com/Envious-Data/Env-KB/blob/main/_Firmware/KMK-KEYMAP.py)
+- there is a screenshot above on what the files on your Raspberry Pi Pico should look like
