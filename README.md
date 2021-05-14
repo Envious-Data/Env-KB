@@ -54,4 +54,4 @@ if you arent interested in checking out the PDF here are some quick and dirty bu
 - the M3 nut will be placed under the PCB with the back acrylic next and with another nut to secure the back acrylic to the whole keyboard
 
 you can find pictures on what its suposed to look like here:
-https://github.com/Envious-Data/Env-KB/tree/main/_pictures/built
+https://github.com/Envious-Data/Env-KB/tree/main/_pictures/Built
