@@ -3028,7 +3028,7 @@ U 1 1 604A80B1
 P 8550 9950
 F 0 "PowerLedResistor0" V 8650 10200 50  0000 C CNN
 F 1 "1K Resistor" V 8700 10000 50  0001 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 8550 9950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 8550 9950 50  0001 C CNN
 F 3 "~" H 8550 9950 50  0001 C CNN
 F 4 "C17513" V 8550 9950 50  0001 C CNN "LSCS Part"
 	1    8550 9950
@@ -3082,12 +3082,12 @@ Resetbtn
 Text GLabel 8350 10700 0    50   Input ~ 0
 Resetbtn
 $Comp
-L Switch:SW_Push_Dual SW-RST0
+L Switch:SW_Push SW-RST0
 U 1 1 605FBFA6
 P 8550 10700
 F 0 "SW-RST0" H 8550 11100 50  0000 C CNN
 F 1 "Reset Buton" H 8550 10950 50  0000 C CNN
-F 2 "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA" H 8550 10700 50  0001 L BNN
+F 2 "Button_Switch_SMD:SW_SPST_B3U-1000P" H 8550 10700 50  0001 L BNN
 F 3 "" H 8550 10700 50  0001 L BNN
 F 4 "Omron" H 8550 10700 50  0001 L BNN "MANUFACTURER"
 	1    8550 10700
@@ -3251,10 +3251,6 @@ F 3 "" H 5000 9700 50  0001 C CNN
 $EndComp
 Text GLabel 8750 10700 2    50   Input ~ 0
 GND
-Text GLabel 8750 10900 2    50   Input ~ 0
-GND
-Text GLabel 8350 10900 0    50   Input ~ 0
-Resetbtn
 $Comp
 L Mechanical:MountingHole H7
 U 1 1 6077360A
@@ -3278,17 +3274,6 @@ F 3 "~" H 6600 10050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H5
-U 1 1 606F0C32
-P 6600 9850
-F 0 "H5" H 6700 9896 50  0000 L CNN
-F 1 "MountingHole" H 6700 9805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9850 50  0001 C CNN
-F 3 "~" H 6600 9850 50  0001 C CNN
-	1    6600 9850
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole H4
 U 1 1 6068A680
 P 6600 9650
@@ -3308,17 +3293,6 @@ F 1 "MountingHole" H 6700 9005 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9050 50  0001 C CNN
 F 3 "~" H 6600 9050 50  0001 C CNN
 	1    6600 9050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H2
-U 1 1 60591F15
-P 6600 9250
-F 0 "H2" H 6700 9296 50  0000 L CNN
-F 1 "MountingHole" H 6700 9205 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9250 50  0001 C CNN
-F 3 "~" H 6600 9250 50  0001 C CNN
-	1    6600 9250
 	1    0    0    -1  
 $EndComp
 $Comp
