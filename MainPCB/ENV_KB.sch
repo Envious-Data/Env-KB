@@ -2932,17 +2932,17 @@ Text GLabel 12800 8900 1    50   Input ~ 0
 GND
 Text GLabel 12950 8900 1    50   Input ~ 0
 USB2_N
-Text GLabel 8450 8850 0    50   Input ~ 0
+Text GLabel 9300 8700 1    50   Input ~ 0
 USB2_N
-Text GLabel 9850 8850 2    50   Input ~ 0
+Text GLabel 9400 8700 1    50   Input ~ 0
 USB2_P
 Text GLabel 13100 8900 1    50   Input ~ 0
 USB2_P
 Text GLabel 13650 9100 2    50   Input ~ 0
 USBVBUS
-Text GLabel 9850 8450 2    50   Input ~ 0
+Text GLabel 8800 8700 1    50   Input ~ 0
 USBVBUS
-Text GLabel 10050 8950 2    50   Input ~ 0
+Text GLabel 9000 8500 1    50   Input ~ 0
 GND
 Text GLabel 12150 9300 0    50   Input ~ 0
 GND
@@ -2975,36 +2975,36 @@ Wire Wire Line
 $Comp
 L Device:R_Small RESISTOR1
 U 1 1 606333E5
-P 9950 8950
-F 0 "RESISTOR1" V 9754 8950 39  0001 C CNN
-F 1 "5.1kohm 0402" V 10050 8950 30  0000 C CNN
-F 2 "Resistor_SMD:R_0402_1005Metric" H 9950 8950 50  0001 C CNN
-F 3 "~" H 9950 8950 50  0001 C CNN
-F 4 "C25905" V 9950 8950 50  0001 C CNN "LCSC"
-	1    9950 8950
-	0    1    1    0   
+P 9000 8600
+F 0 "RESISTOR1" V 8804 8600 39  0001 C CNN
+F 1 "5.1kohm 0402" V 9000 8700 30  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 9000 8600 50  0001 C CNN
+F 3 "~" H 9000 8600 50  0001 C CNN
+F 4 "C25905" V 9000 8600 50  0001 C CNN "LCSC"
+	1    9000 8600
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small RESISTOR0
 U 1 1 6066AF89
-P 8350 8650
-F 0 "RESISTOR0" V 8154 8650 39  0001 C CNN
-F 1 "5.1kohm 0402" V 8245 8650 50  0001 C CNN
-F 2 "Resistor_SMD:R_0402_1005Metric" H 8350 8650 50  0001 C CNN
-F 3 "~" H 8350 8650 50  0001 C CNN
-F 4 "C25905" V 8350 8650 50  0001 C CNN "LCSC"
-	1    8350 8650
-	0    -1   -1   0   
+P 9600 8600
+F 0 "RESISTOR0" V 9404 8600 39  0001 C CNN
+F 1 "5.1kohm 0402" V 9495 8600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 9600 8600 50  0001 C CNN
+F 3 "~" H 9600 8600 50  0001 C CNN
+F 4 "C25905" V 9600 8600 50  0001 C CNN "LCSC"
+	1    9600 8600
+	-1   0    0    1   
 $EndComp
-Text GLabel 8250 8650 0    50   Input ~ 0
+Text GLabel 9600 8500 1    50   Input ~ 0
 GND
-Text GLabel 9850 9150 2    50   Input ~ 0
+Text GLabel 9800 8700 1    50   Input ~ 0
 GND
-Text GLabel 9850 9250 2    50   Input ~ 0
+Text GLabel 9900 8700 1    50   Input ~ 0
 GND
-Text GLabel 9850 8750 2    50   Input ~ 0
+Text GLabel 9100 8700 1    50   Input ~ 0
 USB2_N
-Text GLabel 8450 8750 0    50   Input ~ 0
+Text GLabel 9200 8700 1    50   Input ~ 0
 USB2_P
 $Comp
 L Device:LED PowerLED0
@@ -3033,23 +3033,7 @@ F 4 "C17513" V 8550 9950 50  0001 C CNN "LCSC"
 	1    8550 9950
 	0    1    1    0   
 $EndComp
-$Comp
-L Type-C-Lib:TYPE-C-31-M-12 J0
-U 1 1 607F5ECC
-P 9150 8850
-F 0 "J0" H 9150 9517 50  0000 C CNN
-F 1 "TYPE-C-31-M-12" H 9150 9426 50  0000 C CNN
-F 2 "EM_Extras:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 9150 8250 50  0000 C CNN
-F 3 "~" H 9300 8850 50  0001 C CNN
-F 4 "HRO Electronics" H 9150 8850 50  0001 C CNN "MANUFACTURER"
-F 5 "3.31mm" H 9150 8850 50  0001 C CNN "MAXIMUM_PACKAGE_HEIGHT"
-F 6 "A" H 9150 8850 50  0001 C CNN "PARTREV"
-F 7 "Manufacturer Recommendations" H 9150 8850 50  0001 C CNN "STANDARD"
-F 8 "C165948" H 9150 8850 50  0001 C CNN "LCSC"
-	1    9150 8850
-	1    0    0    -1  
-$EndComp
-Text GLabel 9850 9350 2    50   Input ~ 0
+Text GLabel 8700 8700 1    50   Input ~ 0
 GND
 $Comp
 L Connector_Generic:Conn_01x04 I2CHeader0
@@ -3306,4 +3290,18 @@ F 3 "~" H 6600 8850 50  0001 C CNN
 	1    6600 8850
 	1    0    0    -1  
 $EndComp
+$Comp
+L Type-C:HRO-TYPE-C-31-M-12 USB1
+U 1 1 60AC4D40
+P 9250 8800
+F 0 "USB1" V 8650 9250 60  0000 C CNN
+F 1 "HRO-TYPE-C-31-M-12" V 8750 8800 60  0000 C CNN
+F 2 "HRO-TYPE-C31-M-12:HRO-TYPE-C-31-M-12" H 9250 8800 60  0001 C CNN
+F 3 "" H 9250 8800 60  0001 C CNN
+F 4 "C165948" H 9250 8800 50  0001 C CNN "LCSC"
+	1    9250 8800
+	0    -1   -1   0   
+$EndComp
+Text GLabel 9700 8700 1    50   Input ~ 0
+VBUS
 $EndSCHEMATC
