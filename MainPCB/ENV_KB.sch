@@ -3303,5 +3303,5 @@ F 4 "C165948" H 9250 8800 50  0001 C CNN "LCSC"
 	0    -1   -1   0   
 $EndComp
 Text GLabel 9700 8700 1    50   Input ~ 0
-VBUS
+USBVBUS
 $EndSCHEMATC

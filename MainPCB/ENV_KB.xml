@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:\Users\Envy\Documents\GitHub\Env-KB\MainPCB\ENV_KB.sch</source>
-    <date>20/05/2021 18:59:30</date>
+    <date>24/05/2021 00:00:04</date>
     <tool>Eeschema (5.1.9)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -77,7 +77,7 @@
     </comp>
     <comp ref="D7">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522D5</tstamp>
@@ -91,7 +91,7 @@
     </comp>
     <comp ref="D8">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522D7</tstamp>
@@ -105,7 +105,7 @@
     </comp>
     <comp ref="D9">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522D9</tstamp>
@@ -119,7 +119,7 @@
     </comp>
     <comp ref="D10">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000100</tstamp>
@@ -133,7 +133,7 @@
     </comp>
     <comp ref="D11">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000110</tstamp>
@@ -147,7 +147,7 @@
     </comp>
     <comp ref="D12">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000120</tstamp>
@@ -161,7 +161,7 @@
     </comp>
     <comp ref="D13">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000130</tstamp>
@@ -175,7 +175,7 @@
     </comp>
     <comp ref="D14">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000140</tstamp>
@@ -189,7 +189,7 @@
     </comp>
     <comp ref="D15">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000150</tstamp>
@@ -203,7 +203,7 @@
     </comp>
     <comp ref="D16">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000160</tstamp>
@@ -217,7 +217,7 @@
     </comp>
     <comp ref="D17">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000170</tstamp>
@@ -231,7 +231,7 @@
     </comp>
     <comp ref="D18">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000180</tstamp>
@@ -245,7 +245,7 @@
     </comp>
     <comp ref="D19">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000190</tstamp>
@@ -259,7 +259,7 @@
     </comp>
     <comp ref="D20">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000200</tstamp>
@@ -273,7 +273,7 @@
     </comp>
     <comp ref="D21">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000210</tstamp>
@@ -287,7 +287,7 @@
     </comp>
     <comp ref="D22">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000220</tstamp>
@@ -301,7 +301,7 @@
     </comp>
     <comp ref="D23">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000230</tstamp>
@@ -315,7 +315,7 @@
     </comp>
     <comp ref="D24">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000240</tstamp>
@@ -329,7 +329,7 @@
     </comp>
     <comp ref="D25">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000250</tstamp>
@@ -343,7 +343,7 @@
     </comp>
     <comp ref="D26">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000260</tstamp>
@@ -357,7 +357,7 @@
     </comp>
     <comp ref="D27">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000270</tstamp>
@@ -371,7 +371,7 @@
     </comp>
     <comp ref="D28">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000280</tstamp>
@@ -385,7 +385,7 @@
     </comp>
     <comp ref="D29">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000290</tstamp>
@@ -399,7 +399,7 @@
     </comp>
     <comp ref="D30">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000300</tstamp>
@@ -413,7 +413,7 @@
     </comp>
     <comp ref="D31">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000310</tstamp>
@@ -427,7 +427,7 @@
     </comp>
     <comp ref="D32">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000320</tstamp>
@@ -441,7 +441,7 @@
     </comp>
     <comp ref="D33">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000330</tstamp>
@@ -455,7 +455,7 @@
     </comp>
     <comp ref="D34">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000340</tstamp>
@@ -469,7 +469,7 @@
     </comp>
     <comp ref="D35">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000350</tstamp>
@@ -483,7 +483,7 @@
     </comp>
     <comp ref="D36">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000360</tstamp>
@@ -497,7 +497,7 @@
     </comp>
     <comp ref="D37">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000370</tstamp>
@@ -511,7 +511,7 @@
     </comp>
     <comp ref="D38">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000380</tstamp>
@@ -525,7 +525,7 @@
     </comp>
     <comp ref="D39">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000390</tstamp>
@@ -539,7 +539,7 @@
     </comp>
     <comp ref="D40">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000400</tstamp>
@@ -553,7 +553,7 @@
     </comp>
     <comp ref="D41">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000410</tstamp>
@@ -567,7 +567,7 @@
     </comp>
     <comp ref="D42">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000420</tstamp>
@@ -581,7 +581,7 @@
     </comp>
     <comp ref="D43">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000430</tstamp>
@@ -595,7 +595,7 @@
     </comp>
     <comp ref="D44">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000440</tstamp>
@@ -609,7 +609,7 @@
     </comp>
     <comp ref="D45">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000450</tstamp>
@@ -623,7 +623,7 @@
     </comp>
     <comp ref="D47">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000470</tstamp>
@@ -637,7 +637,7 @@
     </comp>
     <comp ref="D48">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000480</tstamp>
@@ -651,7 +651,7 @@
     </comp>
     <comp ref="D49">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000490</tstamp>
@@ -665,7 +665,7 @@
     </comp>
     <comp ref="D50">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000500</tstamp>
@@ -679,7 +679,7 @@
     </comp>
     <comp ref="D51">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000510</tstamp>
@@ -693,7 +693,7 @@
     </comp>
     <comp ref="D52">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000520</tstamp>
@@ -707,7 +707,7 @@
     </comp>
     <comp ref="D53">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000530</tstamp>
@@ -721,7 +721,7 @@
     </comp>
     <comp ref="D54">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000540</tstamp>
@@ -735,7 +735,7 @@
     </comp>
     <comp ref="D55">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000550</tstamp>
@@ -749,7 +749,7 @@
     </comp>
     <comp ref="D56">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000560</tstamp>
@@ -763,7 +763,7 @@
     </comp>
     <comp ref="D57">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000570</tstamp>
@@ -777,7 +777,7 @@
     </comp>
     <comp ref="D58">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000580</tstamp>
@@ -791,7 +791,7 @@
     </comp>
     <comp ref="D59">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000590</tstamp>
@@ -805,7 +805,7 @@
     </comp>
     <comp ref="D60">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000600</tstamp>
@@ -819,7 +819,7 @@
     </comp>
     <comp ref="D61">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000610</tstamp>
@@ -833,7 +833,7 @@
     </comp>
     <comp ref="D62">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000620</tstamp>
@@ -847,7 +847,7 @@
     </comp>
     <comp ref="D64">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000630</tstamp>
@@ -861,7 +861,7 @@
     </comp>
     <comp ref="D65">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000640</tstamp>
@@ -875,7 +875,7 @@
     </comp>
     <comp ref="D66">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000650</tstamp>
@@ -889,7 +889,7 @@
     </comp>
     <comp ref="D67">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000660</tstamp>
@@ -903,7 +903,7 @@
     </comp>
     <comp ref="D68">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000670</tstamp>
@@ -917,7 +917,7 @@
     </comp>
     <comp ref="D69">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000680</tstamp>
@@ -931,7 +931,7 @@
     </comp>
     <comp ref="D70">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000690</tstamp>
@@ -945,7 +945,7 @@
     </comp>
     <comp ref="D71">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000700</tstamp>
@@ -959,7 +959,7 @@
     </comp>
     <comp ref="D72">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000710</tstamp>
@@ -973,7 +973,7 @@
     </comp>
     <comp ref="D73">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000720</tstamp>
@@ -987,7 +987,7 @@
     </comp>
     <comp ref="D74">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000730</tstamp>
@@ -1001,7 +1001,7 @@
     </comp>
     <comp ref="D75">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000740</tstamp>
@@ -1015,7 +1015,7 @@
     </comp>
     <comp ref="D76">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000750</tstamp>
@@ -1029,7 +1029,7 @@
     </comp>
     <comp ref="D77">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000760</tstamp>
@@ -1043,7 +1043,7 @@
     </comp>
     <comp ref="D78">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000770</tstamp>
@@ -1057,7 +1057,7 @@
     </comp>
     <comp ref="D79">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000780</tstamp>
@@ -1127,112 +1127,112 @@
     </comp>
     <comp ref="D6">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522D3</tstamp>
     </comp>
     <comp ref="D5">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522D1</tstamp>
     </comp>
     <comp ref="D4">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522CF</tstamp>
     </comp>
     <comp ref="D3">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522CD</tstamp>
     </comp>
     <comp ref="D2">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522CB</tstamp>
     </comp>
     <comp ref="D1">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000010</tstamp>
     </comp>
     <comp ref="D0">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000000</tstamp>
     </comp>
     <comp ref="D88">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000870</tstamp>
     </comp>
     <comp ref="D87">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000860</tstamp>
     </comp>
     <comp ref="D86">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000850</tstamp>
     </comp>
     <comp ref="D85">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000840</tstamp>
     </comp>
     <comp ref="D84">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000830</tstamp>
     </comp>
     <comp ref="D83">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000820</tstamp>
     </comp>
     <comp ref="D82">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000810</tstamp>
     </comp>
     <comp ref="D81">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000800</tstamp>
     </comp>
     <comp ref="D80">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000790</tstamp>
@@ -1249,7 +1249,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LSCS Part">C25905</field>
+        <field name="LCSC">C25905</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1260,19 +1260,16 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LSCS Part">C25905</field>
+        <field name="LCSC">C25905</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6066AF89</tstamp>
     </comp>
     <comp ref="PowerLED0">
-      <value>LED 0805</value>
-      <footprint>LED_SMD:LED_0805_2012Metric_Castellated</footprint>
+      <value>LED 0402</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
-      <fields>
-        <field name="LSCS Part">C2297</field>
-      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6043F14D</tstamp>
@@ -1282,26 +1279,11 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="LSCS Part">C17513</field>
+        <field name="LCSC">C17513</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>604A80B1</tstamp>
-    </comp>
-    <comp ref="J0">
-      <value>TYPE-C-31-M-12</value>
-      <footprint>EM_Extras:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="LSCS Part">C165948</field>
-        <field name="MANUFACTURER">HRO Electronics</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">3.31mm</field>
-        <field name="PARTREV">A</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-      </fields>
-      <libsource lib="Type-C-Lib" part="TYPE-C-31-M-12" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>607F5ECC</tstamp>
     </comp>
     <comp ref="I2CHeader0">
       <value>Conn_01x04</value>
@@ -1315,6 +1297,7 @@
       <value>B3U-1000</value>
       <footprint>Button_Switch_SMD:SW_SPST_B3U-1000P</footprint>
       <fields>
+        <field name="LCSC">C231329</field>
         <field name="MANUFACTURER">Omron</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
@@ -1330,14 +1313,14 @@
     </comp>
     <comp ref="D46">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000460</tstamp>
     </comp>
     <comp ref="D63">
       <value>D</value>
-      <footprint>CFTKB Bits:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1363,14 +1346,6 @@
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>609F51E3</tstamp>
-    </comp>
-    <comp ref="H8">
-      <value>MountingHole</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>607CB78F</tstamp>
     </comp>
     <comp ref="H9">
       <value>MountingHole</value>
@@ -1435,6 +1410,16 @@
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>605938C3</tstamp>
+    </comp>
+    <comp ref="USB1">
+      <value>HRO-TYPE-C-31-M-12</value>
+      <footprint>HRO-TYPE-C31-M-12:HRO-TYPE-C-31-M-12</footprint>
+      <fields>
+        <field name="LCSC">C165948</field>
+      </fields>
+      <libsource lib="Type-C" part="HRO-TYPE-C-31-M-12" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60AC4D40</tstamp>
     </comp>
   </components>
   <libparts>
@@ -1593,37 +1578,25 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Type-C-Lib" part="TYPE-C-31-M-12">
+    <libpart lib="Type-C" part="HRO-TYPE-C-31-M-12">
       <fields>
-        <field name="Reference">J</field>
-        <field name="Value">TYPE-C-31-M-12</field>
-        <field name="Footprint">HRO_TYPE-C-31-M-12</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-        <field name="PARTREV">A</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">3.31mm</field>
-        <field name="MANUFACTURER">HRO Electronics</field>
+        <field name="Reference">USB</field>
+        <field name="Value">HRO-TYPE-C-31-M-12</field>
       </fields>
       <pins>
-        <pin num="A1" name="GND" type="power_in"/>
-        <pin num="A4" name="VBUS" type="power_in"/>
-        <pin num="A5" name="CC1" type="BiDi"/>
-        <pin num="A6" name="DP1" type="BiDi"/>
-        <pin num="A7" name="DN1" type="BiDi"/>
-        <pin num="A8" name="SBU1" type="BiDi"/>
-        <pin num="A9" name="VBUS" type="power_in"/>
-        <pin num="A12" name="GND" type="power_in"/>
-        <pin num="B1" name="GND" type="power_in"/>
-        <pin num="B4" name="VBUS" type="power_in"/>
-        <pin num="B5" name="CC2" type="BiDi"/>
-        <pin num="B6" name="DP2" type="BiDi"/>
-        <pin num="B7" name="DN2" type="BiDi"/>
-        <pin num="B8" name="SBU2" type="BiDi"/>
-        <pin num="B9" name="VBUS" type="power_in"/>
-        <pin num="B12" name="GND" type="power_in"/>
-        <pin num="S1" name="SHIELD" type="passive"/>
-        <pin num="S2" name="SHIELD" type="passive"/>
-        <pin num="S3" name="SHIELD" type="passive"/>
-        <pin num="S4" name="SHIELD" type="passive"/>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VBUS" type="input"/>
+        <pin num="3" name="SBU2" type="input"/>
+        <pin num="4" name="CC1" type="input"/>
+        <pin num="5" name="DN2" type="input"/>
+        <pin num="6" name="DP1" type="input"/>
+        <pin num="7" name="DN1" type="input"/>
+        <pin num="8" name="DP2" type="input"/>
+        <pin num="9" name="SBU1" type="input"/>
+        <pin num="10" name="CC2" type="input"/>
+        <pin num="11" name="VBUS" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="SHIELD" type="input"/>
       </pins>
     </libpart>
   </libparts>
@@ -1646,247 +1619,247 @@
     <library logical="Switch">
       <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
     </library>
-    <library logical="Type-C-Lib">
-      <uri>C:\Users\Envy\Documents\GitHub\Env-KB\MainPCB/USB-EXTRAS/TYPE-C-31-M-12.lib</uri>
+    <library logical="Type-C">
+      <uri>C:\Users\Envy\Documents\GitHub\Env-KB\MainPCB/Footprint_library/HRO-TYPE-C31-M-12.pretty/Type-C.lib</uri>
     </library>
   </libraries>
   <nets>
-    <net code="1" name="Net-(D53-Pad2)">
-      <node ref="D53" pin="2"/>
-      <node ref="K_53" pin="2"/>
-    </net>
-    <net code="2" name="Net-(D54-Pad2)">
-      <node ref="K_54" pin="2"/>
-      <node ref="D54" pin="2"/>
-    </net>
-    <net code="3" name="Net-(D52-Pad2)">
-      <node ref="K_52" pin="2"/>
+    <net code="1" name="Net-(D52-Pad2)">
       <node ref="D52" pin="2"/>
+      <node ref="K_52" pin="2"/>
     </net>
-    <net code="4" name="Net-(D51-Pad2)">
+    <net code="2" name="Net-(D53-Pad2)">
+      <node ref="K_53" pin="2"/>
+      <node ref="D53" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D51-Pad2)">
       <node ref="D51" pin="2"/>
       <node ref="K_51" pin="2"/>
     </net>
-    <net code="5" name="Net-(D58-Pad2)">
-      <node ref="D58" pin="2"/>
-      <node ref="K_58" pin="2"/>
+    <net code="4" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2"/>
+      <node ref="K_50" pin="2"/>
     </net>
-    <net code="6" name="Net-(D57-Pad2)">
+    <net code="5" name="Net-(D57-Pad2)">
       <node ref="K_57" pin="2"/>
       <node ref="D57" pin="2"/>
     </net>
-    <net code="7" name="Net-(D56-Pad2)">
+    <net code="6" name="Net-(D56-Pad2)">
       <node ref="D56" pin="2"/>
       <node ref="K_56" pin="2"/>
     </net>
-    <net code="8" name="Net-(D55-Pad2)">
-      <node ref="K_55" pin="2"/>
+    <net code="7" name="Net-(D55-Pad2)">
       <node ref="D55" pin="2"/>
+      <node ref="K_55" pin="2"/>
     </net>
-    <net code="9" name="Net-(D44-Pad2)">
-      <node ref="D44" pin="2"/>
-      <node ref="K_44" pin="2"/>
+    <net code="8" name="Net-(D54-Pad2)">
+      <node ref="K_54" pin="2"/>
+      <node ref="D54" pin="2"/>
     </net>
-    <net code="10" name="Net-(D43-Pad2)">
+    <net code="9" name="Net-(D43-Pad2)">
       <node ref="K_43" pin="2"/>
       <node ref="D43" pin="2"/>
     </net>
-    <net code="11" name="Net-(D42-Pad2)">
+    <net code="10" name="Net-(D42-Pad2)">
       <node ref="D42" pin="2"/>
       <node ref="K_42" pin="2"/>
     </net>
-    <net code="12" name="Net-(D41-Pad2)">
+    <net code="11" name="Net-(D41-Pad2)">
       <node ref="K_41" pin="2"/>
       <node ref="D41" pin="2"/>
     </net>
-    <net code="13" name="Net-(D50-Pad2)">
-      <node ref="K_50" pin="2"/>
-      <node ref="D50" pin="2"/>
+    <net code="12" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2"/>
+      <node ref="K_44" pin="2"/>
     </net>
-    <net code="14" name="Net-(D49-Pad2)">
-      <node ref="D49" pin="2"/>
-      <node ref="K_49" pin="2"/>
-    </net>
-    <net code="15" name="Net-(D48-Pad2)">
-      <node ref="D48" pin="2"/>
-      <node ref="K_48" pin="2"/>
-    </net>
-    <net code="16" name="Net-(D47-Pad2)">
-      <node ref="D47" pin="2"/>
-      <node ref="K_47" pin="2"/>
-    </net>
-    <net code="17" name="Net-(D45-Pad2)">
+    <net code="13" name="Net-(D45-Pad2)">
       <node ref="D45" pin="2"/>
       <node ref="K_45" pin="2"/>
     </net>
-    <net code="18" name="Net-(D71-Pad2)">
-      <node ref="K_71" pin="2"/>
-      <node ref="D71" pin="2"/>
+    <net code="14" name="Net-(D47-Pad2)">
+      <node ref="K_47" pin="2"/>
+      <node ref="D47" pin="2"/>
     </net>
-    <net code="19" name="Net-(D70-Pad2)">
-      <node ref="D70" pin="2"/>
+    <net code="15" name="Net-(D48-Pad2)">
+      <node ref="K_48" pin="2"/>
+      <node ref="D48" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2"/>
+      <node ref="K_49" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D70-Pad2)">
       <node ref="K_70" pin="2"/>
+      <node ref="D70" pin="2"/>
     </net>
-    <net code="20" name="Net-(D69-Pad2)">
+    <net code="18" name="Net-(D69-Pad2)">
       <node ref="D69" pin="2"/>
       <node ref="K_69" pin="2"/>
     </net>
-    <net code="21" name="Net-(D75-Pad2)">
-      <node ref="K_75" pin="2"/>
-      <node ref="D75" pin="2"/>
-    </net>
-    <net code="22" name="Net-(D68-Pad2)">
-      <node ref="K_68" pin="2"/>
+    <net code="19" name="Net-(D68-Pad2)">
       <node ref="D68" pin="2"/>
+      <node ref="K_68" pin="2"/>
     </net>
-    <net code="23" name="Net-(D74-Pad2)">
+    <net code="20" name="Net-(D74-Pad2)">
       <node ref="K_74" pin="2"/>
       <node ref="D74" pin="2"/>
     </net>
-    <net code="24" name="Net-(D73-Pad2)">
-      <node ref="K_73" pin="2"/>
-      <node ref="D73" pin="2"/>
-    </net>
-    <net code="25" name="Net-(D72-Pad2)">
-      <node ref="D72" pin="2"/>
-      <node ref="K_72" pin="2"/>
-    </net>
-    <net code="26" name="Net-(D62-Pad2)">
-      <node ref="D62" pin="2"/>
-      <node ref="K_62" pin="2"/>
-    </net>
-    <net code="27" name="Net-(D61-Pad2)">
-      <node ref="D61" pin="2"/>
-      <node ref="K_61" pin="2"/>
-    </net>
-    <net code="28" name="Net-(D60-Pad2)">
-      <node ref="D60" pin="2"/>
-      <node ref="K_60" pin="2"/>
-    </net>
-    <net code="29" name="Net-(D59-Pad2)">
-      <node ref="D59" pin="2"/>
-      <node ref="K_59" pin="2"/>
-    </net>
-    <net code="30" name="Net-(D64-Pad2)">
-      <node ref="K_64" pin="2"/>
-      <node ref="D64" pin="2"/>
-      <node ref="K_64B1" pin="2"/>
-    </net>
-    <net code="31" name="Net-(D65-Pad2)">
-      <node ref="D65" pin="2"/>
-      <node ref="K_65" pin="2"/>
-    </net>
-    <net code="32" name="Net-(D66-Pad2)">
-      <node ref="D66" pin="2"/>
-      <node ref="K_66" pin="2"/>
-    </net>
-    <net code="33" name="Net-(D67-Pad2)">
+    <net code="21" name="Net-(D67-Pad2)">
       <node ref="D67" pin="2"/>
       <node ref="K_67" pin="2"/>
     </net>
-    <net code="34" name="Net-(D19-Pad2)">
-      <node ref="D19" pin="2"/>
-      <node ref="K_19" pin="2"/>
+    <net code="22" name="Net-(D73-Pad2)">
+      <node ref="K_73" pin="2"/>
+      <node ref="D73" pin="2"/>
     </net>
-    <net code="35" name="Net-(D18-Pad2)">
+    <net code="23" name="Net-(D72-Pad2)">
+      <node ref="D72" pin="2"/>
+      <node ref="K_72" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D71-Pad2)">
+      <node ref="K_71" pin="2"/>
+      <node ref="D71" pin="2"/>
+    </net>
+    <net code="25" name="Net-(D61-Pad2)">
+      <node ref="K_61" pin="2"/>
+      <node ref="D61" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D60-Pad2)">
+      <node ref="K_60" pin="2"/>
+      <node ref="D60" pin="2"/>
+    </net>
+    <net code="27" name="Net-(D59-Pad2)">
+      <node ref="K_59" pin="2"/>
+      <node ref="D59" pin="2"/>
+    </net>
+    <net code="28" name="Net-(D58-Pad2)">
+      <node ref="K_58" pin="2"/>
+      <node ref="D58" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D40-Pad2)">
+      <node ref="K_40" pin="2"/>
+      <node ref="D40" pin="2"/>
+    </net>
+    <net code="30" name="Net-(D62-Pad2)">
+      <node ref="D62" pin="2"/>
+      <node ref="K_62" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D64-Pad2)">
+      <node ref="K_64B1" pin="2"/>
+      <node ref="D64" pin="2"/>
+      <node ref="K_64" pin="2"/>
+    </net>
+    <net code="32" name="Net-(D65-Pad2)">
+      <node ref="K_65" pin="2"/>
+      <node ref="D65" pin="2"/>
+    </net>
+    <net code="33" name="Net-(D66-Pad2)">
+      <node ref="D66" pin="2"/>
+      <node ref="K_66" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D18-Pad2)">
       <node ref="D18" pin="2"/>
       <node ref="K_18" pin="2"/>
     </net>
-    <net code="36" name="Net-(D17-Pad2)">
+    <net code="35" name="Net-(D17-Pad2)">
       <node ref="D17" pin="2"/>
       <node ref="K_17" pin="2"/>
     </net>
-    <net code="37" name="Net-(D16-Pad2)">
+    <net code="36" name="Net-(D16-Pad2)">
       <node ref="D16" pin="2"/>
       <node ref="K_16" pin="2"/>
     </net>
-    <net code="38" name="Net-(D23-Pad2)">
-      <node ref="K_23" pin="2"/>
-      <node ref="D23" pin="2"/>
+    <net code="37" name="Net-(D15-Pad2)">
+      <node ref="K_15" pin="2"/>
+      <node ref="D15" pin="2"/>
     </net>
-    <net code="39" name="Net-(D22-Pad2)">
-      <node ref="D22" pin="2"/>
+    <net code="38" name="Net-(D22-Pad2)">
       <node ref="K_22" pin="2"/>
+      <node ref="D22" pin="2"/>
     </net>
-    <net code="40" name="Net-(D21-Pad2)">
+    <net code="39" name="Net-(D21-Pad2)">
       <node ref="D21" pin="2"/>
       <node ref="K_21" pin="2"/>
     </net>
-    <net code="41" name="Net-(D20-Pad2)">
+    <net code="40" name="Net-(D20-Pad2)">
       <node ref="D20" pin="2"/>
       <node ref="K_20" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="K_19" pin="2"/>
     </net>
     <net code="42" name="Net-(D10-Pad2)">
       <node ref="D10" pin="2"/>
       <node ref="K_10" pin="2"/>
     </net>
-    <net code="43" name="Net-(D11-Pad2)">
-      <node ref="D11" pin="2"/>
-      <node ref="K_11" pin="2"/>
-    </net>
-    <net code="44" name="Net-(D9-Pad2)">
+    <net code="43" name="Net-(D9-Pad2)">
       <node ref="K_9" pin="2"/>
       <node ref="D9" pin="2"/>
     </net>
-    <net code="45" name="Net-(D8-Pad2)">
-      <node ref="D8" pin="2"/>
+    <net code="44" name="Net-(D8-Pad2)">
       <node ref="K_8" pin="2"/>
+      <node ref="D8" pin="2"/>
     </net>
-    <net code="46" name="Net-(D12-Pad2)">
-      <node ref="K_12" pin="2"/>
+    <net code="45" name="Net-(D7-Pad2)">
+      <node ref="K_7" pin="2"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="K_11" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D12-Pad2)">
       <node ref="D12" pin="2"/>
+      <node ref="K_12" pin="2"/>
     </net>
-    <net code="47" name="Net-(D13-Pad2)">
+    <net code="48" name="Net-(D13-Pad2)">
       <node ref="D13" pin="2"/>
       <node ref="K_13" pin="2"/>
     </net>
-    <net code="48" name="Net-(D14-Pad2)">
+    <net code="49" name="Net-(D14-Pad2)">
       <node ref="K_14" pin="2"/>
       <node ref="D14" pin="2"/>
     </net>
-    <net code="49" name="Net-(D15-Pad2)">
-      <node ref="D15" pin="2"/>
-      <node ref="K_15" pin="2"/>
-    </net>
     <net code="50" name="Net-(D35-Pad2)">
-      <node ref="K_35" pin="2"/>
       <node ref="D35" pin="2"/>
+      <node ref="K_35" pin="2"/>
     </net>
-    <net code="51" name="Net-(D36-Pad2)">
-      <node ref="K_36" pin="2"/>
-      <node ref="D36" pin="2"/>
-    </net>
-    <net code="52" name="Net-(D34-Pad2)">
-      <node ref="K_34" pin="2"/>
+    <net code="51" name="Net-(D34-Pad2)">
       <node ref="D34" pin="2"/>
+      <node ref="K_34" pin="2"/>
     </net>
-    <net code="53" name="Net-(D33-Pad2)">
-      <node ref="K_33" pin="2"/>
+    <net code="52" name="Net-(D33-Pad2)">
       <node ref="D33" pin="2"/>
+      <node ref="K_33" pin="2"/>
     </net>
-    <net code="54" name="Net-(D40-Pad2)">
-      <node ref="K_40" pin="2"/>
-      <node ref="D40" pin="2"/>
+    <net code="53" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2"/>
+      <node ref="K_32" pin="2"/>
     </net>
-    <net code="55" name="Net-(D39-Pad2)">
+    <net code="54" name="Net-(D39-Pad2)">
       <node ref="K_39" pin="2"/>
       <node ref="D39" pin="2"/>
     </net>
-    <net code="56" name="Net-(D38-Pad2)">
-      <node ref="K_38" pin="2"/>
+    <net code="55" name="Net-(D38-Pad2)">
       <node ref="D38" pin="2"/>
+      <node ref="K_38" pin="2"/>
     </net>
-    <net code="57" name="Net-(D37-Pad2)">
-      <node ref="D37" pin="2"/>
+    <net code="56" name="Net-(D37-Pad2)">
       <node ref="K_37" pin="2"/>
+      <node ref="D37" pin="2"/>
     </net>
-    <net code="58" name="Net-(D27-Pad2)">
-      <node ref="D27" pin="2"/>
-      <node ref="K_27" pin="2"/>
+    <net code="57" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2"/>
+      <node ref="K_36" pin="2"/>
     </net>
-    <net code="59" name="Net-(D26-Pad2)">
+    <net code="58" name="Net-(D26-Pad2)">
       <node ref="D26" pin="2"/>
       <node ref="K_26" pin="2"/>
+    </net>
+    <net code="59" name="Net-(D27-Pad2)">
+      <node ref="K_27" pin="2"/>
+      <node ref="D27" pin="2"/>
     </net>
     <net code="60" name="Net-(D25-Pad2)">
       <node ref="D25" pin="2"/>
@@ -1896,454 +1869,447 @@
       <node ref="K_24" pin="2"/>
       <node ref="D24" pin="2"/>
     </net>
-    <net code="62" name="Net-(D76-Pad2)">
-      <node ref="K_76" pin="2"/>
-      <node ref="D76" pin="2"/>
+    <net code="62" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="K_23" pin="2"/>
     </net>
-    <net code="63" name="Net-(D28-Pad2)">
-      <node ref="K_28" pin="2"/>
+    <net code="63" name="Net-(D75-Pad2)">
+      <node ref="D75" pin="2"/>
+      <node ref="K_75" pin="2"/>
+    </net>
+    <net code="64" name="Net-(D28-Pad2)">
       <node ref="D28" pin="2"/>
+      <node ref="K_28" pin="2"/>
     </net>
-    <net code="64" name="Net-(D29-Pad2)">
+    <net code="65" name="Net-(D29-Pad2)">
       <node ref="D29" pin="2"/>
       <node ref="K_29" pin="2"/>
     </net>
-    <net code="65" name="Net-(D30-Pad2)">
+    <net code="66" name="Net-(D30-Pad2)">
       <node ref="D30" pin="2"/>
       <node ref="K_30" pin="2"/>
     </net>
-    <net code="66" name="Net-(D31-Pad2)">
+    <net code="67" name="Net-(D31-Pad2)">
       <node ref="D31" pin="2"/>
       <node ref="K_31" pin="2"/>
     </net>
-    <net code="67" name="Net-(D32-Pad2)">
-      <node ref="D32" pin="2"/>
-      <node ref="K_32" pin="2"/>
-    </net>
-    <net code="68" name="Net-(J0-PadA5)">
+    <net code="68" name="GND">
+      <node ref="PowerLED0" pin="1"/>
+      <node ref="I2CHeader0" pin="1"/>
       <node ref="RESISTOR0" pin="2"/>
-      <node ref="J0" pin="A5"/>
+      <node ref="RESISTOR1" pin="1"/>
+      <node ref="RPI0" pin="3"/>
+      <node ref="USB1" pin="1"/>
+      <node ref="USB1" pin="12"/>
+      <node ref="USB1" pin="13"/>
+      <node ref="SW-RST0" pin="2"/>
+      <node ref="RPI0" pin="TP1"/>
+      <node ref="RPI0" pin="8"/>
+      <node ref="RPI0" pin="28"/>
+      <node ref="RPI0" pin="23"/>
+      <node ref="RPI0" pin="18"/>
+      <node ref="RPI0" pin="13"/>
+      <node ref="RPI0" pin="38"/>
     </net>
-    <net code="69" name="Net-(J0-PadB5)">
-      <node ref="RESISTOR1" pin="2"/>
-      <node ref="J0" pin="B5"/>
-    </net>
-    <net code="70" name="Net-(PowerLED0-Pad2)">
+    <net code="69" name="Net-(PowerLED0-Pad2)">
       <node ref="PowerLED0" pin="2"/>
       <node ref="PowerLedResistor0" pin="2"/>
     </net>
-    <net code="71" name="Net-(J0-PadA8)">
-      <node ref="J0" pin="A8"/>
+    <net code="70" name="Net-(RESISTOR0-Pad1)">
+      <node ref="USB1" pin="10"/>
+      <node ref="RESISTOR0" pin="1"/>
     </net>
-    <net code="72" name="USB2_P">
-      <node ref="RPI0" pin="TP3"/>
-      <node ref="J0" pin="A6"/>
-      <node ref="J0" pin="B6"/>
+    <net code="71" name="Net-(RESISTOR1-Pad2)">
+      <node ref="USB1" pin="4"/>
+      <node ref="RESISTOR1" pin="2"/>
     </net>
-    <net code="73" name="USBVBUS">
-      <node ref="PowerLedResistor0" pin="1"/>
-      <node ref="J0" pin="A9"/>
-      <node ref="J0" pin="B9"/>
-      <node ref="J0" pin="A4"/>
-      <node ref="RPI0" pin="40"/>
-      <node ref="J0" pin="B4"/>
-    </net>
-    <net code="74" name="Net-(RPI0-Pad41)">
-      <node ref="RPI0" pin="41"/>
-    </net>
-    <net code="75" name="Net-(RPI0-Pad43)">
-      <node ref="RPI0" pin="43"/>
-    </net>
-    <net code="76" name="Net-(RPI0-Pad42)">
-      <node ref="RPI0" pin="42"/>
-    </net>
-    <net code="77" name="Net-(RPI0-Pad39)">
-      <node ref="RPI0" pin="39"/>
-    </net>
-    <net code="78" name="Net-(RPI0-Pad37)">
+    <net code="72" name="Net-(RPI0-Pad37)">
       <node ref="RPI0" pin="37"/>
     </net>
-    <net code="79" name="3.3V">
-      <node ref="I2CHeader0" pin="2"/>
-      <node ref="RPI0" pin="36"/>
+    <net code="73" name="Net-(RPI0-Pad43)">
+      <node ref="RPI0" pin="43"/>
     </net>
-    <net code="80" name="Net-(RPI0-Pad35)">
+    <net code="74" name="Net-(RPI0-Pad42)">
+      <node ref="RPI0" pin="42"/>
+    </net>
+    <net code="75" name="Net-(RPI0-Pad41)">
+      <node ref="RPI0" pin="41"/>
+    </net>
+    <net code="76" name="Net-(RPI0-Pad39)">
+      <node ref="RPI0" pin="39"/>
+    </net>
+    <net code="77" name="Net-(RPI0-Pad35)">
       <node ref="RPI0" pin="35"/>
     </net>
-    <net code="81" name="col14">
-      <node ref="K_85" pin="1"/>
-      <node ref="K_12" pin="1"/>
-      <node ref="K_46" pin="1"/>
-      <node ref="K_63" pin="1"/>
-      <node ref="K_63B1" pin="1"/>
-      <node ref="K_29" pin="1"/>
-      <node ref="RPI0" pin="25"/>
-    </net>
-    <net code="82" name="col15">
-      <node ref="K_13" pin="1"/>
-      <node ref="K_30" pin="1"/>
-      <node ref="K_86" pin="1"/>
-      <node ref="K_47" pin="1"/>
-      <node ref="RPI0" pin="24"/>
-    </net>
-    <net code="83" name="Net-(D63-Pad2)">
-      <node ref="K_63" pin="2"/>
-      <node ref="K_63B1" pin="2"/>
-      <node ref="D63" pin="2"/>
-    </net>
-    <net code="84" name="Net-(D46-Pad2)">
-      <node ref="K_46" pin="2"/>
-      <node ref="D46" pin="2"/>
-    </net>
-    <net code="85" name="GND">
-      <node ref="I2CHeader0" pin="1"/>
-      <node ref="J0" pin="S3"/>
-      <node ref="J0" pin="S4"/>
-      <node ref="RPI0" pin="3"/>
-      <node ref="J0" pin="S2"/>
-      <node ref="RPI0" pin="38"/>
-      <node ref="J0" pin="B12"/>
-      <node ref="RESISTOR1" pin="1"/>
-      <node ref="RESISTOR0" pin="1"/>
-      <node ref="RPI0" pin="23"/>
-      <node ref="RPI0" pin="28"/>
-      <node ref="RPI0" pin="18"/>
-      <node ref="RPI0" pin="13"/>
-      <node ref="SW-RST0" pin="2"/>
-      <node ref="J0" pin="S1"/>
-      <node ref="RPI0" pin="TP1"/>
-      <node ref="PowerLED0" pin="1"/>
-      <node ref="RPI0" pin="8"/>
-      <node ref="J0" pin="A1"/>
-      <node ref="J0" pin="A12"/>
-      <node ref="J0" pin="B1"/>
-    </net>
-    <net code="86" name="Net-(J0-PadB8)">
-      <node ref="J0" pin="B8"/>
-    </net>
-    <net code="87" name="USB2_N">
-      <node ref="J0" pin="A7"/>
-      <node ref="J0" pin="B7"/>
-      <node ref="RPI0" pin="TP2"/>
-    </net>
-    <net code="88" name="Net-(D0-Pad2)">
-      <node ref="D0" pin="2"/>
-      <node ref="K_0" pin="2"/>
-    </net>
-    <net code="89" name="Net-(D1-Pad2)">
-      <node ref="K_1" pin="2"/>
-      <node ref="D1" pin="2"/>
-    </net>
-    <net code="90" name="row6">
-      <node ref="D88" pin="1"/>
-      <node ref="D87" pin="1"/>
-      <node ref="D86" pin="1"/>
-      <node ref="D85" pin="1"/>
-      <node ref="D84" pin="1"/>
-      <node ref="D82" pin="1"/>
-      <node ref="D83" pin="1"/>
-      <node ref="RPI0" pin="34"/>
-      <node ref="D80" pin="1"/>
-      <node ref="D81" pin="1"/>
-      <node ref="D78" pin="1"/>
-      <node ref="D79" pin="1"/>
-    </net>
-    <net code="91" name="Net-(D81-Pad2)">
-      <node ref="D81" pin="2"/>
-      <node ref="K_81" pin="2"/>
-    </net>
-    <net code="92" name="Net-(D80-Pad2)">
-      <node ref="D80" pin="2"/>
-      <node ref="K_80" pin="2"/>
-    </net>
-    <net code="93" name="Net-(D79-Pad2)">
-      <node ref="K_79" pin="2"/>
-      <node ref="D79" pin="2"/>
-    </net>
-    <net code="94" name="Net-(D78-Pad2)">
-      <node ref="K_78" pin="2"/>
-      <node ref="D78" pin="2"/>
-    </net>
-    <net code="95" name="Net-(D77-Pad2)">
-      <node ref="K_77" pin="2"/>
-      <node ref="D77" pin="2"/>
-    </net>
-    <net code="96" name="Net-(D82-Pad2)">
-      <node ref="D82" pin="2"/>
-      <node ref="K_82" pin="2"/>
-    </net>
-    <net code="97" name="Net-(D83-Pad2)">
-      <node ref="K_83" pin="2"/>
-      <node ref="D83" pin="2"/>
-    </net>
-    <net code="98" name="Net-(D84-Pad2)">
-      <node ref="D84" pin="2"/>
-      <node ref="K_84" pin="2"/>
-    </net>
-    <net code="99" name="Net-(D85-Pad2)">
-      <node ref="D85" pin="2"/>
-      <node ref="K_85" pin="2"/>
-    </net>
-    <net code="100" name="Net-(D86-Pad2)">
-      <node ref="K_86" pin="2"/>
-      <node ref="D86" pin="2"/>
-    </net>
-    <net code="101" name="Net-(D87-Pad2)">
-      <node ref="D87" pin="2"/>
-      <node ref="K_87" pin="2"/>
-    </net>
-    <net code="102" name="Net-(D88-Pad2)">
-      <node ref="K_88" pin="2"/>
-      <node ref="D88" pin="2"/>
-    </net>
-    <net code="103" name="I2CSDA">
-      <node ref="RPI0" pin="1"/>
-      <node ref="I2CHeader0" pin="4"/>
-    </net>
-    <net code="104" name="col2">
-      <node ref="K_34" pin="1"/>
-      <node ref="K_66" pin="1"/>
-      <node ref="K_51" pin="1"/>
-      <node ref="K_18" pin="1"/>
-      <node ref="K_1" pin="1"/>
-      <node ref="RPI0" pin="6"/>
-    </net>
-    <net code="105" name="col1">
-      <node ref="K_79" pin="1"/>
-      <node ref="RPI0" pin="5"/>
-      <node ref="K_17" pin="1"/>
-      <node ref="K_65" pin="1"/>
-    </net>
-    <net code="106" name="col0">
-      <node ref="RPI0" pin="4"/>
-      <node ref="K_16" pin="1"/>
-      <node ref="K_78" pin="1"/>
-      <node ref="K_64B1" pin="1"/>
-      <node ref="K_33" pin="1"/>
-      <node ref="K_0" pin="1"/>
-      <node ref="K_64" pin="1"/>
-      <node ref="K_50" pin="1"/>
-    </net>
-    <net code="107" name="col3">
-      <node ref="K_52" pin="1"/>
-      <node ref="K_67" pin="1"/>
-      <node ref="K_35" pin="1"/>
-      <node ref="RPI0" pin="7"/>
-      <node ref="K_2" pin="1"/>
-      <node ref="K_19" pin="1"/>
-      <node ref="K_80" pin="1"/>
-    </net>
-    <net code="108" name="row0">
-      <node ref="D15" pin="1"/>
-      <node ref="D5" pin="1"/>
-      <node ref="D11" pin="1"/>
-      <node ref="D10" pin="1"/>
-      <node ref="D9" pin="1"/>
-      <node ref="D3" pin="1"/>
-      <node ref="D12" pin="1"/>
-      <node ref="D1" pin="1"/>
-      <node ref="D0" pin="1"/>
-      <node ref="D13" pin="1"/>
-      <node ref="D2" pin="1"/>
-      <node ref="D8" pin="1"/>
-      <node ref="D4" pin="1"/>
-      <node ref="D14" pin="1"/>
-      <node ref="D7" pin="1"/>
-      <node ref="RPI0" pin="26"/>
-      <node ref="D6" pin="1"/>
-    </net>
-    <net code="109" name="Net-(RPI0-Pad33)">
+    <net code="78" name="Net-(RPI0-Pad33)">
       <node ref="RPI0" pin="33"/>
     </net>
-    <net code="110" name="row5">
-      <node ref="D67" pin="1"/>
-      <node ref="D65" pin="1"/>
+    <net code="79" name="row5">
+      <node ref="D77" pin="1"/>
+      <node ref="D76" pin="1"/>
+      <node ref="RPI0" pin="32"/>
       <node ref="D66" pin="1"/>
+      <node ref="D65" pin="1"/>
       <node ref="D64" pin="1"/>
+      <node ref="D72" pin="1"/>
+      <node ref="D74" pin="1"/>
+      <node ref="D75" pin="1"/>
       <node ref="D73" pin="1"/>
-      <node ref="D70" pin="1"/>
+      <node ref="D67" pin="1"/>
+      <node ref="D68" pin="1"/>
       <node ref="D71" pin="1"/>
       <node ref="D69" pin="1"/>
-      <node ref="RPI0" pin="32"/>
-      <node ref="D76" pin="1"/>
-      <node ref="D77" pin="1"/>
-      <node ref="D74" pin="1"/>
-      <node ref="D68" pin="1"/>
-      <node ref="D72" pin="1"/>
-      <node ref="D75" pin="1"/>
+      <node ref="D70" pin="1"/>
     </net>
-    <net code="111" name="row4">
-      <node ref="D54" pin="1"/>
-      <node ref="D61" pin="1"/>
-      <node ref="D63" pin="1"/>
+    <net code="80" name="row4">
       <node ref="D59" pin="1"/>
+      <node ref="D61" pin="1"/>
       <node ref="D60" pin="1"/>
-      <node ref="D62" pin="1"/>
-      <node ref="RPI0" pin="31"/>
-      <node ref="D55" pin="1"/>
       <node ref="D58" pin="1"/>
-      <node ref="D51" pin="1"/>
-      <node ref="D57" pin="1"/>
+      <node ref="D62" pin="1"/>
+      <node ref="D53" pin="1"/>
       <node ref="D50" pin="1"/>
       <node ref="D56" pin="1"/>
-      <node ref="D53" pin="1"/>
+      <node ref="D55" pin="1"/>
+      <node ref="D54" pin="1"/>
+      <node ref="D57" pin="1"/>
+      <node ref="D51" pin="1"/>
+      <node ref="D63" pin="1"/>
       <node ref="D52" pin="1"/>
+      <node ref="RPI0" pin="31"/>
     </net>
-    <net code="112" name="Resetbtn">
+    <net code="81" name="3.3V">
+      <node ref="RPI0" pin="36"/>
+      <node ref="I2CHeader0" pin="2"/>
+    </net>
+    <net code="82" name="col4">
+      <node ref="K_20" pin="1"/>
+      <node ref="K_3" pin="1"/>
+      <node ref="K_36" pin="1"/>
+      <node ref="K_68" pin="1"/>
+      <node ref="RPI0" pin="9"/>
+      <node ref="K_53" pin="1"/>
+    </net>
+    <net code="83" name="col15">
+      <node ref="K_30" pin="1"/>
+      <node ref="RPI0" pin="24"/>
+      <node ref="K_86" pin="1"/>
+      <node ref="K_47" pin="1"/>
+      <node ref="K_13" pin="1"/>
+    </net>
+    <net code="84" name="col14">
+      <node ref="K_85" pin="1"/>
+      <node ref="RPI0" pin="25"/>
+      <node ref="K_46" pin="1"/>
+      <node ref="K_29" pin="1"/>
+      <node ref="K_12" pin="1"/>
+      <node ref="K_63" pin="1"/>
+      <node ref="K_63B1" pin="1"/>
+    </net>
+    <net code="85" name="Net-(D63-Pad2)">
+      <node ref="K_63B1" pin="2"/>
+      <node ref="D63" pin="2"/>
+      <node ref="K_63" pin="2"/>
+    </net>
+    <net code="86" name="USB2_P">
+      <node ref="USB1" pin="6"/>
+      <node ref="USB1" pin="8"/>
+      <node ref="RPI0" pin="TP3"/>
+    </net>
+    <net code="87" name="Net-(USB1-Pad9)">
+      <node ref="USB1" pin="9"/>
+    </net>
+    <net code="88" name="USB2_N">
+      <node ref="USB1" pin="5"/>
+      <node ref="RPI0" pin="TP2"/>
+      <node ref="USB1" pin="7"/>
+    </net>
+    <net code="89" name="Net-(USB1-Pad3)">
+      <node ref="USB1" pin="3"/>
+    </net>
+    <net code="90" name="USBVBUS">
+      <node ref="PowerLedResistor0" pin="1"/>
+      <node ref="RPI0" pin="40"/>
+      <node ref="USB1" pin="2"/>
+      <node ref="USB1" pin="11"/>
+    </net>
+    <net code="91" name="Resetbtn">
       <node ref="SW-RST0" pin="1"/>
       <node ref="RPI0" pin="30"/>
     </net>
-    <net code="113" name="row3">
-      <node ref="D36" pin="1"/>
-      <node ref="D34" pin="1"/>
-      <node ref="D35" pin="1"/>
-      <node ref="D33" pin="1"/>
-      <node ref="D40" pin="1"/>
-      <node ref="D39" pin="1"/>
-      <node ref="D38" pin="1"/>
-      <node ref="D37" pin="1"/>
-      <node ref="RPI0" pin="29"/>
-      <node ref="D46" pin="1"/>
-      <node ref="D44" pin="1"/>
-      <node ref="D43" pin="1"/>
-      <node ref="D42" pin="1"/>
-      <node ref="D41" pin="1"/>
-      <node ref="D49" pin="1"/>
-      <node ref="D48" pin="1"/>
-      <node ref="D47" pin="1"/>
-      <node ref="D45" pin="1"/>
+    <net code="92" name="I2CSDA">
+      <node ref="RPI0" pin="1"/>
+      <node ref="I2CHeader0" pin="4"/>
     </net>
-    <net code="114" name="row2">
-      <node ref="RPI0" pin="27"/>
-      <node ref="D22" pin="1"/>
-      <node ref="D16" pin="1"/>
-      <node ref="D17" pin="1"/>
-      <node ref="D18" pin="1"/>
-      <node ref="D19" pin="1"/>
-      <node ref="D23" pin="1"/>
-      <node ref="D21" pin="1"/>
-      <node ref="D20" pin="1"/>
-      <node ref="D32" pin="1"/>
-      <node ref="D27" pin="1"/>
-      <node ref="D26" pin="1"/>
-      <node ref="D28" pin="1"/>
-      <node ref="D25" pin="1"/>
-      <node ref="D24" pin="1"/>
-      <node ref="D29" pin="1"/>
-      <node ref="D30" pin="1"/>
-      <node ref="D31" pin="1"/>
-    </net>
-    <net code="115" name="col16">
-      <node ref="K_77" pin="1"/>
-      <node ref="K_87" pin="1"/>
-      <node ref="K_48" pin="1"/>
-      <node ref="K_31" pin="1"/>
-      <node ref="K_14" pin="1"/>
-      <node ref="RPI0" pin="22"/>
-    </net>
-    <net code="116" name="col17">
-      <node ref="K_15" pin="1"/>
-      <node ref="K_32" pin="1"/>
-      <node ref="K_49" pin="1"/>
-      <node ref="RPI0" pin="21"/>
-      <node ref="K_88" pin="1"/>
-    </net>
-    <net code="117" name="I2CSCL">
+    <net code="93" name="I2CSCL">
       <node ref="I2CHeader0" pin="3"/>
       <node ref="RPI0" pin="2"/>
     </net>
-    <net code="118" name="col12">
-      <node ref="RPI0" pin="19"/>
-      <node ref="K_28" pin="1"/>
-      <node ref="K_61" pin="1"/>
-      <node ref="K_10" pin="1"/>
-      <node ref="K_44" pin="1"/>
+    <net code="94" name="Net-(D46-Pad2)">
+      <node ref="K_46" pin="2"/>
+      <node ref="D46" pin="2"/>
     </net>
-    <net code="119" name="col10">
-      <node ref="K_26" pin="1"/>
-      <node ref="RPI0" pin="16"/>
-      <node ref="K_8" pin="1"/>
-      <node ref="K_74" pin="1"/>
-      <node ref="K_82" pin="1"/>
-      <node ref="K_42" pin="1"/>
-      <node ref="K_59" pin="1"/>
+    <net code="95" name="Net-(D0-Pad2)">
+      <node ref="K_0" pin="2"/>
+      <node ref="D0" pin="2"/>
     </net>
-    <net code="120" name="col11">
-      <node ref="K_60" pin="1"/>
-      <node ref="K_75" pin="1"/>
-      <node ref="K_83" pin="1"/>
-      <node ref="K_9" pin="1"/>
-      <node ref="K_27" pin="1"/>
-      <node ref="RPI0" pin="17"/>
-      <node ref="K_43" pin="1"/>
+    <net code="96" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="K_1" pin="2"/>
     </net>
-    <net code="121" name="col8">
-      <node ref="K_57" pin="1"/>
-      <node ref="K_72" pin="1"/>
-      <node ref="RPI0" pin="14"/>
-      <node ref="K_40" pin="1"/>
-      <node ref="K_6" pin="1"/>
-      <node ref="K_24" pin="1"/>
+    <net code="97" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="K_2" pin="2"/>
     </net>
-    <net code="122" name="col9">
-      <node ref="K_58" pin="1"/>
-      <node ref="K_73" pin="1"/>
-      <node ref="K_41" pin="1"/>
-      <node ref="K_25" pin="1"/>
-      <node ref="K_7" pin="1"/>
-      <node ref="RPI0" pin="15"/>
+    <net code="98" name="Net-(D88-Pad2)">
+      <node ref="D88" pin="2"/>
+      <node ref="K_88" pin="2"/>
     </net>
-    <net code="123" name="col13">
-      <node ref="K_84" pin="1"/>
-      <node ref="RPI0" pin="20"/>
-      <node ref="K_62" pin="1"/>
-      <node ref="K_76" pin="1"/>
-      <node ref="K_45" pin="1"/>
-      <node ref="K_11" pin="1"/>
+    <net code="99" name="Net-(D79-Pad2)">
+      <node ref="D79" pin="2"/>
+      <node ref="K_79" pin="2"/>
     </net>
-    <net code="124" name="col4">
-      <node ref="K_68" pin="1"/>
-      <node ref="K_53" pin="1"/>
-      <node ref="RPI0" pin="9"/>
-      <node ref="K_20" pin="1"/>
-      <node ref="K_36" pin="1"/>
-      <node ref="K_3" pin="1"/>
+    <net code="100" name="Net-(D78-Pad2)">
+      <node ref="D78" pin="2"/>
+      <node ref="K_78" pin="2"/>
     </net>
-    <net code="125" name="col5">
-      <node ref="K_37" pin="1"/>
+    <net code="101" name="Net-(D77-Pad2)">
+      <node ref="D77" pin="2"/>
+      <node ref="K_77" pin="2"/>
+    </net>
+    <net code="102" name="Net-(D76-Pad2)">
+      <node ref="D76" pin="2"/>
+      <node ref="K_76" pin="2"/>
+    </net>
+    <net code="103" name="row6">
+      <node ref="D84" pin="1"/>
+      <node ref="D79" pin="1"/>
+      <node ref="D85" pin="1"/>
+      <node ref="D88" pin="1"/>
+      <node ref="RPI0" pin="34"/>
+      <node ref="D87" pin="1"/>
+      <node ref="D86" pin="1"/>
+      <node ref="D80" pin="1"/>
+      <node ref="D81" pin="1"/>
+      <node ref="D78" pin="1"/>
+      <node ref="D82" pin="1"/>
+      <node ref="D83" pin="1"/>
+    </net>
+    <net code="104" name="Net-(D80-Pad2)">
+      <node ref="D80" pin="2"/>
+      <node ref="K_80" pin="2"/>
+    </net>
+    <net code="105" name="Net-(D81-Pad2)">
+      <node ref="K_81" pin="2"/>
+      <node ref="D81" pin="2"/>
+    </net>
+    <net code="106" name="Net-(D82-Pad2)">
+      <node ref="K_82" pin="2"/>
+      <node ref="D82" pin="2"/>
+    </net>
+    <net code="107" name="Net-(D83-Pad2)">
+      <node ref="K_83" pin="2"/>
+      <node ref="D83" pin="2"/>
+    </net>
+    <net code="108" name="Net-(D84-Pad2)">
+      <node ref="D84" pin="2"/>
+      <node ref="K_84" pin="2"/>
+    </net>
+    <net code="109" name="Net-(D85-Pad2)">
+      <node ref="D85" pin="2"/>
+      <node ref="K_85" pin="2"/>
+    </net>
+    <net code="110" name="Net-(D86-Pad2)">
+      <node ref="D86" pin="2"/>
+      <node ref="K_86" pin="2"/>
+    </net>
+    <net code="111" name="Net-(D87-Pad2)">
+      <node ref="D87" pin="2"/>
+      <node ref="K_87" pin="2"/>
+    </net>
+    <net code="112" name="col0">
+      <node ref="K_64" pin="1"/>
+      <node ref="K_33" pin="1"/>
+      <node ref="K_0" pin="1"/>
+      <node ref="K_16" pin="1"/>
+      <node ref="K_50" pin="1"/>
+      <node ref="K_64B1" pin="1"/>
+      <node ref="RPI0" pin="4"/>
+      <node ref="K_78" pin="1"/>
+    </net>
+    <net code="113" name="col6">
+      <node ref="K_55" pin="1"/>
+      <node ref="K_38" pin="1"/>
+      <node ref="K_70" pin="1"/>
+      <node ref="RPI0" pin="11"/>
+      <node ref="K_81" pin="1"/>
+      <node ref="K_22" pin="1"/>
+    </net>
+    <net code="114" name="col5">
       <node ref="K_54" pin="1"/>
       <node ref="RPI0" pin="10"/>
       <node ref="K_4" pin="1"/>
       <node ref="K_69" pin="1"/>
       <node ref="K_21" pin="1"/>
+      <node ref="K_37" pin="1"/>
     </net>
-    <net code="126" name="col6">
-      <node ref="K_38" pin="1"/>
-      <node ref="K_81" pin="1"/>
-      <node ref="K_22" pin="1"/>
-      <node ref="RPI0" pin="11"/>
-      <node ref="K_55" pin="1"/>
-      <node ref="K_70" pin="1"/>
+    <net code="115" name="col2">
+      <node ref="K_34" pin="1"/>
+      <node ref="RPI0" pin="6"/>
+      <node ref="K_51" pin="1"/>
+      <node ref="K_66" pin="1"/>
+      <node ref="K_1" pin="1"/>
+      <node ref="K_18" pin="1"/>
     </net>
-    <net code="127" name="col7">
-      <node ref="RPI0" pin="12"/>
-      <node ref="K_71" pin="1"/>
+    <net code="116" name="col1">
+      <node ref="RPI0" pin="5"/>
+      <node ref="K_65" pin="1"/>
+      <node ref="K_17" pin="1"/>
+      <node ref="K_79" pin="1"/>
+    </net>
+    <net code="117" name="col3">
+      <node ref="K_67" pin="1"/>
+      <node ref="K_35" pin="1"/>
+      <node ref="K_2" pin="1"/>
+      <node ref="K_52" pin="1"/>
+      <node ref="K_80" pin="1"/>
+      <node ref="K_19" pin="1"/>
+      <node ref="RPI0" pin="7"/>
+    </net>
+    <net code="118" name="col17">
+      <node ref="K_49" pin="1"/>
+      <node ref="RPI0" pin="21"/>
+      <node ref="K_32" pin="1"/>
+      <node ref="K_88" pin="1"/>
+      <node ref="K_15" pin="1"/>
+    </net>
+    <net code="119" name="col16">
+      <node ref="K_77" pin="1"/>
+      <node ref="K_14" pin="1"/>
+      <node ref="RPI0" pin="22"/>
+      <node ref="K_48" pin="1"/>
+      <node ref="K_31" pin="1"/>
+      <node ref="K_87" pin="1"/>
+    </net>
+    <net code="120" name="row0">
+      <node ref="D0" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="RPI0" pin="26"/>
+    </net>
+    <net code="121" name="row2">
+      <node ref="D25" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="RPI0" pin="27"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D32" pin="1"/>
+    </net>
+    <net code="122" name="row3">
+      <node ref="D42" pin="1"/>
+      <node ref="D43" pin="1"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D49" pin="1"/>
+      <node ref="RPI0" pin="29"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="D48" pin="1"/>
+      <node ref="D41" pin="1"/>
+      <node ref="D39" pin="1"/>
+      <node ref="D38" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="D34" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D37" pin="1"/>
+    </net>
+    <net code="123" name="col9">
+      <node ref="RPI0" pin="15"/>
+      <node ref="K_25" pin="1"/>
+      <node ref="K_7" pin="1"/>
+      <node ref="K_41" pin="1"/>
+      <node ref="K_73" pin="1"/>
+      <node ref="K_58" pin="1"/>
+    </net>
+    <net code="124" name="col8">
+      <node ref="K_40" pin="1"/>
+      <node ref="K_6" pin="1"/>
+      <node ref="RPI0" pin="14"/>
+      <node ref="K_57" pin="1"/>
+      <node ref="K_72" pin="1"/>
+      <node ref="K_24" pin="1"/>
+    </net>
+    <net code="125" name="Net-(D6-Pad2)">
+      <node ref="K_6" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="126" name="col11">
+      <node ref="RPI0" pin="17"/>
+      <node ref="K_43" pin="1"/>
+      <node ref="K_60" pin="1"/>
+      <node ref="K_75" pin="1"/>
+      <node ref="K_83" pin="1"/>
+      <node ref="K_9" pin="1"/>
+      <node ref="K_27" pin="1"/>
+    </net>
+    <net code="127" name="col10">
+      <node ref="K_74" pin="1"/>
+      <node ref="K_82" pin="1"/>
+      <node ref="RPI0" pin="16"/>
+      <node ref="K_8" pin="1"/>
+      <node ref="K_26" pin="1"/>
+      <node ref="K_42" pin="1"/>
+      <node ref="K_59" pin="1"/>
+    </net>
+    <net code="128" name="col12">
+      <node ref="K_44" pin="1"/>
+      <node ref="RPI0" pin="19"/>
+      <node ref="K_28" pin="1"/>
+      <node ref="K_61" pin="1"/>
+      <node ref="K_10" pin="1"/>
+    </net>
+    <net code="129" name="col13">
+      <node ref="K_76" pin="1"/>
+      <node ref="K_11" pin="1"/>
+      <node ref="K_84" pin="1"/>
+      <node ref="K_45" pin="1"/>
+      <node ref="RPI0" pin="20"/>
+      <node ref="K_62" pin="1"/>
+    </net>
+    <net code="130" name="col7">
+      <node ref="K_5" pin="1"/>
       <node ref="K_39" pin="1"/>
       <node ref="K_56" pin="1"/>
       <node ref="K_23" pin="1"/>
-      <node ref="K_5" pin="1"/>
-    </net>
-    <net code="129" name="Net-(D3-Pad2)">
-      <node ref="D3" pin="2"/>
-      <node ref="K_3" pin="2"/>
-    </net>
-    <net code="130" name="Net-(D7-Pad2)">
-      <node ref="K_7" pin="2"/>
-      <node ref="D7" pin="2"/>
-    </net>
-    <net code="131" name="Net-(D6-Pad2)">
-      <node ref="D6" pin="2"/>
-      <node ref="K_6" pin="2"/>
+      <node ref="K_71" pin="1"/>
+      <node ref="RPI0" pin="12"/>
     </net>
     <net code="132" name="Net-(D5-Pad2)">
       <node ref="K_5" pin="2"/>
@@ -2353,9 +2319,9 @@
       <node ref="K_4" pin="2"/>
       <node ref="D4" pin="2"/>
     </net>
-    <net code="134" name="Net-(D2-Pad2)">
-      <node ref="K_2" pin="2"/>
-      <node ref="D2" pin="2"/>
+    <net code="134" name="Net-(D3-Pad2)">
+      <node ref="K_3" pin="2"/>
+      <node ref="D3" pin="2"/>
     </net>
   </nets>
 </export>
