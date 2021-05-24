@@ -1,7 +1,7 @@
 (fp_lib_table
   (lib (name EM_Extras)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/EM_Extras.pretty)(options "")(descr ""))
   (lib (name EM_Logo)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/EM_Logo.pretty)(options "")(descr ""))
+  (lib (name HRO-TYPE-C31-M-12)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/HRO-TYPE-C31-M-12.pretty)(options "")(descr ""))
   (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/MX_Only.pretty)(options "")(descr ""))
-  (lib (name HRO-TYPE-C31-M-12)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/HRO-TYPE-C31-M-12.pretty)(options "")(descr ""))
 )
