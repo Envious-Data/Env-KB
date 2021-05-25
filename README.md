@@ -1,5 +1,8 @@
 # Env-KB
- A custom mechanical keyboard inspired by the CFTKB Mysterium
+ A custom mechanical keyboard inspired by the CFTKB Mysterium.
+ 
+ Project Name: EnvKB80
+ Nickname: Providentia
 
 ![Front](_docs/KBFront.png?raw=true "Front of PCB")
 
@@ -24,6 +27,9 @@ uh well why not, I think it would be a nice example for people to use as a examp
 Circuitpython + KMK is being used here but if you wish you could write your own firmware, Im personally waiting for QMK to be ported.
 
 I also quite like that this project serves as an example of what can be done with a Raspberry Pi Pico
+
+### Future plans!
+I would like to eventually replace the Raspberry Pi Pico with a onboard RP2040 based MCU.
 
 ### ISO only?
 No This is ANSI and ISO (The prototype was ISO only though).
