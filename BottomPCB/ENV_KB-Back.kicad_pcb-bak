@@ -2614,7 +2614,7 @@
   (gr_line (start 34.925 212.785) (end 34.925 62.685) (layer Edge.Cuts) (width 0.1) (tstamp 60A9BAD0))
   (gr_line (start 386.525 215.785) (end 37.925 215.785) (layer Edge.Cuts) (width 0.1) (tstamp 609D06C0))
 
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 60A99FED) (hatch edge 0.508)
     (connect_pads yes (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -2624,7 +2624,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 60A9D467) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 60A99FEA) (hatch edge 0.508)
     (connect_pads yes (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
