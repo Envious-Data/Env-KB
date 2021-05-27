@@ -2,7 +2,7 @@
  A custom mechanical keyboard inspired by the CFTKB Mysterium.
  
  Project Name: EnvKB80
- Nickname: Providentia
+ Nickname: Delirium
 
 ![Front](_docs/KBFront.png?raw=true "Front of PCB")
 
