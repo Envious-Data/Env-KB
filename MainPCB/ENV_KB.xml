@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:\Users\Envy\Documents\GitHub\Env-KB\MainPCB\ENV_KB.sch</source>
-    <date>24/05/2021 00:00:04</date>
+    <date>27/05/2021 06:16:23</date>
     <tool>Eeschema (5.1.9)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -21,56 +21,56 @@
   <components>
     <comp ref="K_0">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522C8</tstamp>
     </comp>
     <comp ref="K_1">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522CA</tstamp>
     </comp>
     <comp ref="K_2">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000021</tstamp>
     </comp>
     <comp ref="K_3">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522CE</tstamp>
     </comp>
     <comp ref="K_4">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522D0</tstamp>
     </comp>
     <comp ref="K_5">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522D2</tstamp>
     </comp>
     <comp ref="K_6">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000061</tstamp>
     </comp>
     <comp ref="K_7">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522D6</tstamp>
@@ -84,7 +84,7 @@
     </comp>
     <comp ref="K_8">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000081</tstamp>
@@ -98,7 +98,7 @@
     </comp>
     <comp ref="K_9">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522DA</tstamp>
@@ -112,7 +112,7 @@
     </comp>
     <comp ref="K_10">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>603522DC</tstamp>
@@ -126,7 +126,7 @@
     </comp>
     <comp ref="K_11">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000111</tstamp>
@@ -140,7 +140,7 @@
     </comp>
     <comp ref="K_12">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000121</tstamp>
@@ -154,7 +154,7 @@
     </comp>
     <comp ref="K_13">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000131</tstamp>
@@ -168,7 +168,7 @@
     </comp>
     <comp ref="K_14">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000141</tstamp>
@@ -182,7 +182,7 @@
     </comp>
     <comp ref="K_15">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000151</tstamp>
@@ -196,7 +196,7 @@
     </comp>
     <comp ref="K_16">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000161</tstamp>
@@ -210,7 +210,7 @@
     </comp>
     <comp ref="K_17">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000171</tstamp>
@@ -224,7 +224,7 @@
     </comp>
     <comp ref="K_18">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000181</tstamp>
@@ -238,7 +238,7 @@
     </comp>
     <comp ref="K_19">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000191</tstamp>
@@ -252,7 +252,7 @@
     </comp>
     <comp ref="K_20">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000201</tstamp>
@@ -266,7 +266,7 @@
     </comp>
     <comp ref="K_21">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000211</tstamp>
@@ -280,7 +280,7 @@
     </comp>
     <comp ref="K_22">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000221</tstamp>
@@ -294,7 +294,7 @@
     </comp>
     <comp ref="K_23">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000231</tstamp>
@@ -308,7 +308,7 @@
     </comp>
     <comp ref="K_24">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000241</tstamp>
@@ -322,7 +322,7 @@
     </comp>
     <comp ref="K_25">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000251</tstamp>
@@ -336,7 +336,7 @@
     </comp>
     <comp ref="K_26">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000261</tstamp>
@@ -350,7 +350,7 @@
     </comp>
     <comp ref="K_27">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000271</tstamp>
@@ -364,7 +364,7 @@
     </comp>
     <comp ref="K_28">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000281</tstamp>
@@ -378,7 +378,7 @@
     </comp>
     <comp ref="K_29">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-2U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-2U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000291</tstamp>
@@ -392,7 +392,7 @@
     </comp>
     <comp ref="K_30">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000301</tstamp>
@@ -406,7 +406,7 @@
     </comp>
     <comp ref="K_31">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000311</tstamp>
@@ -420,7 +420,7 @@
     </comp>
     <comp ref="K_32">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000321</tstamp>
@@ -434,7 +434,7 @@
     </comp>
     <comp ref="K_33">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.5U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000331</tstamp>
@@ -448,7 +448,7 @@
     </comp>
     <comp ref="K_34">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000341</tstamp>
@@ -462,7 +462,7 @@
     </comp>
     <comp ref="K_35">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000351</tstamp>
@@ -476,7 +476,7 @@
     </comp>
     <comp ref="K_36">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000361</tstamp>
@@ -490,7 +490,7 @@
     </comp>
     <comp ref="K_37">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000371</tstamp>
@@ -504,7 +504,7 @@
     </comp>
     <comp ref="K_38">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000381</tstamp>
@@ -518,7 +518,7 @@
     </comp>
     <comp ref="K_39">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000391</tstamp>
@@ -532,7 +532,7 @@
     </comp>
     <comp ref="K_40">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000401</tstamp>
@@ -546,7 +546,7 @@
     </comp>
     <comp ref="K_41">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000411</tstamp>
@@ -560,7 +560,7 @@
     </comp>
     <comp ref="K_42">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000421</tstamp>
@@ -574,7 +574,7 @@
     </comp>
     <comp ref="K_43">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000431</tstamp>
@@ -588,7 +588,7 @@
     </comp>
     <comp ref="K_44">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000441</tstamp>
@@ -602,7 +602,7 @@
     </comp>
     <comp ref="K_45">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000451</tstamp>
@@ -616,7 +616,7 @@
     </comp>
     <comp ref="K_47">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000471</tstamp>
@@ -630,7 +630,7 @@
     </comp>
     <comp ref="K_48">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000481</tstamp>
@@ -644,7 +644,7 @@
     </comp>
     <comp ref="K_49">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000491</tstamp>
@@ -658,7 +658,7 @@
     </comp>
     <comp ref="K_50">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.75U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000501</tstamp>
@@ -672,7 +672,7 @@
     </comp>
     <comp ref="K_51">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000511</tstamp>
@@ -686,7 +686,7 @@
     </comp>
     <comp ref="K_52">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000521</tstamp>
@@ -700,7 +700,7 @@
     </comp>
     <comp ref="K_53">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000531</tstamp>
@@ -714,7 +714,7 @@
     </comp>
     <comp ref="K_54">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000541</tstamp>
@@ -728,7 +728,7 @@
     </comp>
     <comp ref="K_55">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000551</tstamp>
@@ -742,7 +742,7 @@
     </comp>
     <comp ref="K_56">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000561</tstamp>
@@ -756,7 +756,7 @@
     </comp>
     <comp ref="K_57">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000571</tstamp>
@@ -770,7 +770,7 @@
     </comp>
     <comp ref="K_58">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000581</tstamp>
@@ -784,7 +784,7 @@
     </comp>
     <comp ref="K_59">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000591</tstamp>
@@ -798,7 +798,7 @@
     </comp>
     <comp ref="K_60">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000601</tstamp>
@@ -812,7 +812,7 @@
     </comp>
     <comp ref="K_61">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000611</tstamp>
@@ -826,7 +826,7 @@
     </comp>
     <comp ref="K_62">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000621</tstamp>
@@ -840,7 +840,7 @@
     </comp>
     <comp ref="K_64">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000631</tstamp>
@@ -854,7 +854,7 @@
     </comp>
     <comp ref="K_65">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000641</tstamp>
@@ -868,7 +868,7 @@
     </comp>
     <comp ref="K_66">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000651</tstamp>
@@ -882,7 +882,7 @@
     </comp>
     <comp ref="K_67">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000661</tstamp>
@@ -896,7 +896,7 @@
     </comp>
     <comp ref="K_68">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000671</tstamp>
@@ -910,7 +910,7 @@
     </comp>
     <comp ref="K_69">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000681</tstamp>
@@ -924,7 +924,7 @@
     </comp>
     <comp ref="K_70">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000691</tstamp>
@@ -938,7 +938,7 @@
     </comp>
     <comp ref="K_71">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000701</tstamp>
@@ -952,7 +952,7 @@
     </comp>
     <comp ref="K_72">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000711</tstamp>
@@ -966,7 +966,7 @@
     </comp>
     <comp ref="K_73">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000721</tstamp>
@@ -980,7 +980,7 @@
     </comp>
     <comp ref="K_74">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000731</tstamp>
@@ -994,7 +994,7 @@
     </comp>
     <comp ref="K_75">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000741</tstamp>
@@ -1008,7 +1008,7 @@
     </comp>
     <comp ref="K_76">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-2.75U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-2.75U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000751</tstamp>
@@ -1022,7 +1022,7 @@
     </comp>
     <comp ref="K_77">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000761</tstamp>
@@ -1036,7 +1036,7 @@
     </comp>
     <comp ref="K_78">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000771</tstamp>
@@ -1050,7 +1050,7 @@
     </comp>
     <comp ref="K_79">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000781</tstamp>
@@ -1064,63 +1064,63 @@
     </comp>
     <comp ref="K_80">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000791</tstamp>
     </comp>
     <comp ref="K_81">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-6.25U-ReversedStabilizers-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000801</tstamp>
     </comp>
     <comp ref="K_82">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000811</tstamp>
     </comp>
     <comp ref="K_83">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000821</tstamp>
     </comp>
     <comp ref="K_84">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000831</tstamp>
     </comp>
     <comp ref="K_85">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000841</tstamp>
     </comp>
     <comp ref="K_86">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000851</tstamp>
     </comp>
     <comp ref="K_87">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000861</tstamp>
     </comp>
     <comp ref="K_88">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000871</tstamp>
@@ -1306,7 +1306,7 @@
     </comp>
     <comp ref="K_46">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-1.5U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>00000461</tstamp>
@@ -1335,14 +1335,14 @@
     </comp>
     <comp ref="K_63B1">
       <value>MX-NoLED</value>
-      <footprint>MX_only:MXOnly-2.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-2.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>609353EB</tstamp>
     </comp>
     <comp ref="K_64B1">
       <value>KEYSW</value>
-      <footprint>MX_only:MXOnly-2.25U-NoLED</footprint>
+      <footprint>MX_Only:MXOnly-2.25U-NoLED</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>609F51E3</tstamp>
