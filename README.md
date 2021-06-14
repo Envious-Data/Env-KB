@@ -47,6 +47,7 @@ So one note in relation to circuitpython, Im waiting for Circuitpython 7.0.0 whi
 
 
 ## BUILD INSTRUCTIONS
+(this needs some re-writing BTW)
 if you arent interested in checking out the PDF here are some quick and dirty build instructions
 - included in your kit there will be female headers and male headers for the raspberry pi pico 
 - - The female headers are to be installed to the board and the male to the pico
