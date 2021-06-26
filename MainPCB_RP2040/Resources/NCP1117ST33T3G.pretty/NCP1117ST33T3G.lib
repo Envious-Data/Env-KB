@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# NCP1117ST33T3G
+#
+DEF NCP1117ST33T3G U 0 40 Y Y 1 L N
+F0 "U" -400 300 50 H V L BNN
+F1 "NCP1117ST33T3G" -500 -300 50 H V L BNN
+F2 "SOT230P700X180-4N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "ON Semiconductor" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -500 -200 500 200 0 0 10 f
+X IN 3 -700 0 200 R 40 40 0 0 I 
+X OUT 2 700 100 200 L 40 40 0 0 O 
+X OUT 4 700 100 200 L 40 40 0 0 O 
+X GND 1 700 -100 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

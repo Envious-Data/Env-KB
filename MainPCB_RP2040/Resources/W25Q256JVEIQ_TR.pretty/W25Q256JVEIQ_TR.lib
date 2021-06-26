@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# W25Q256JVEIQ_TR
+#
+DEF W25Q256JVEIQ_TR U 0 40 Y Y 1 L N
+F0 "U" -400 420 50 H V L BNN
+F1 "W25Q256JVEIQ_TR" -400 -520 50 H V L BNN
+F2 "SON127P800X600X80-9N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Winbond Electronics Corp." 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -400 -400 400 400 0 0 10 f
+X ~CS 1 -600 300 200 R 40 40 0 0 I 
+X CLK 6 -600 200 200 R 40 40 0 0 I C
+X DO(IO1) 2 -600 -100 200 R 40 40 0 0 B 
+X IO2 3 -600 -200 200 R 40 40 0 0 B 
+X IO3 7 -600 -300 200 R 40 40 0 0 B 
+X DI(IO0) 5 -600 0 200 R 40 40 0 0 B 
+X VCC 8 600 300 200 L 40 40 0 0 W 
+X GND 4 600 -300 200 L 40 40 0 0 W 
+X EXP 9 600 -100 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library
