@@ -47,17 +47,6 @@ F 3 "~" H 4500 5550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ENV_KB-Back-rescue:LOGO-PersonalLogo #G1
-U 1 1 607C9850
-P 2900 4400
-F 0 "#G1" H 2900 3790 60  0001 C CNN
-F 1 "LOGO" H 2900 5010 60  0001 C CNN
-F 2 "" H 2900 4400 50  0001 C CNN
-F 3 "" H 2900 4400 50  0001 C CNN
-	1    2900 4400
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole H7
 U 1 1 6077360A
 P 4500 4950
