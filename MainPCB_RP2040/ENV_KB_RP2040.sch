@@ -2821,69 +2821,33 @@ F 3 "" H 4150 17600 50  0001 C CNN
 	1    4450 17650
 	0    -1   -1   0   
 $EndComp
-Text GLabel 15100 5400 2    50   Input ~ 0
+Text GLabel 15000 5400 2    50   Input ~ 0
 row6
-Text GLabel 15100 5600 2    50   Input ~ 0
+Text GLabel 15000 5600 2    50   Input ~ 0
 row5
-Text GLabel 15100 6100 2    50   Input ~ 0
+Text GLabel 15000 6100 2    50   Input ~ 0
 row2
-Text GLabel 15100 5900 2    50   Input ~ 0
+Text GLabel 15000 5900 2    50   Input ~ 0
 row3
-Text GLabel 15100 5700 2    50   Input ~ 0
+Text GLabel 15000 5700 2    50   Input ~ 0
 row4
-Text GLabel 15100 6300 2    50   Input ~ 0
-col14
-Text GLabel 15100 6400 2    50   Input ~ 0
-col15
-Text GLabel 15100 6200 2    50   Input ~ 0
+Text GLabel 15000 6200 2    50   Input ~ 0
 row0
-Text GLabel 14000 5300 2    50   Input ~ 0
-col9
-Text GLabel 14000 5400 2    50   Input ~ 0
-col8
-Text GLabel 14000 5100 2    50   Input ~ 0
-col11
-Text GLabel 14000 5200 2    50   Input ~ 0
-col10
-Text GLabel 14000 4900 2    50   Input ~ 0
-col12
-Text GLabel 14000 4800 2    50   Input ~ 0
-col13
-Text GLabel 14000 5900 2    50   Input ~ 0
-col4
-Text GLabel 14000 5800 2    50   Input ~ 0
-col5
-Text GLabel 14000 5700 2    50   Input ~ 0
-col6
-Text GLabel 14000 5600 2    50   Input ~ 0
-col7
-Text GLabel 14000 6100 2    50   Input ~ 0
-col3
-Text GLabel 14000 6400 2    50   Input ~ 0
-col0
-Text GLabel 14000 6300 2    50   Input ~ 0
-col1
-Text GLabel 14000 6200 2    50   Input ~ 0
-col2
-Text GLabel 15100 6700 2    50   Input ~ 0
-col17
-Text GLabel 15100 6600 2    50   Input ~ 0
-col16
-Text GLabel 15000 4800 2    50   Input ~ 0
+Text GLabel 14900 4800 2    50   Input ~ 0
 USBVBUS
-Text GLabel 14000 6500 2    50   Input ~ 0
+Text GLabel 13950 6500 2    50   Input ~ 0
 GND
-Text GLabel 14000 6000 2    50   Input ~ 0
+Text GLabel 13950 6000 2    50   Input ~ 0
 GND
-Text GLabel 14000 5500 2    50   Input ~ 0
+Text GLabel 13950 5500 2    50   Input ~ 0
 GND
-Text GLabel 14000 5000 2    50   Input ~ 0
+Text GLabel 13950 5000 2    50   Input ~ 0
 GND
-Text GLabel 15100 6500 2    50   Input ~ 0
+Text GLabel 15000 6500 2    50   Input ~ 0
 GND
-Text GLabel 15100 6000 2    50   Input ~ 0
+Text GLabel 15000 6000 2    50   Input ~ 0
 GND
-Text GLabel 15100 5000 2    50   Input ~ 0
+Text GLabel 15000 5000 2    50   Input ~ 0
 GND
 Wire Wire Line
 	14900 5000 15000 5000
@@ -2937,11 +2901,11 @@ F 3 "~" H 13900 8550 50  0001 C CNN
 	1    13900 8550
 	-1   0    0    1   
 $EndComp
-Text GLabel 13900 6700 2    50   Input ~ 0
+Text GLabel 13850 6700 2    50   Input ~ 0
 I2CSDA
-Text GLabel 13900 6600 2    50   Input ~ 0
+Text GLabel 13850 6600 2    50   Input ~ 0
 I2CSCL
-Text GLabel 15000 5200 2    50   Input ~ 0
+Text GLabel 14900 5200 2    50   Input ~ 0
 3.3V
 Text GLabel 14100 8350 2    50   Input ~ 0
 I2CSDA
@@ -2951,7 +2915,7 @@ Text GLabel 14100 8650 2    50   Input ~ 0
 GND
 Text GLabel 14100 8550 2    50   Input ~ 0
 3.3V
-Text GLabel 15000 5800 2    50   Input ~ 0
+Text GLabel 14900 5800 2    50   Input ~ 0
 Resetbtn
 Text GLabel 11900 8650 0    50   Input ~ 0
 Resetbtn
@@ -4677,4 +4641,40 @@ Wire Wire Line
 	14400 6400 15000 6400
 Wire Wire Line
 	14400 6300 15000 6300
+Text GLabel 15000 6400 2    50   Input ~ 0
+col16
+Text GLabel 15000 6300 2    50   Input ~ 0
+col17
+Text GLabel 15000 6600 2    50   Input ~ 0
+col15
+Text GLabel 15000 6700 2    50   Input ~ 0
+col14
+Text GLabel 13950 4800 2    50   Input ~ 0
+col13
+Text GLabel 13950 4900 2    50   Input ~ 0
+col12
+Text GLabel 13950 5200 2    50   Input ~ 0
+col10
+Text GLabel 13950 5100 2    50   Input ~ 0
+col11
+Text GLabel 13950 5400 2    50   Input ~ 0
+col8
+Text GLabel 13950 5300 2    50   Input ~ 0
+col9
+Text GLabel 13950 5600 2    50   Input ~ 0
+col7
+Text GLabel 13950 5700 2    50   Input ~ 0
+col6
+Text GLabel 13950 5800 2    50   Input ~ 0
+col5
+Text GLabel 13950 5900 2    50   Input ~ 0
+col4
+Text GLabel 13950 6200 2    50   Input ~ 0
+col2
+Text GLabel 13950 6300 2    50   Input ~ 0
+col1
+Text GLabel 13950 6400 2    50   Input ~ 0
+col0
+Text GLabel 13950 6100 2    50   Input ~ 0
+col3
 $EndSCHEMATC
