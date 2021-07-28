@@ -4353,8 +4353,6 @@ Wire Wire Line
 	2200 1850 2450 1850
 Wire Wire Line
 	2450 1900 2450 1850
-Text GLabel 14900 5100 0    50   Input ~ 0
-3V3_EN
 $Comp
 L W25Q256JVEIQ_TR:W25Q256JVEIQ_TR FLASH1
 U 1 1 608EDADA
@@ -4388,56 +4386,19 @@ Text Notes 9600 2450 0    50   ~ 0
 These decoupling capacitors are meant\nto be put close by each 3.3V pin of the RP2040
 Text Notes 900  850  0    50   ~ 0
 2x 5.1K Resistors on the CC pins will = 5V@1.5A\nthis is the recomended default config for type-c
-Text GLabel 2900 2250 0    50   Input ~ 0
-3V3_EN
-$Comp
-L Device:R R7
-U 1 1 608CFAF0
-P 2900 2100
-F 0 "R7" H 2750 2150 50  0000 L CNN
-F 1 "100ohm" V 2900 2050 30  0000 L CNN
-F 2 "Resistor_SMD:R_0402_1005Metric" V 2830 2100 50  0001 C CNN
-F 3 "" H 2900 2100 50  0001 C CNN
-	1    2900 2100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2900 1950 2900 1850
 $Comp
 L power:GND #PWR0110
 U 1 1 60C62E0C
-P 4000 2650
-F 0 "#PWR0110" H 4000 2400 50  0001 C CNN
-F 1 "GND" H 4005 2477 50  0000 C CNN
-F 2 "" H 4000 2650 50  0001 C CNN
-F 3 "" H 4000 2650 50  0001 C CNN
-	1    4000 2650
+P 4100 2250
+F 0 "#PWR0110" H 4100 2000 50  0001 C CNN
+F 1 "GND" H 4105 2077 50  0000 C CNN
+F 2 "" H 4100 2250 50  0001 C CNN
+F 3 "" H 4100 2250 50  0001 C CNN
+	1    4100 2250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2200 1750 2200 1850
-$Comp
-L power:GND #PWR0111
-U 1 1 60C8A405
-P 3100 2450
-F 0 "#PWR0111" H 3100 2200 50  0001 C CNN
-F 1 "GND" H 3105 2277 50  0000 C CNN
-F 2 "" H 3100 2450 50  0001 C CNN
-F 3 "" H 3100 2450 50  0001 C CNN
-	1    3100 2450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:L_Small L1
-U 1 1 60C9C176
-P 4100 1300
-F 0 "L1" V 4400 1300 50  0000 C CNN
-F 1 "Inductor 2.2uh" V 4250 1300 50  0000 C CNN
-F 2 "Inductor_SMD:L_0805_2012Metric" H 4100 1300 50  0001 C CNN
-F 3 "~" H 4100 1300 50  0001 C CNN
-	1    4100 1300
-	0    -1   -1   0   
-$EndComp
 $Comp
 L Simulation_SPICE:DIODE Diode1
 U 1 1 60CC712B
@@ -4454,11 +4415,6 @@ $EndComp
 Connection ~ 2450 1850
 Wire Wire Line
 	2550 1850 2450 1850
-Wire Wire Line
-	2850 1850 2900 1850
-Connection ~ 2900 1850
-Wire Wire Line
-	2900 1850 3100 1850
 Wire Wire Line
 	3100 1850 3100 1700
 Connection ~ 3100 1850
@@ -4494,57 +4450,8 @@ Text Label 3250 1850 0    50   ~ 0
 VSYS
 Text Label 2300 1850 0    50   ~ 0
 VBUS
-$Comp
-L Regulator_Switching:TPS63002 U1
-U 1 1 60D7C270
-P 4100 2050
-F 0 "U1" H 4100 2717 50  0000 C CNN
-F 1 "TPS63002" H 4100 2626 50  0000 C CNN
-F 2 "Package_SON:Texas_DRC0010J_ThermalVias" H 4950 1500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tps63000.pdf" H 3800 2600 50  0001 C CNN
-	1    4100 2050
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	5200 1750 5200 1850
-Wire Wire Line
-	3700 1650 3700 1300
-Wire Wire Line
-	3700 1300 4000 1300
-Wire Wire Line
-	4500 1650 4500 1300
-Wire Wire Line
-	4500 1300 4200 1300
-Wire Wire Line
-	3100 1850 3700 1850
-Wire Wire Line
-	3300 2250 3300 2050
-Wire Wire Line
-	3300 1950 3700 1950
-Wire Wire Line
-	2900 2250 3100 2250
-Wire Wire Line
-	3700 2050 3300 2050
-Connection ~ 3300 2050
-Wire Wire Line
-	3300 2050 3300 1950
-Wire Wire Line
-	3700 2250 3300 2250
-Connection ~ 3300 2250
-$Comp
-L Device:C_Small C12
-U 1 1 60E73823
-P 3100 2350
-F 0 "C12" H 3192 2396 50  0000 L CNN
-F 1 "0.1uf 0402" H 3192 2305 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric" H 3100 2350 50  0001 C CNN
-F 3 "~" H 3100 2350 50  0001 C CNN
-	1    3100 2350
-	1    0    0    -1  
-$EndComp
-Connection ~ 3100 2250
-Wire Wire Line
-	3100 2250 3300 2250
 $Comp
 L Device:C C9
 U 1 1 60E776B9
@@ -4572,27 +4479,7 @@ Wire Wire Line
 Wire Wire Line
 	5200 1850 4900 1850
 Connection ~ 5200 1850
-Wire Wire Line
-	4500 1850 4650 1850
 Connection ~ 4900 1850
-Wire Wire Line
-	4500 2050 4650 2050
-Wire Wire Line
-	4650 2050 4650 1850
-Connection ~ 4650 1850
-Wire Wire Line
-	4650 1850 4900 1850
-$Comp
-L power:GND #PWR05
-U 1 1 60EAD68C
-P 4100 2650
-F 0 "#PWR05" H 4100 2400 50  0001 C CNN
-F 1 "GND" H 4105 2477 50  0000 C CNN
-F 2 "" H 4100 2650 50  0001 C CNN
-F 3 "" H 4100 2650 50  0001 C CNN
-	1    4100 2650
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	13350 4800 13950 4800
 Wire Wire Line
@@ -4677,4 +4564,53 @@ Text GLabel 13950 6400 2    50   Input ~ 0
 col0
 Text GLabel 13950 6100 2    50   Input ~ 0
 col3
+$Comp
+L Regulator_Linear:AP2127K-3.3 U1
+U 1 1 6107E6AC
+P 4100 1950
+F 0 "U1" H 4100 2292 50  0000 C CNN
+F 1 "AP2127K-3.3" H 4100 2201 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 4100 2275 50  0001 C CNN
+F 3 "https://www.diodes.com/assets/Datasheets/AP2127.pdf" H 4100 2050 50  0001 C CNN
+	1    4100 1950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 1850 4900 1850
+Wire Wire Line
+	2850 1850 3100 1850
+$Comp
+L Device:C_Small C12
+U 1 1 6119F94E
+P 3700 2100
+F 0 "C12" H 3650 2150 20  0000 L CNN
+F 1 "1uF 0402" H 3650 2100 20  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 3700 2100 50  0001 C CNN
+F 3 "~" H 3700 2100 50  0001 C CNN
+	1    3700 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 611A0432
+P 3700 2200
+F 0 "#PWR0111" H 3700 1950 50  0001 C CNN
+F 1 "GND" H 3705 2027 50  0000 C CNN
+F 2 "" H 3700 2200 50  0001 C CNN
+F 3 "" H 3700 2200 50  0001 C CNN
+	1    3700 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 1850 3700 1850
+Wire Wire Line
+	3700 2000 3700 1950
+Wire Wire Line
+	3700 1950 3800 1950
+Wire Wire Line
+	3700 1950 3700 1850
+Connection ~ 3700 1950
+Connection ~ 3700 1850
+Wire Wire Line
+	3700 1850 3800 1850
 $EndSCHEMATC
