@@ -4416,20 +4416,6 @@ Connection ~ 2450 1850
 Wire Wire Line
 	2550 1850 2450 1850
 Wire Wire Line
-	3100 1850 3100 1700
-Connection ~ 3100 1850
-$Comp
-L VSYS:VSYS #PWR0112
-U 1 1 60D018CC
-P 3100 1700
-F 0 "#PWR0112" H 3100 1550 50  0001 C CNN
-F 1 "VSYS" H 3115 1873 50  0000 C CNN
-F 2 "" H 3100 1700 50  0001 C CNN
-F 3 "" H 3100 1700 50  0001 C CNN
-	1    3100 1700
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
 	14900 4900 14850 4900
 $Comp
 L VSYS:VSYS #PWR0113
@@ -4446,8 +4432,6 @@ Wire Wire Line
 	14850 4800 14900 4800
 Wire Wire Line
 	14600 5200 14900 5200
-Text Label 3250 1850 0    50   ~ 0
-VSYS
 Text Label 2300 1850 0    50   ~ 0
 VBUS
 Wire Wire Line
@@ -4564,21 +4548,8 @@ Text GLabel 13950 6400 2    50   Input ~ 0
 col0
 Text GLabel 13950 6100 2    50   Input ~ 0
 col3
-$Comp
-L Regulator_Linear:AP2127K-3.3 U1
-U 1 1 6107E6AC
-P 4100 1950
-F 0 "U1" H 4100 2292 50  0000 C CNN
-F 1 "AP2127K-3.3" H 4100 2201 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-23-5" H 4100 2275 50  0001 C CNN
-F 3 "https://www.diodes.com/assets/Datasheets/AP2127.pdf" H 4100 2050 50  0001 C CNN
-	1    4100 1950
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4400 1850 4900 1850
-Wire Wire Line
-	2850 1850 3100 1850
 $Comp
 L Device:C_Small C12
 U 1 1 6119F94E
@@ -4602,15 +4573,75 @@ F 3 "" H 3700 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3100 1850 3700 1850
-Wire Wire Line
 	3700 2000 3700 1950
 Wire Wire Line
 	3700 1950 3800 1950
 Wire Wire Line
 	3700 1950 3700 1850
 Connection ~ 3700 1950
-Connection ~ 3700 1850
 Wire Wire Line
 	3700 1850 3800 1850
+$Comp
+L Regulator_Linear:AP2127K-3.3 U1
+U 1 1 6107E6AC
+P 4100 1950
+F 0 "U1" H 4100 2292 50  0000 C CNN
+F 1 "AP2127K-3.3" H 4100 2201 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 4100 2275 50  0001 C CNN
+F 3 "https://www.diodes.com/assets/Datasheets/AP2127.pdf" H 4100 2050 50  0001 C CNN
+	1    4100 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP1
+U 1 1 612D2ECF
+P 15850 4300
+F 0 "TP1" H 15908 4418 50  0000 L CNN
+F 1 "TestPoint" H 15908 4327 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 16050 4300 50  0001 C CNN
+F 3 "~" H 16050 4300 50  0001 C CNN
+	1    15850 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP2
+U 1 1 612D4ABD
+P 16300 4300
+F 0 "TP2" H 16358 4418 50  0000 L CNN
+F 1 "TestPoint" H 16358 4327 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 16500 4300 50  0001 C CNN
+F 3 "~" H 16500 4300 50  0001 C CNN
+	1    16300 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP3
+U 1 1 612D5578
+P 16800 4300
+F 0 "TP3" H 16858 4418 50  0000 L CNN
+F 1 "TestPoint" H 16858 4327 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 17000 4300 50  0001 C CNN
+F 3 "~" H 17000 4300 50  0001 C CNN
+	1    16800 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15850 4300 15850 4900
+Text Label 15850 4900 1    50   ~ 0
+GPIO29_ADC3
+Wire Wire Line
+	16800 4300 16800 4900
+Wire Wire Line
+	16300 4300 16300 4900
+Text Label 16800 4900 1    50   ~ 0
+GPIO23
+Text Label 16300 4900 1    50   ~ 0
+GPIO24
+Text GLabel 3350 1850 0    50   Input ~ 0
+VSYS
+Text GLabel 2850 1850 2    50   Input ~ 0
+VSYS
+Wire Wire Line
+	3350 1850 3700 1850
+Connection ~ 3700 1850
 $EndSCHEMATC
