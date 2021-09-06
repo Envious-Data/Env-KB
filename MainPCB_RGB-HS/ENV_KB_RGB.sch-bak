@@ -1,7 +1,7 @@
 EESchema Schematic File Version 4
 EELAYER 30 0
 EELAYER END
-$Descr A0 46811 33110
+$Descr User 35433 11811
 encoding utf-8
 Sheet 1 1
 Title "EnvKB"
@@ -3172,7 +3172,7 @@ U 1 1 60717F95
 P 6600 10650
 F 0 "H9" H 6700 10696 50  0000 L CNN
 F 1 "MountingHole" H 6700 10605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 10650 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 10650 50  0001 C CNN
 F 3 "~" H 6600 10650 50  0001 C CNN
 	1    6600 10650
 	1    0    0    -1  
@@ -3183,7 +3183,7 @@ U 1 1 607429B3
 P 6600 10850
 F 0 "H10" H 6700 10896 50  0000 L CNN
 F 1 "MountingHole" H 6700 10805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 10850 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 10850 50  0001 C CNN
 F 3 "~" H 6600 10850 50  0001 C CNN
 	1    6600 10850
 	1    0    0    -1  
@@ -3207,7 +3207,7 @@ U 1 1 6077360A
 P 6600 10250
 F 0 "H7" H 6700 10296 50  0000 L CNN
 F 1 "MountingHole" H 6700 10205 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 10250 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 10250 50  0001 C CNN
 F 3 "~" H 6600 10250 50  0001 C CNN
 	1    6600 10250
 	1    0    0    -1  
@@ -3218,7 +3218,7 @@ U 1 1 60748B43
 P 6600 10050
 F 0 "H6" H 6700 10096 50  0000 L CNN
 F 1 "MountingHole" H 6700 10005 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 10050 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 10050 50  0001 C CNN
 F 3 "~" H 6600 10050 50  0001 C CNN
 	1    6600 10050
 	1    0    0    -1  
@@ -3229,7 +3229,7 @@ U 1 1 6068A680
 P 6600 9650
 F 0 "H4" H 6700 9696 50  0000 L CNN
 F 1 "MountingHole" H 6700 9605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9650 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 9650 50  0001 C CNN
 F 3 "~" H 6600 9650 50  0001 C CNN
 	1    6600 9650
 	1    0    0    -1  
@@ -3240,7 +3240,7 @@ U 1 1 605BD366
 P 6600 9050
 F 0 "H1" H 6700 9096 50  0000 L CNN
 F 1 "MountingHole" H 6700 9005 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9050 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 9050 50  0001 C CNN
 F 3 "~" H 6600 9050 50  0001 C CNN
 	1    6600 9050
 	1    0    0    -1  
@@ -3251,7 +3251,7 @@ U 1 1 6058BC08
 P 6600 9450
 F 0 "H3" H 6700 9496 50  0000 L CNN
 F 1 "MountingHole" H 6700 9405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 9450 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 9450 50  0001 C CNN
 F 3 "~" H 6600 9450 50  0001 C CNN
 	1    6600 9450
 	1    0    0    -1  
@@ -3262,7 +3262,7 @@ U 1 1 605938C3
 P 6600 8850
 F 0 "H0" H 6700 8896 50  0000 L CNN
 F 1 "MountingHole" H 6700 8805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 6600 8850 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 8850 50  0001 C CNN
 F 3 "~" H 6600 8850 50  0001 C CNN
 	1    6600 8850
 	1    0    0    -1  
