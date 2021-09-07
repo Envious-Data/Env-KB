@@ -5290,4 +5290,32 @@ Wire Wire Line
 Connection ~ 6800 10750
 Text GLabel 6800 11000 2    50   Input ~ 0
 GND
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 61411D60
+P 5200 10650
+F 0 "H2" H 5300 10696 50  0000 L CNN
+F 1 "MountingHole" H 5300 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 5200 10650 50  0001 C CNN
+F 3 "~" H 5200 10650 50  0001 C CNN
+	1    5200 10650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5200 10750 5400 10750
+Connection ~ 5400 10750
+$Comp
+L Mechanical:MountingHole_Pad H5
+U 1 1 6162A1BF
+P 5000 10650
+F 0 "H5" H 5100 10696 50  0000 L CNN
+F 1 "MountingHole" H 5100 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 5000 10650 50  0001 C CNN
+F 3 "~" H 5000 10650 50  0001 C CNN
+	1    5000 10650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 10750 5200 10750
+Connection ~ 5200 10750
 $EndSCHEMATC
