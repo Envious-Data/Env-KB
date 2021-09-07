@@ -3167,7 +3167,7 @@ Connection ~ 1550 5950
 Text Notes 14950 5550 0    50   ~ 0
 This needs double checking
 $Comp
-L Mechanical:MountingHole H9
+L Mechanical:MountingHole_Pad H9
 U 1 1 60717F95
 P 6600 10650
 F 0 "H9" H 6700 10696 50  0000 L CNN
@@ -3178,14 +3178,14 @@ F 3 "~" H 6600 10650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H10
+L Mechanical:MountingHole_Pad H10
 U 1 1 607429B3
-P 6600 10850
-F 0 "H10" H 6700 10896 50  0000 L CNN
-F 1 "MountingHole" H 6700 10805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 10850 50  0001 C CNN
-F 3 "~" H 6600 10850 50  0001 C CNN
-	1    6600 10850
+P 6800 10650
+F 0 "H10" H 6900 10696 50  0000 L CNN
+F 1 "MountingHole" H 6900 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6800 10650 50  0001 C CNN
+F 3 "~" H 6800 10650 50  0001 C CNN
+	1    6800 10650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3202,69 +3202,69 @@ $EndComp
 Text GLabel 8750 10700 2    50   Input ~ 0
 GND
 $Comp
-L Mechanical:MountingHole H7
+L Mechanical:MountingHole_Pad H7
 U 1 1 6077360A
-P 6600 10250
-F 0 "H7" H 6700 10296 50  0000 L CNN
-F 1 "MountingHole" H 6700 10205 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 10250 50  0001 C CNN
-F 3 "~" H 6600 10250 50  0001 C CNN
-	1    6600 10250
+P 6400 10650
+F 0 "H7" H 6500 10696 50  0000 L CNN
+F 1 "MountingHole" H 6500 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6400 10650 50  0001 C CNN
+F 3 "~" H 6400 10650 50  0001 C CNN
+	1    6400 10650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H6
+L Mechanical:MountingHole_Pad H6
 U 1 1 60748B43
-P 6600 10050
-F 0 "H6" H 6700 10096 50  0000 L CNN
-F 1 "MountingHole" H 6700 10005 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 10050 50  0001 C CNN
-F 3 "~" H 6600 10050 50  0001 C CNN
-	1    6600 10050
+P 6200 10650
+F 0 "H6" H 6300 10696 50  0000 L CNN
+F 1 "MountingHole" H 6300 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6200 10650 50  0001 C CNN
+F 3 "~" H 6200 10650 50  0001 C CNN
+	1    6200 10650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H4
+L Mechanical:MountingHole_Pad H4
 U 1 1 6068A680
-P 6600 9650
-F 0 "H4" H 6700 9696 50  0000 L CNN
-F 1 "MountingHole" H 6700 9605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 9650 50  0001 C CNN
-F 3 "~" H 6600 9650 50  0001 C CNN
-	1    6600 9650
+P 6000 10650
+F 0 "H4" H 6100 10696 50  0000 L CNN
+F 1 "MountingHole" H 6100 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6000 10650 50  0001 C CNN
+F 3 "~" H 6000 10650 50  0001 C CNN
+	1    6000 10650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H1
+L Mechanical:MountingHole_Pad H1
 U 1 1 605BD366
-P 6600 9050
-F 0 "H1" H 6700 9096 50  0000 L CNN
-F 1 "MountingHole" H 6700 9005 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 9050 50  0001 C CNN
-F 3 "~" H 6600 9050 50  0001 C CNN
-	1    6600 9050
+P 5600 10650
+F 0 "H1" H 5700 10696 50  0000 L CNN
+F 1 "MountingHole" H 5700 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 5600 10650 50  0001 C CNN
+F 3 "~" H 5600 10650 50  0001 C CNN
+	1    5600 10650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H3
+L Mechanical:MountingHole_Pad H3
 U 1 1 6058BC08
-P 6600 9450
-F 0 "H3" H 6700 9496 50  0000 L CNN
-F 1 "MountingHole" H 6700 9405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 9450 50  0001 C CNN
-F 3 "~" H 6600 9450 50  0001 C CNN
-	1    6600 9450
+P 5800 10650
+F 0 "H3" H 5900 10696 50  0000 L CNN
+F 1 "MountingHole" H 5900 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 5800 10650 50  0001 C CNN
+F 3 "~" H 5800 10650 50  0001 C CNN
+	1    5800 10650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H0
+L Mechanical:MountingHole_Pad H0
 U 1 1 605938C3
-P 6600 8850
-F 0 "H0" H 6700 8896 50  0000 L CNN
-F 1 "MountingHole" H 6700 8805 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 6600 8850 50  0001 C CNN
-F 3 "~" H 6600 8850 50  0001 C CNN
-	1    6600 8850
+P 5400 10650
+F 0 "H0" H 5500 10696 50  0000 L CNN
+F 1 "MountingHole" H 5500 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 5400 10650 50  0001 C CNN
+F 3 "~" H 5400 10650 50  0001 C CNN
+	1    5400 10650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -5265,4 +5265,29 @@ Wire Wire Line
 	21300 5150 21800 5150
 Wire Wire Line
 	30200 3500 30250 3500
+Wire Wire Line
+	5400 10750 5600 10750
+Connection ~ 5600 10750
+Wire Wire Line
+	5600 10750 5800 10750
+Connection ~ 5800 10750
+Wire Wire Line
+	5800 10750 6000 10750
+Connection ~ 6000 10750
+Wire Wire Line
+	6000 10750 6200 10750
+Connection ~ 6200 10750
+Wire Wire Line
+	6200 10750 6400 10750
+Connection ~ 6400 10750
+Wire Wire Line
+	6400 10750 6600 10750
+Connection ~ 6600 10750
+Wire Wire Line
+	6600 10750 6800 10750
+Wire Wire Line
+	6800 10750 6800 11000
+Connection ~ 6800 10750
+Text GLabel 6800 11000 2    50   Input ~ 0
+GND
 $EndSCHEMATC
