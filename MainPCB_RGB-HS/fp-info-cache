@@ -1,57 +1,575 @@
-13020854819142
-EM_Extras
-AltDelirium
-
-
-0
-0
-0
-EM_Extras
-AltDeliriumPatern
-
-
-0
-0
-0
-EM_Extras
-MXOnly-ISO-ROTATED-ReversedStabilizers-NoLED-EDITED-OUTLINE
-
-
-0
-2
-2
-EM_Extras
-RPi_Pico_SMD_TH
-Through hole straight pin header, 2x20, 2.54mm pitch, double rows
-Through hole pin header THT 2x20 2.54mm double row
-0
-96
-46
-EM_Extras
-SW_B3F-1000
-
-
+132826089356548
+LED_THT
+LED_BL-FL7680RGB
+'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
+RGB LED Piranha Super-Flux BetLux
 0
 4
 4
-EM_Extras
-USB_C_Receptacle_HRO_TYPE-C-31-M-12
-USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
-usb usb-c 2.0 pd
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins
 0
-20
-17
-EM_Extras
-logo
-
-
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins
 0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z8.2mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins
 0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z1.6mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins
 0
-EM_Extras
-plogo
-
-
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z4.9mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins
 0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins
 0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z1.6mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins
 0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z4.9mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z8.2mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W3.3mm_H2.4mm
+LED, Round,  Rectangular size 3.3x2.4mm^2 diameter 1.8mm, 2 pins
+LED Round  Rectangular size 3.3x2.4mm^2 diameter 1.8mm 2 pins
+0
+2
+2
+LED_THT
+LED_D2.0mm_W4.0mm_H2.8mm_FlatTop
+LED, Round, FlatTop,  Rectangular size 4.0x2.8mm^2 diameter 2.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-1034IDT(Ver.9A).pdf
+LED Round FlatTop  Rectangular size 4.0x2.8mm^2 diameter 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D2.0mm_W4.8mm_H2.5mm_FlatTop
+LED, Round, FlatTop,  Rectangular size 4.8x2.5mm^2 diameter 2.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-13GD(Ver.11B).pdf
+LED Round FlatTop  Rectangular size 4.8x2.5mm^2 diameter 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm-3
+LED, diameter 3.0mm, 2 pins, diameter 3.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-3VSURKCGKC(Ver.8A).pdf
+LED diameter 3.0mm 2 pins diameter 3.0mm 3 pins
+0
+3
+3
+LED_THT
+LED_D3.0mm_Clear
+IR-LED, diameter 3.0mm, 2 pins, color: clear
+IR infrared LED diameter 3.0mm 2 pins clear
+0
+2
+2
+LED_THT
+LED_D3.0mm_FlatTop
+LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf
+LED Round FlatTop diameter 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRGrey
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z10.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O3.81mm_Z10.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_IRBlack
+IR-ED, diameter 3.0mm, 2 pins, color: black
+IR infrared LED diameter 3.0mm 2 pins black
+0
+2
+2
+LED_THT
+LED_D3.0mm_IRGrey
+IR-LED, diameter 3.0mm, 2 pins, color: grey
+IR infrared LED diameter 3.0mm 2 pins grey
+0
+2
+2
+LED_THT
+LED_D4.0mm
+LED, diameter 4.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-43GD(Ver.12B).pdf
+LED diameter 4.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm-3
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-59EGC(Ver.17A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins
+0
+3
+3
+LED_THT
+LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 3 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 3 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+3
+3
+LED_THT
+LED_D5.0mm-4_RGB
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+LED_THT
+LED_D5.0mm-4_RGB_Staggered_Pins
+LED, diameter 5.0mm, 4 pins, WP154A4, http://webtest4.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
+rgb led
+0
+4
+4
+LED_THT
+LED_D5.0mm-4_RGB_Wide_Pins
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+LED_THT
+LED_D5.0mm_Clear
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_FlatTop
+LED, Round, FlatTop, diameter 5.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-483GDT(Ver.15B).pdf
+LED Round FlatTop diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z9.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O3.81mm_Z9.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_IRBlack
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_IRGrey
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D8.0mm
+LED, diameter 8.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED8MMGE_LED8MMGN_LED8MMRT%23KIN.pdf
+LED diameter 8.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D8.0mm-3
+LED, diameter 8.0mm, 2 pins, diameter 8.0mm, 3 pins
+LED diameter 8.0mm 2 pins diameter 8.0mm 3 pins
+0
+3
+3
+LED_THT
+LED_D10.0mm
+LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf
+LED diameter 10.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D10.0mm-3
+LED, diameter 10.0mm, 2 pins, diameter 10.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-819EGW(Ver.14A).pdf
+LED diameter 10.0mm 2 pins diameter 10.0mm 3 pins
+0
+3
+3
+LED_THT
+LED_D20.0mm
+LED, diameter 20.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/DLC2-6GD%28V6%29.pdf
+LED diameter 20.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Oval_W5.2mm_H3.8mm
+LED_Oval, Oval,  Oval size 5.2x3.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-5603QBC-D(Ver.12B).pdf
+LED_Oval Oval  Oval size 5.2x3.8mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.0mm_H2.0mm
+LED_Rectangular, Rectangular,  Rectangular size 3.0x2.0mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf
+LED_Rectangular Rectangular  Rectangular size 3.0x2.0mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.9mm_H1.8mm
+LED_Rectangular, Rectangular,  Rectangular size 3.9x1.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf
+LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.9mm_H1.8mm_FlatTop
+LED_Rectangular, Rectangular,  Rectangular size 3.9x1.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf
+LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.9mm_H1.9mm
+LED_Rectangular, Rectangular,  Rectangular size 3.9x1.9mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-144GDT(Ver.14B).pdf
+LED_Rectangular Rectangular  Rectangular size 3.9x1.9mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm-3Pins
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 3 pins
+0
+3
+3
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z1.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z3.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z5.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z1.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z5.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O6.35mm_Z1.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O6.35mm_Z3.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O6.35mm_Z5.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H5.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x5.0mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf
+LED_Rectangular Rectangular  Rectangular size 5.0x5.0mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3
+Datasheet can be found at https://www.gme.cz/data/attachments/dsh.511-795.1.pdf
+LED automotive super flux 7.62mm
+0
+4
+2
+LED_THT
+LED_SideEmitter_Rectangular_W4.5mm_H1.6mm
+LED_SideEmitter_Rectangular, Rectangular, SideEmitter,  Rectangular size 4.5x1.6mm^2, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED15MMGE_LED15MMGN%23KIN.pdf
+LED_SideEmitter_Rectangular Rectangular SideEmitter  Rectangular size 4.5x1.6mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H1_6.35x6.35mm
+Red 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Red 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H3_6.35x6.35mm
+Amber 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Amber 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H5_6.35x6.35mm
+Green 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Green 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H7_6.35x6.35mm
+Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Yellow 5381 Series LED
+0
+2
+2
