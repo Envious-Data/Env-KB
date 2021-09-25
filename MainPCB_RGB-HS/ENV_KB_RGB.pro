@@ -1,5 +1,5 @@
-update=07/09/2021 23:08:35
-last_client=pcbnew
+update=23/09/2021 16:52:33
+last_client=kicad
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -31,10 +31,11 @@ TrackWidth2=0.127
 TrackWidth3=0.15
 TrackWidth4=0.2
 TrackWidth5=0.25
-TrackWidth6=0.35
-TrackWidth7=0.5
-TrackWidth8=1
-TrackWidth9=1.1938
+TrackWidth6=0.3
+TrackWidth7=0.35
+TrackWidth8=0.5
+TrackWidth9=1
+TrackWidth10=1.1938
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
