@@ -1,4 +1,4 @@
-update=23/09/2021 16:52:33
+update=06/10/2021 16:37:43
 last_client=kicad
 [schematic_editor]
 version=1
@@ -238,19 +238,19 @@ Clearance=0.2
 TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
-uViaDiameter=0.3
+uViaDiameter=0.2
 uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=DIFF
-Clearance=0.127
+Clearance=0.2
 TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
-uViaDiameter=0.3
+uViaDiameter=0.2
 uViaDrill=0.1
-dPairWidth=1.1938
-dPairGap=0.1778
+dPairWidth=0.3
+dPairGap=0.2
 dPairViaGap=0.25
