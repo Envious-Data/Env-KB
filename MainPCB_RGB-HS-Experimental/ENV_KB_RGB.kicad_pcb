@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 1943)
+    (drawings 1946)
     (tracks 2057)
     (zones 0)
     (modules 197)
@@ -16007,10 +16007,15 @@
     )
   )
 
+  (gr_line (start 246.75 82.203) (end 246.75 85.2) (layer F.SilkS) (width 0.12))
+  (gr_line (start 244.217 82.203) (end 246.75 82.203) (layer F.SilkS) (width 0.12))
+  (gr_text PWR (at 191.5 67.3) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text DOM (at 153.55 69.15) (layer F.SilkS) (tstamp 6176C7A2)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (gr_text "https://github.com/envious-data\nRevision 1.2\nEnvKB TKL HS" (at 247.15 74.7) (layer F.Cu) (tstamp 6176AE40)
+  (gr_text "https://github.com/envious-data\nRevision 1.2\nEnvKB TKL HS | Envious#0739" (at 247.15 74.7) (layer F.Cu) (tstamp 6176AE40)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
   (gr_line (start 246.9 70.6) (end 246.9 78.9) (layer Edge.Cuts) (width 0.1))
