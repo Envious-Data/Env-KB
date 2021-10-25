@@ -1,7 +1,7 @@
 EESchema Schematic File Version 4
 EELAYER 30 0
 EELAYER END
-$Descr User 35433 11811
+$Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "EnvKB"
