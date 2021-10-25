@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name B3F-1000)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/MainPCB_RGB-HS/Schematic_Library/B3F-1000.lib)(options "")(descr ""))
+  (lib (name D_small)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/MainPCB_RGB-HS/Schematic_Library/D_small.lib)(options "")(descr ""))
+  (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/MainPCB_RGB-HS/Schematic_Library/MCU_RaspberryPi_and_Boards.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/MainPCB_RGB-HS/Schematic_Library/MX_Alps_Hybrid.lib)(options "")(descr ""))
+  (lib (name PersonalLogo)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/MainPCB_RGB-HS/Schematic_Library/PersonalLogo.lib)(options "")(descr ""))
+  (lib (name pico_rp2040)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/MainPCB_RGB-HS/Schematic_Library/pico_rp2040.lib)(options "")(descr ""))
+  (lib (name Type-C-fix)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/MainPCB_RGB-HS/Schematic_Library/Type-C-fix.lib)(options "")(descr ""))
+  (lib (name kicad-keyboard-parts)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/MainPCB_RGB-HS/Schematic_Library/kicad-keyboard-parts.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri C:/Users/Envy/Documents/GitHub/Env-KB/MainPCB_RGB-HS/Schematic_Library/Type-C.lib)(options "")(descr ""))
+)
