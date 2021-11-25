@@ -3306,4 +3306,23 @@ Text GLabel 9700 8700 1    50   Input ~ 0
 USBVBUS
 Text Notes 8000 10900 0    50   ~ 0
 Omron B3U or Alps SKRK
+$Comp
+L Connector_Generic:Conn_01x04 J1
+U 1 1 61A29812
+P 10400 8950
+F 0 "J1" V 10272 9130 50  0000 L CNN
+F 1 "JSTUSB" V 10363 9130 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal" H 10400 8950 50  0001 C CNN
+F 3 "~" H 10400 8950 50  0001 C CNN
+	1    10400 8950
+	0    1    1    0   
+$EndComp
+Text GLabel 10500 8750 1    50   Input ~ 0
+USBVBUS
+Text GLabel 10200 8750 1    50   Input ~ 0
+GND
+Text GLabel 10300 8750 1    50   Input ~ 0
+USB2_P
+Text GLabel 10400 8750 1    50   Input ~ 0
+USB2_N
 $EndSCHEMATC
