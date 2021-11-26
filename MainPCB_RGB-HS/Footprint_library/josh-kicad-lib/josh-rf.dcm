@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8302
+D Gain Phase Detector
+$ENDCMP
+#
+$CMP AD8319
+D Log Power Detector
+$ENDCMP
+#
+$CMP ADC-15-4+
+D MiniCircuits Directional Coupler
+$ENDCMP
+#
+$CMP F2923
+D 2 Port High Isol RF Switch
+$ENDCMP
+#
+$CMP Filter_LFCN
+D MiniCircuits Filter
+$ENDCMP
+#
+$CMP HMC313
+D RF Amp
+$ENDCMP
+#
+$CMP MAX2871
+D PLL 23.5-6000MHz
+$ENDCMP
+#
+$CMP PE42440
+D 4 Throw RF Switch
+$ENDCMP
+#
+$CMP PE4257
+D 2 Throw RF Switch
+$ENDCMP
+#
+$CMP PE43711
+D RF Attenuator
+$ENDCMP
+#
+$CMP SKY12347-362LF
+D RF Attenuator
+$ENDCMP
+#
+$CMP TRF37A75
+D RF Amp
+$ENDCMP
+#
+#End Doc Library

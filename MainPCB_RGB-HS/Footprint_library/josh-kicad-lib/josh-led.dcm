@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_RGBA
+D RGB LED, anode/red/green/blue
+K LED RGB diode
+F ~
+$ENDCMP
+#
+$CMP SEVEN_SEG_LTD-5623Ax
+D Double 7 segment LED common anode
+K display LED 7-segment
+$ENDCMP
+#
+$CMP SK6812-MINI-E
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+$ENDCMP
+#
+#End Doc Library

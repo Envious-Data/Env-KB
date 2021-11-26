@@ -6,4 +6,5 @@
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/MX_Only.pretty)(options "")(descr ""))
   (lib (name sk6812mini)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/sk6812mini.pretty)(options "")(descr ""))
   (lib (name Mounting_Keyboard_Stabilizer)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/Mounting_Keyboard_Stabilizer.pretty)(options "")(descr ""))
+  (lib (name josh-connectors)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/josh-kicad-lib/josh-connectors.pretty)(options "")(descr ""))
 )

@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHC1G04
+D Not Gate
+$ENDCMP
+#
+$CMP 74LVC2G17
+D Dual Schmitt Trigger Buffer
+$ENDCMP
+#
+$CMP CD74HC4050
+F http://www.ti.com/lit/ds/symlink/cd74hc4049.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G139
+D 2 to 4 Binary Decoder
+$ENDCMP
+#
+#End Doc Library

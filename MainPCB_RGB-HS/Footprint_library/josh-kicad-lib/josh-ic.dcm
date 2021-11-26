@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AN48840B
+D Hall Effect Sensor
+$ENDCMP
+#
+$CMP ATSAMD21J18A
+D SAMD21 - TQFP / QFN
+$ENDCMP
+#
+$CMP ATSAMD21J18A-C
+D SAMD21 - UFBGA
+$ENDCMP
+#
+$CMP CY7C65632-28LTXCT
+D Cypress 4 Port USB 2.0 Hub
+F https://www.cypress.com/file/114101/download
+$ENDCMP
+#
+$CMP FT2232H
+D FT2232Hx, Hi Speed Double Channel USB UART/FIFO, LQFP/QFN-64
+K USB Double UART FIFO
+$ENDCMP
+#
+$CMP ICE40UP5K-SG48ITR
+D iCE40 UltraPlus FPGA, 5280 LUTs, 1.2V, 48-pin QFN
+K FPGA programmable logic
+F http://www.latticesemi.com/Products/FPGAandCPLD/iCE40Ultra
+$ENDCMP
+#
+$CMP USBLC6-2SC6
+D Bidirectional ESD Protection Diode, SOT-23-6
+K usb ethernet
+F http://www2.st.com/resource/en/datasheet/CD00050750.pdf
+$ENDCMP
+#
+#End Doc Library

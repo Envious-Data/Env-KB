@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TFT-1.8''
+D 1.8'' SPI TFT Screen
+F https://cdn-shop.adafruit.com/datasheets/JD-T1800.pdf
+$ENDCMP
+#
+#End Doc Library

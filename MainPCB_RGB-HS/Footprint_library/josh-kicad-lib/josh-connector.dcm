@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Feather
+D Adafruit Feather Footprint
+$ENDCMP
+#
+$CMP USB_C_U262-161N-4BVC11
+D USB 2.0-only Type-C Receptacle connector
+K usb universal serial bus type-C USB2.0
+F https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
+$ENDCMP
+#
+#End Doc Library

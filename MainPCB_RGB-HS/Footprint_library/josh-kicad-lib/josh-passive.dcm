@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Ferrite_Bead_PWR
+D Ferrite bead
+K L ferrite bead inductor filter
+F ~
+$ENDCMP
+#
+$CMP PMEG2020CPAS
+D dual schottky barrier diode, common cathode
+K schottky diode common cathode
+$ENDCMP
+#
+$CMP RN
+D Resistor Network
+F ~
+$ENDCMP
+#
+#End Doc Library
