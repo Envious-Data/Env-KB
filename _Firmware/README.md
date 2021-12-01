@@ -8,6 +8,7 @@ The setup for any of my keyboards using a Raspberry Pi Pico should generally be 
 - Install [Circuitpython](https://circuitpython.org/board/raspberry_pi_pico/) To your Raspberry Pi Pico.
 - Once installed, Extract A KMK Firmware zip to your raspberry pi pico
 (Unless you have an original prototype board you will want Revision 1 or newer)
+
 ![What your Raspberry Pi Drive Should Look Like](example.jpg)
 - there is a screenshot above on what the files on your Raspberry Pi Pico should look like
 
