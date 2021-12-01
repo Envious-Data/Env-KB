@@ -5,16 +5,19 @@ Firmwares! here is provided python code for Circuitpython and a QMK firmware fil
 ## KMK Setup instructions
 The setup for any of my keyboards using a Raspberry Pi Pico should generally be the same
 
-- Install [Circuitpython](https://circuitpython.org/board/raspberry_pi_pico/) To your Raspberry Pi Pico
-- Once installed Extract KMK Firmware zip to your raspberry pi pico 
+- Install [Circuitpython](https://circuitpython.org/board/raspberry_pi_pico/) To your Raspberry Pi Pico.
+- Once installed, Extract A KMK Firmware zip to your raspberry pi pico
+(Unless you have an original prototype board you will want Revision 1 or newer)
 ![What your Raspberry Pi Drive Should Look Like](example.jpg)
 - there is a screenshot above on what the files on your Raspberry Pi Pico should look like
 
 ## QMK Setup instructions
+Alternatively if you dont want to use KMK you can flash this QMK firmware built from this port
+https://github.com/sekigon-gonnoc/qmk_firmware/tree/rp2040/keyboards/rp2040_example
 
-- Plug the raspberry pi pico in while holding the bootsel button
-- A drive will show up on your computer called "RPI-RP2" this is the pico's bootloader
-- copy and paste into the QMK UF2 file into the pico's bootloader
+- Plug the raspberry pi pico in while holding the bootsel button.
+- A drive will show up on your computer called "RPI-RP2", this is the pico's bootloader.
+- copy and paste into the QMK UF2 file into the pico's bootloader.
 - done.
 
 ## POSSIBLE ISSUES
