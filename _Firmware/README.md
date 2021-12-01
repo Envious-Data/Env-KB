@@ -1,6 +1,6 @@
 ### What is this?
 
-Firmwares! here is provided python code for Circuitpython/KMK and a QMK firmware file, you can pick either Circuitpython+KMK which allows for some code editing and various tweaks or QMK which as of writing this doesnt have functional via support but is great for flashing and forgetting.
+Firmwares! here are python code files for Circuitpython/KMK along with QMK firmwares. You can pick either Circuitpython+KMK which allows for some code editing and various tweaks or QMK which as of writing this doesnt have functional via support but is great for flashing and forgetting.
 
 ## KMK Setup instructions
 The setup for any of my keyboards using a Raspberry Pi Pico should generally be the same
