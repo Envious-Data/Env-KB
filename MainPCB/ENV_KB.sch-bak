@@ -56,8 +56,6 @@ Wire Wire Line
 Wire Wire Line
 	1350 3400 2350 3400
 Wire Wire Line
-	900  2400 2400 2400
-Wire Wire Line
 	1350 1400 3350 1400
 Wire Wire Line
 	7800 650  7800 2950
@@ -738,8 +736,6 @@ Wire Wire Line
 	900  3400 1350 3400
 Text GLabel 900  3400 0    50   Input ~ 0
 row2
-Text GLabel 900  2400 0    50   Input ~ 0
-row1
 Connection ~ 18800 950 
 Wire Wire Line
 	18350 1150 18350 1200
@@ -2932,17 +2928,15 @@ Text GLabel 12800 8900 1    50   Input ~ 0
 GND
 Text GLabel 12950 8900 1    50   Input ~ 0
 USB2_N
-Text GLabel 9300 8700 1    50   Input ~ 0
+Text GLabel 10050 9650 0    50   Input ~ 0
 USB2_N
-Text GLabel 9400 8700 1    50   Input ~ 0
+Text GLabel 10050 9450 0    50   Input ~ 0
 USB2_P
 Text GLabel 13100 8900 1    50   Input ~ 0
 USB2_P
 Text GLabel 13650 9100 2    50   Input ~ 0
 USBVBUS
-Text GLabel 8800 8700 1    50   Input ~ 0
-USBVBUS
-Text GLabel 9000 8500 1    50   Input ~ 0
+Text GLabel 9850 10050 0    50   Input ~ 0
 GND
 Text GLabel 12150 9300 0    50   Input ~ 0
 GND
@@ -2975,36 +2969,34 @@ Wire Wire Line
 $Comp
 L Device:R_Small RESISTOR1
 U 1 1 606333E5
-P 9000 8600
-F 0 "RESISTOR1" V 8804 8600 39  0001 C CNN
-F 1 "5.1kohm 0402" V 9000 8700 30  0001 C CNN
-F 2 "Resistor_SMD:R_0402_1005Metric" H 9000 8600 50  0001 C CNN
-F 3 "~" H 9000 8600 50  0001 C CNN
-F 4 "C25905" V 9000 8600 50  0001 C CNN "LCSC"
-	1    9000 8600
-	1    0    0    -1  
+P 9950 10050
+F 0 "RESISTOR1" V 9754 10050 39  0001 C CNN
+F 1 "5.1kohm 0402" V 9950 10150 30  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 9950 10050 50  0001 C CNN
+F 3 "~" H 9950 10050 50  0001 C CNN
+F 4 "C25905" V 9950 10050 50  0001 C CNN "LCSC"
+	1    9950 10050
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:R_Small RESISTOR0
 U 1 1 6066AF89
-P 9600 8600
-F 0 "RESISTOR0" V 9404 8600 39  0001 C CNN
-F 1 "5.1kohm 0402" V 9495 8600 50  0001 C CNN
-F 2 "Resistor_SMD:R_0402_1005Metric" H 9600 8600 50  0001 C CNN
-F 3 "~" H 9600 8600 50  0001 C CNN
-F 4 "C25905" V 9600 8600 50  0001 C CNN "LCSC"
-	1    9600 8600
-	-1   0    0    1   
+P 9950 9950
+F 0 "RESISTOR0" V 9754 9950 39  0001 C CNN
+F 1 "5.1kohm 0402" V 9845 9950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 9950 9950 50  0001 C CNN
+F 3 "~" H 9950 9950 50  0001 C CNN
+F 4 "C25905" V 9950 9950 50  0001 C CNN "LCSC"
+	1    9950 9950
+	0    1    1    0   
 $EndComp
-Text GLabel 9600 8500 1    50   Input ~ 0
+Text GLabel 9850 9950 0    50   Input ~ 0
 GND
-Text GLabel 9800 8700 1    50   Input ~ 0
+Text GLabel 10950 8750 1    50   Input ~ 0
 GND
-Text GLabel 9900 8700 1    50   Input ~ 0
+Text GLabel 10650 8750 1    50   Input ~ 0
 GND
-Text GLabel 9100 8700 1    50   Input ~ 0
-USB2_N
-Text GLabel 9200 8700 1    50   Input ~ 0
+Text GLabel 10050 9550 0    50   Input ~ 0
 USB2_P
 $Comp
 L Device:LED PowerLED0
@@ -3026,15 +3018,13 @@ L Device:R_Small PowerLedResistor0
 U 1 1 604A80B1
 P 8550 9950
 F 0 "PowerLedResistor0" V 8650 10200 50  0000 C CNN
-F 1 "2.2K Resistor 0402" V 8700 10000 50  0001 C CNN
+F 1 "47K Resistor 0402" V 8700 10000 50  0001 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" H 8550 9950 50  0001 C CNN
 F 3 "~" H 8550 9950 50  0001 C CNN
 F 4 "C17513" V 8550 9950 50  0001 C CNN "LCSC"
 	1    8550 9950
 	0    1    1    0   
 $EndComp
-Text GLabel 8700 8700 1    50   Input ~ 0
-GND
 $Comp
 L Connector_Generic:Conn_01x04 I2CHeader0
 U 1 1 605CD72C
@@ -3069,11 +3059,9 @@ L Switch:SW_Push SW-RST0
 U 1 1 605FBFA6
 P 8550 10700
 F 0 "SW-RST0" H 8550 11100 50  0000 C CNN
-F 1 "SKRK" H 8550 10950 50  0000 C CNN
-F 2 "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" H 8550 10700 50  0001 L BNN
+F 1 "EVQ" H 8550 10950 50  0000 C CNN
+F 2 "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC" H 8550 10700 50  0001 L BNN
 F 3 "" H 8550 10700 50  0001 L BNN
-F 4 "Omron" H 8550 10700 50  0001 L BNN "MANUFACTURER"
-F 5 "C231329" H 8550 10700 50  0001 C CNN "LCSC"
 	1    8550 10700
 	1    0    0    -1  
 $EndComp
@@ -3291,38 +3279,34 @@ F 3 "~" H 6600 8850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Type-C:HRO-TYPE-C-31-M-12 USB1
+L josh-connector:USB_C_U262-161N-4BVC11 USB1
 U 1 1 60AC4D40
-P 9250 8800
-F 0 "USB1" V 8650 9250 60  0000 C CNN
-F 1 "HRO-TYPE-C-31-M-12" V 8750 8800 60  0000 C CNN
-F 2 "HRO-TYPE-C31-M-12:HRO-TYPE-C-31-M-12" H 9250 8800 60  0001 C CNN
-F 3 "" H 9250 8800 60  0001 C CNN
-F 4 "C165948" H 9250 8800 50  0001 C CNN "LCSC"
-	1    9250 8800
-	0    -1   -1   0   
+P 10650 9650
+F 0 "USB1" V 10050 10100 60  0000 C CNN
+F 1 "HRO-TYPE-C-31-M-12" V 10150 9650 60  0000 C CNN
+F 2 "josh-connectors:USB_C_TYPE-C-31-M-14" H 10650 9650 60  0001 C CNN
+F 3 "" H 10650 9650 60  0001 C CNN
+F 4 "C165948" H 10650 9650 50  0001 C CNN "LCSC"
+	1    10650 9650
+	-1   0    0    1   
 $EndComp
-Text GLabel 9700 8700 1    50   Input ~ 0
+Text GLabel 10050 10250 0    50   Input ~ 0
 USBVBUS
 Text Notes 8000 10900 0    50   ~ 0
 Omron B3U or Alps SKRK
-$Comp
-L Connector_Generic:Conn_01x04 J?
-U 1 1 61A29812
-P 10400 8950
-F 0 "J?" V 10272 9130 50  0000 L CNN
-F 1 "JSTUSB" V 10363 9130 50  0000 L CNN
-F 2 "Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal" H 10400 8950 50  0001 C CNN
-F 3 "~" H 10400 8950 50  0001 C CNN
-	1    10400 8950
-	0    1    1    0   
-$EndComp
-Text GLabel 10500 8750 1    50   Input ~ 0
-USBVBUS
-Text GLabel 10200 8750 1    50   Input ~ 0
-GND
-Text GLabel 10300 8750 1    50   Input ~ 0
-USB2_P
-Text GLabel 10400 8750 1    50   Input ~ 0
+Text GLabel 10050 9750 0    50   Input ~ 0
 USB2_N
+NoConn ~ 10050 9150
+NoConn ~ 10050 9050
+$Comp
+L Mechanical:MountingHole STAB?
+U 1 1 61D508CB
+P 7650 8700
+F 0 "STAB?" H 7750 8746 50  0000 L CNN
+F 1 "Stabilizer" H 7750 8655 50  0000 L CNN
+F 2 "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u" H 7650 8700 50  0001 C CNN
+F 3 "~" H 7650 8700 50  0001 C CNN
+	1    7650 8700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
