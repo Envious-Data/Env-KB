@@ -4,7 +4,7 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
@@ -64,11 +64,11 @@
       35,
       36
     ],
-    "visible_layers": "0009dfc_80000001",
+    "visible_layers": "003f7ff_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "ENV_KB.kicad_prl",
+    "filename": "ENV_KB-Back.kicad_prl",
     "version": 3
   },
   "project": {
