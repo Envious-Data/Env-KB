@@ -4,8 +4,6 @@
 - Project Name: EnvKB80
 - Nickname: Delirium
 
-![Front](_docs/KBFront.png?raw=true "Front of PCB")
-
 ![Rev0 Build](_pictures/Rev.0/Built/DSC_0826.JPG)
 
 [Link to Build Guide](_docs/EnvKB-BuildGuide.pdf)
@@ -24,6 +22,6 @@ The Windows 7 lacks drivers for circuitpython so you may need to download a driv
 
 ### PCBWAY
 
-![PCBWAY](https://4.bp.blogspot.com/-sn_1frB-tto/W_eevs6kyzI/AAAAAAAANhE/ZPlkvH6ysTAMuBJlbtYsSxkC28xaRrZugCLcBGAs/s1600/PCBWay%2BTlogo.png)(http://pcbway.com)
+[![PCBWAY](https://4.bp.blogspot.com/-sn_1frB-tto/W_eevs6kyzI/AAAAAAAANhE/ZPlkvH6ysTAMuBJlbtYsSxkC28xaRrZugCLcBGAs/s1600/PCBWay%2BTlogo.png)](http://pcbway.com)
 
 [PCBWAY](http://pcbway.com) Kindly sponsored a batch of PCBs of which you can see [pictures](_pictures/Hotswap/) of inside the pictures folder.
