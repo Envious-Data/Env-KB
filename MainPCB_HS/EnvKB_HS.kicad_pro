@@ -421,7 +421,7 @@
       "idf": "",
       "netlist": "ENV_KB.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "EnvKB_HS.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
