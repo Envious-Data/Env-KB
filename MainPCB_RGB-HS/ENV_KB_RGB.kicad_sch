@@ -18158,10 +18158,10 @@
       (reference "K_62") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1U-Hotswap-Modified")
     )
     (path "/00000000-0000-0000-0000-0000606cdfc3"
-      (reference "K_63") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap-Modified")
+      (reference "K_63") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1U-Hotswap-Modified")
     )
     (path "/00000000-0000-0000-0000-0000609353eb"
-      (reference "K_63B1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap-Modified")
+      (reference "K_63B1") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1U-Hotswap-Modified")
     )
     (path "/00000000-0000-0000-0000-000000000631"
       (reference "K_64") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1U-Hotswap-Modified")

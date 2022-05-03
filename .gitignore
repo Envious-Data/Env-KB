@@ -27,3 +27,5 @@ MainPCB_RGB-HS/ENV_KB_RGB-backups/*
 MainPCB_RGB-HS-Experimental/ENV_KB_RGB-backups/*
 MainPCB/ENV_KB-backups/*
 MainPCB_HS/EnvKB_HS-backups/*
+MainPCB_RP2040/ENV_KB_RP2040-backups/*
+ENV_KB-backups/*
