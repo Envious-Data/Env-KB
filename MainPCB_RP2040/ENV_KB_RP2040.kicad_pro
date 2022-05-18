@@ -2,14 +2,14 @@
   "board": {
     "design_settings": {
       "defaults": {
-        "board_outline_line_width": 0.049999999999999996,
-        "copper_line_width": 0.19999999999999998,
+        "board_outline_line_width": 0.09999999999999999,
+        "copper_line_width": 0.09999999999999999,
         "copper_text_italic": false,
-        "copper_text_size_h": 1.5,
-        "copper_text_size_v": 1.5,
-        "copper_text_thickness": 0.3,
+        "copper_text_size_h": 0.7999999999999999,
+        "copper_text_size_v": 0.7999999999999999,
+        "copper_text_thickness": 0.15,
         "copper_text_upright": false,
-        "courtyard_line_width": 0.049999999999999996,
+        "courtyard_line_width": 0.09999999999999999,
         "dimension_precision": 4,
         "dimension_units": 3,
         "dimensions": {
@@ -22,14 +22,14 @@
         },
         "fab_line_width": 0.09999999999999999,
         "fab_text_italic": false,
-        "fab_text_size_h": 1.0,
-        "fab_text_size_v": 1.0,
+        "fab_text_size_h": 0.7999999999999999,
+        "fab_text_size_v": 0.7999999999999999,
         "fab_text_thickness": 0.15,
         "fab_text_upright": false,
         "other_line_width": 0.09999999999999999,
         "other_text_italic": false,
-        "other_text_size_h": 1.0,
-        "other_text_size_v": 1.0,
+        "other_text_size_h": 0.7999999999999999,
+        "other_text_size_v": 0.7999999999999999,
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
@@ -37,10 +37,10 @@
           "height": 2.2,
           "width": 2.2
         },
-        "silk_line_width": 0.12,
+        "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
+        "silk_text_size_h": 0.7999999999999999,
+        "silk_text_size_v": 0.7999999999999999,
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
@@ -399,7 +399,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.25,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.8,
