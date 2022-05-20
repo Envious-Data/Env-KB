@@ -3258,7 +3258,7 @@
   )
 
   (no_connect (at 39.37 59.69) (uuid 17da0aba-66e9-4d22-982a-7002e86f620b))
-  (no_connect (at 39.37 62.23) (uuid 17da0aba-66e9-4d22-982a-7002e86f620b))
+  (no_connect (at 39.37 62.23) (uuid 17da0aba-66e9-4d22-982a-7002e86f620c))
 
   (wire (pts (xy 237.49 182.88) (xy 252.73 182.88))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -9708,8 +9708,8 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f30f0ba)
     (property "Reference" "J2" (id 0) (at 33.02 124.46 0))
-    (property "Value" "SKRK" (id 1) (at 34.29 130.81 0))
-    (property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" (id 2) (at 34.29 128.27 0)
+    (property "Value" "EVQPUJ" (id 1) (at 34.29 130.81 0))
+    (property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA" (id 2) (at 34.29 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 34.29 128.27 0)
@@ -10115,8 +10115,8 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000605fbfa6)
     (property "Reference" "SW-RST0" (id 0) (at 148.59 170.18 0))
-    (property "Value" "SKRK" (id 1) (at 149.86 165.1 0))
-    (property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" (id 2) (at 154.94 167.64 0)
+    (property "Value" "EVQPUJ" (id 1) (at 149.86 165.1 0))
+    (property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA" (id 2) (at 154.94 167.64 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 154.94 167.64 0)
@@ -10920,7 +10920,7 @@
   (symbol (lib_id "power:VBUS") (at 39.37 31.75 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0f9de786-9b05-494c-90c3-759356db0d8c)
-    (property "Reference" "#PWR?" (id 0) (at 35.56 31.75 0)
+    (property "Reference" "#PWR0113" (id 0) (at 35.56 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (id 1) (at 44.45 31.75 90))
@@ -11172,7 +11172,7 @@
       (reference "#PWR0112") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/0f9de786-9b05-494c-90c3-759356db0d8c"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+      (reference "#PWR0113") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005f09255d"
       (reference "C1") (unit 1) (value "10uf 0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -11532,7 +11532,7 @@
       (reference "I2CHeader0") (unit 1) (value "Conn_01x04") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005f30f0ba"
-      (reference "J2") (unit 1) (value "SKRK") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
+      (reference "J2") (unit 1) (value "EVQPUJ") (footprint "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA")
     )
     (path "/00000000-0000-0000-0000-000060ce2dd4"
       (reference "J5") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
@@ -11838,7 +11838,7 @@
       (reference "R9") (unit 1) (value "10K  0402 Resistor") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-0000605fbfa6"
-      (reference "SW-RST0") (unit 1) (value "SKRK") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
+      (reference "SW-RST0") (unit 1) (value "EVQPUJ") (footprint "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA")
     )
     (path "/00000000-0000-0000-0000-00006107e6ac"
       (reference "U1") (unit 1) (value "TLV75533PDBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
