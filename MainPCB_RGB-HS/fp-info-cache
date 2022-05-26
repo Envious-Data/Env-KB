@@ -1,4 +1,4 @@
-20553682668771965
+20633704170135121
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6482,6 +6482,27 @@ Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal
 4
 4
 Connector_Audio
+Jack_3.5mm_CUI_SJ1-3523N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3524N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3525N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
+Connector_Audio
 Jack_3.5mm_CUI_SJ1-3533NG_Horizontal
 TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf
 TRS audio jack stereo horizontal
@@ -7979,6 +8000,13 @@ connector cf
 0
 54
 50
+Connector_Card
+SD_Hirose_DM1AA_SF_PEJ82
+SD, SMD, top-mount, push-push (https://www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)
+SD card connector
+0
+16
+13
 Connector_Card
 SD_Kyocera_145638009211859+
 SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
@@ -45591,6 +45619,13 @@ USB Type-C Receptacle Through-hole Right angle
 20
 17
 Connector_USB
+USB_C_Receptacle_GCT_USB4115-03-C
+USB TYPE C, VERT RCPT PCB, SMT, https://gct.co/files/drawings/usb4115.pdf
+USB C Type-C Receptacle SMD
+0
+28
+25
+Connector_USB
 USB_C_Receptacle_HRO_TYPE-C-31-M-12
 USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
 usb usb-c 2.0 pd
@@ -55356,6 +55391,20 @@ L_CommonMode_Toroid Vertical series Radial pin pitch 17.78*30.48mm^2  length 43.
 4
 4
 Inductor_THT
+L_CommonMode_VAC_T60405-S6123-X140
+3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X140.pdf
+common mode filter
+0
+6
+6
+Inductor_THT
+L_CommonMode_VAC_T60405-S6123-X240
+3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X240.pdf
+common mode filter
+0
+6
+6
+Inductor_THT
 L_CommonMode_Wuerth_WE-CMB-L
 Wuerth, WE-CMB, Bauform L,
 CommonModeChoke Gleichtaktdrossel 
@@ -63546,6 +63595,13 @@ DFN NoLead
 9
 7
 Package_DFN_QFN
+DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm
+DFN, 6 Pin (https://www.onsemi.com/pdf/datasheet/ncp349-d.pdf#page=12), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+9
+7
+Package_DFN_QFN
 DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm
 DFN, 6 Pin (https://www.diodes.com/assets/Package-Files/U-DFN2018-6.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
@@ -63783,6 +63839,20 @@ DFN 0.5
 0
 8
 8
+Package_DFN_QFN
+DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm
+DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+15
+11
+Package_DFN_QFN
+DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias
+DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+22
+11
 Package_DFN_QFN
 DFN-10-1EP_2x3mm_P0.5mm_EP0.64x2.4mm
 DDB Package; 10-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_10_05-08-1722.pdf)
@@ -72636,7 +72706,7 @@ VSON-8_3.3x3.3mm_P0.65mm_NexFET
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf
 VSON 0.65
 0
-12
+13
 5
 Package_SON
 VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm
@@ -76965,6 +77035,20 @@ ESP32-S2  ESP32  WIFI
 43
 43
 RF_Module
+ESP32-S3-WROOM-1
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
+RF_Module
+ESP32-S3-WROOM-1U
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
+RF_Module
 ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
 Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
@@ -80706,6 +80790,48 @@ Symbol
 Symbol_Highvoltage_Type2_CopperTop_Small
 Symbol, Highvoltage, Type 2, Copper Top, Small,
 Symbol, Highvoltage, Type 2, Copper Top, Small,
+0
+0
+0
+Symbol
+UKCA-Logo_6x6mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_8x8mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_12x12mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_20x20mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_30x30mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_40x40mm_SilkScreen
+UKCA marking
+Logo UKCA marking
 0
 0
 0
