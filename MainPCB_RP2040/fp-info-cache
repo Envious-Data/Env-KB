@@ -1,4 +1,4 @@
-20401150112486996
+20460278263340960
 2.54mmheadercastelation
 PinHeader_1x20_P2.54mm_Vertical_castelated
 Through hole straight pin header, 1x20, 2.54mm pitch, single row
@@ -51944,8 +51944,8 @@ RPi_Pico_SMD_TH
 Through hole straight pin header, 2x20, 2.54mm pitch, double rows
 Through hole pin header THT 2x20 2.54mm double row
 0
-92
-45
+93
+46
 EM_Extras
 SOD-123+D_DO-35_SOD27_P7.62mm_Horizontal
 Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
@@ -77503,34 +77503,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-RP2040_minimal
-Crystal_SMD_HC49-US
-SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
-SMD SMT crystal
-0
-2
-2
-RP2040_minimal
-RP2040-QFN-56
-QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-70
-57
-RP2040_minimal
-USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified
-Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
-USB USB_B USB_micro USB_OTG
-0
-17
-6
-RT6150B-33GQW
-SON50P250X250X80-11N
-
-
-0
-11
-11
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -86442,31 +86414,311 @@ varistor SIOV
 0
 2
 2
-W25Q16JVSSIQ
-SOIC127P790X216-8N
+josh-connectors
+AVR_PROG_2.54_SMT
+AVR Programmer 6 pogo pin 2.54 mm spacing
+
+0
+6
+6
+josh-connectors
+AVR_PROG_2.54_THT
+AVR Programmer 6 pogo pin 2.54 mm spacing
+
+0
+6
+6
+josh-connectors
+Banana_Jack_1Pin
+Single banana socket, footprint - 6mm drill
+banana socket
+0
+1
+1
+josh-connectors
+Castellated_P2.54
+Single castellated hole, 2.54mm pitch
+
+0
+2
+1
+josh-connectors
+Castellated_P2.54x5
+5 x castellated hole, 2.54mm pitch
+
+0
+10
+5
+josh-connectors
+Castellated_P2.54x12
+12 x castellated hole, 2.54mm pitch
+
+0
+24
+12
+josh-connectors
+Castellated_Short_2.54x5
 
 
 0
-8
-8
-W25Q256JVEIQ_TR
-SON127P800X600X80-9N
+5
+5
+josh-connectors
+Castellated_Short_P2.54x12
 
+
+0
+12
+12
+josh-connectors
+JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal
+JST PH series connector, S2B-PH-SM4-TB mounding pads grounded
+connector JST PH top entry
+0
+4
+2
+josh-connectors
+PMOD_HOST
+PMOD host connector
+
+0
+12
+12
+josh-connectors
+POGO_P100_AVR_PROG_2.54_THT
+AVR Programmer 6 pogo pin 2.54 mm spacing
+
+0
+6
+6
+josh-connectors
+SAMTEC_FTSH-105-01-L-DV-R-TR
+surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x05 1.27mm double row
+0
+10
+10
+josh-connectors
+SMA_EDGE_MOUNT
+http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf
+SMA
+0
+5
+2
+josh-connectors
+SMA_EDGE_MOUNT_INSET
+http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf
+SMA
+0
+5
+2
+josh-connectors
+STM_3_PIN_THT_Staggered
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+3
+3
+josh-connectors
+STM_4_PIN_THT_Staggered
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+4
+4
+josh-connectors
+STM_5_PIN_SMD_PROG
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+josh-connectors
+STM_6_PIN_THT_Staggered
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+josh-connectors
+USB_A_Molex_67643_Horizontal
+USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
+USB_A Female Connector receptacle
+0
+6
+5
+josh-connectors
+USB_A_U234-051N-3GRA035-5
+https://datasheet.lcsc.com/szlcsc/2002271813_XKB-Enterprise-U234-051N-3GRA035-5_C381138.pdf
 
 0
 9
-9
-sk6812mini
-MX_SK6812MINI-E
-Add-on for regular MX-footprints with SK6812 MINI-E
-cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+5
+josh-connectors
+USB_C_TYPE-C-31-M-14
+USB C Type-C Receptacle SMD sunk into PCB
+
+0
+24
+17
+josh-connectors
+USB_C_U262-161N-4BVC11
+USB TYPE C, RA RCPT PCB, SMT, https://github.com/arturo182/GT-USB-7010/raw/master/GT-USB-7010.pdf
+USB C Type-C Receptacle SMD
+0
+24
+17
+josh-connectors
+USB_Micro_Aliexpress
+Micro USB Connector, DO NOT USE
+
+0
+11
+6
+josh-connectors
+featherwing-short
+featherwing 50mm long
+
+0
+28
+28
+josh-connectors
+featherwing-typeC
+featherwing long allows usb type c
+
+0
+30
+29
+keyswitches
+Kailh_socket_MX
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+keyswitches
+Kailh_socket_MX_optional
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
 4
-4
-sk6812mini
-MX_SK6812MINI-E_REV
-Add-on for regular MX-footprints with SK6812 MINI-E
-cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+2
+keyswitches
+Kailh_socket_MX_optional_platemount
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
 4
+2
+keyswitches
+Kailh_socket_MX_optional_reversible
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+8
+2
+keyswitches
+Kailh_socket_MX_optional_reversible_platemount
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+8
+2
+keyswitches
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+keyswitches
+Kailh_socket_MX_reversible
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
 4
+2
+keyswitches
+Kailh_socket_MX_reversible_platemount
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+keyswitches
+Kailh_socket_PG1350_optional
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+keyswitches
+Kailh_socket_PG1350_optional_reversible
+Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
+kailh,choc
+0
+7
+2
+keyswitches
+Kailh_socket_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+keyswitches
+SW_MX
+MX-style keyswitch
+MX,cherry,gateron,kailh
+0
+2
+2
+keyswitches
+SW_MX_reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
+0
+4
+2
+keyswitches
+SW_MX_reversible_minimal
+MX-style keyswitch, reversible, without pcb-mount holes
+MX,cherry,gateron,kailh
+0
+4
+2
+keyswitches
+SW_PG1350
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
+0
+2
+2
+keyswitches
+SW_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+3
+2
+keyswitches
+SW_PG1350_reversible_rotatable
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)
+kailh,choc
+0
+6
+2
+keyswitches
+Stabilizer_MX_2u
+MX-style stabilizer mount
+MX,cherry,gateron,kailh,pg1511,stabilizer,stab
+0
+0
+0
