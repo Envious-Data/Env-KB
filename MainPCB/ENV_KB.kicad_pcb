@@ -10395,7 +10395,7 @@
         (xy 0.815446 -0.318029)
         (xy 0.815446 -0.035454)
         (xy 1.293813 -0.318029)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 43aad111-6b33-4dbc-9ad7-c2d8dca3b90c))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 43aad111-6b33-4dbc-9ad7-c2d8dca3b90c))
     (fp_poly (pts
         (xy -0.684213 -0.320146)
         (xy -0.612246 -0.320146)
@@ -10411,7 +10411,7 @@
         (xy -1.220788 -0.320146)
         (xy -0.953029 -0.052388)
         (xy -0.684213 -0.320146)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 80196528-b15a-451f-aaf0-cda9fe544e2c))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 80196528-b15a-451f-aaf0-cda9fe544e2c))
     (fp_poly (pts
         (xy 0.578379 -0.320146)
         (xy 0.650346 -0.320146)
@@ -10440,7 +10440,7 @@
         (xy 0.563563 0.121576)
         (xy 0.578379 0.043921)
         (xy 0.578379 -0.320146)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 93120012-0ba1-4b70-9e81-b9fc8a21bca5))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 93120012-0ba1-4b70-9e81-b9fc8a21bca5))
     (fp_poly (pts
         (xy -0.109538 -0.026988)
         (xy -0.093133 0.068792)
@@ -10484,7 +10484,7 @@
         (xy -0.169863 -0.068263)
         (xy -0.076994 -0.080698)
         (xy -0.109538 -0.026988)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp dfd433cd-d7f6-470c-b079-1f54afc890f5))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp dfd433cd-d7f6-470c-b079-1f54afc890f5))
   )
 
   (footprint "kibuzzard-628AE933" (layer "F.Cu")
@@ -10624,7 +10624,7 @@
         (xy 0.9271 -0.175683)
         (xy 0.992981 -0.150813)
         (xy 1.048808 -0.10795)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 4de50765-b3cd-4d3e-bf09-d8efbae975cd))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 4de50765-b3cd-4d3e-bf09-d8efbae975cd))
     (fp_poly (pts
         (xy -0.251883 0.24765)
         (xy -0.200422 0.240242)
@@ -10662,7 +10662,7 @@
         (xy -0.378354 0.195263)
         (xy -0.320543 0.234553)
         (xy -0.251883 0.24765)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 5af26f62-2ba7-4cca-95d3-c6c869667581))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 5af26f62-2ba7-4cca-95d3-c6c869667581))
     (fp_poly (pts
         (xy 0.309033 -0.182033)
         (xy 0.309033 -0.110067)
@@ -10700,7 +10700,7 @@
         (xy 0.130175 -0.106892)
         (xy 0.211931 -0.163248)
         (xy 0.309033 -0.182033)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp abba1132-1339-42b4-8da4-1928fb16da9e))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp abba1132-1339-42b4-8da4-1928fb16da9e))
     (fp_poly (pts
         (xy -0.688975 -0.229658)
         (xy -0.677333 -0.078317)
@@ -10737,7 +10737,7 @@
         (xy -0.829145 -0.309621)
         (xy -0.755062 -0.279635)
         (xy -0.688975 -0.229658)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp de233bcf-2238-413c-bf9f-9df7772459b1))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp de233bcf-2238-413c-bf9f-9df7772459b1))
   )
 
   (footprint "kibuzzard-6250C4E7" (layer "F.Cu")
@@ -11207,7 +11207,7 @@
         (xy -0.915458 -0.319617)
         (xy -0.365125 -0.319617)
         (xy -0.365125 -0.24765)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 0913e0a8-7f6e-4a4f-9fe7-0671513c31d8))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 0913e0a8-7f6e-4a4f-9fe7-0671513c31d8))
     (fp_poly (pts
         (xy 1.21285 0.319617)
         (xy 1.21285 -0.24765)
@@ -11218,7 +11218,7 @@
         (xy 1.284817 -0.24765)
         (xy 1.284817 0.319617)
         (xy 1.21285 0.319617)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 214c369f-8e9c-424a-91e4-f4ee8f744192))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 214c369f-8e9c-424a-91e4-f4ee8f744192))
     (fp_poly (pts
         (xy 0.062442 -0.037042)
         (xy 0.130969 -0.023945)
@@ -11253,7 +11253,7 @@
         (xy -0.171979 -0.067733)
         (xy -0.097367 -0.037042)
         (xy 0.062442 -0.037042)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 52a51a08-dcf3-49a8-b244-8747e6cec044))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 52a51a08-dcf3-49a8-b244-8747e6cec044))
     (fp_poly (pts
         (xy 0.883708 -0.24765)
         (xy 0.405342 -0.24765)
@@ -11268,7 +11268,7 @@
         (xy 0.333375 -0.319617)
         (xy 0.883708 -0.319617)
         (xy 0.883708 -0.24765)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp b170e8f0-499f-468a-b606-14b3c6b19c34))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp b170e8f0-499f-468a-b606-14b3c6b19c34))
     (fp_poly (pts
         (xy -1.190625 0.04445)
         (xy -1.452033 -0.027517)
@@ -11298,7 +11298,7 @@
         (xy -1.062038 -0.008996)
         (xy -1.120907 0.031089)
         (xy -1.190625 0.04445)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp f490aabd-1c63-4586-a3a8-789b38db089a))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp f490aabd-1c63-4586-a3a8-789b38db089a))
   )
 
   (footprint "kibuzzard-628AE7EF" (layer "F.Cu")
@@ -11598,7 +11598,7 @@
         (xy 0.824971 -0.318558)
         (xy 0.824971 -0.035983)
         (xy 1.303338 -0.318558)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 0a854ace-025a-4b58-af67-73c6b8155b4d))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 0a854ace-025a-4b58-af67-73c6b8155b4d))
     (fp_poly (pts
         (xy 0.587904 -0.320675)
         (xy 0.659871 -0.320675)
@@ -11627,7 +11627,7 @@
         (xy 0.573088 0.121047)
         (xy 0.587904 0.043392)
         (xy 0.587904 -0.320675)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 2734c7cf-02b4-41a8-9007-02c163388da1))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 2734c7cf-02b4-41a8-9007-02c163388da1))
     (fp_poly (pts
         (xy -0.693738 -0.320675)
         (xy -0.621771 -0.320675)
@@ -11643,7 +11643,7 @@
         (xy -1.230313 -0.320675)
         (xy -0.962554 -0.052917)
         (xy -0.693738 -0.320675)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 367df9dd-29d4-4e37-ba95-84eaef2b0c13))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 367df9dd-29d4-4e37-ba95-84eaef2b0c13))
     (fp_poly (pts
         (xy 0.019579 -0.318558)
         (xy 0.019579 -0.233892)
@@ -11657,7 +11657,7 @@
         (xy -0.458788 -0.318558)
         (xy -0.458788 -0.035983)
         (xy 0.019579 -0.318558)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp d3a50968-f424-4fdf-9b84-0e67da948b70))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp d3a50968-f424-4fdf-9b84-0e67da948b70))
   )
 
   (footprint "kibuzzard-628AE868" (layer "F.Cu")
@@ -11702,7 +11702,7 @@
         (xy 0.509058 0.122105)
         (xy 0.523875 0.04445)
         (xy 0.523875 -0.319617)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 94ebffe1-2406-4a5c-a0f4-5a80bb7ba438))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 94ebffe1-2406-4a5c-a0f4-5a80bb7ba438))
     (fp_poly (pts
         (xy -0.118533 -0.319617)
         (xy -0.046567 -0.319617)
@@ -11731,7 +11731,7 @@
         (xy -0.13335 0.122105)
         (xy -0.118533 0.04445)
         (xy -0.118533 -0.319617)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp b5df807b-725c-4d71-8e36-5d79095b3a15))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp b5df807b-725c-4d71-8e36-5d79095b3a15))
   )
 
   (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u" (layer "F.Cu")
@@ -12202,7 +12202,7 @@
         (xy 0.466328 -0.398198)
         (xy 0.466328 -0.044979)
         (xy 1.064286 -0.398198)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 784d310a-9186-4efc-b8cc-74ef61cff1d8))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 784d310a-9186-4efc-b8cc-74ef61cff1d8))
     (fp_poly (pts
         (xy -0.564224 -0.309563)
         (xy -0.974328 -0.309563)
@@ -12238,14 +12238,14 @@
         (xy -1.058995 -0.399521)
         (xy -0.564224 -0.399521)
         (xy -0.564224 -0.309563)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp b0f4786e-4a57-48a5-bdb2-486641fd7a85))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp b0f4786e-4a57-48a5-bdb2-486641fd7a85))
     (fp_poly (pts
         (xy -0.450453 0.398198)
         (xy -0.450453 0.30824)
         (xy -0.360495 0.30824)
         (xy -0.360495 0.398198)
         (xy -0.450453 0.398198)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp ea0793e5-35c1-4a9a-971b-3b21bc173d5f))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp ea0793e5-35c1-4a9a-971b-3b21bc173d5f))
     (fp_poly (pts
         (xy 0.143536 -0.400844)
         (xy 0.262599 -0.400844)
@@ -12255,7 +12255,7 @@
         (xy -0.128984 0.05424)
         (xy -0.248047 0.05424)
         (xy 0.143536 -0.400844)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp fef3dd2c-24d2-4af8-91ed-238914f98f92))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp fef3dd2c-24d2-4af8-91ed-238914f98f92))
   )
 
   (footprint "kibuzzard-628ADF99" locked (layer "F.Cu")
@@ -12302,7 +12302,7 @@
         (xy 2.309019 0.388144)
         (xy 2.309019 0.242094)
         (xy 2.504281 0.242094)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp 109eeca4-b942-4dc6-bddd-51805ba8825c))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp 109eeca4-b942-4dc6-bddd-51805ba8825c))
     (fp_poly (pts
         (xy -2.553494 -0.000794)
         (xy -2.682081 -0.097631)
@@ -12330,7 +12330,7 @@
         (xy -2.486819 -0.145256)
         (xy -2.504281 -0.065088)
         (xy -2.553494 -0.000794)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp 1ce2af77-4154-4c05-85f0-a379d1760233))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp 1ce2af77-4154-4c05-85f0-a379d1760233))
     (fp_poly (pts
         (xy 0.880269 -0.581819)
         (xy 0.880269 -0.096044)
@@ -12351,7 +12351,7 @@
         (xy 0.685006 -0.096044)
         (xy 0.685006 -0.581819)
         (xy 0.880269 -0.581819)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp 267d3a05-05df-4f18-a158-303ebdc50f92))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp 267d3a05-05df-4f18-a158-303ebdc50f92))
     (fp_poly (pts
         (xy -0.465931 -0.388144)
         (xy -0.659606 0.388144)
@@ -12380,7 +12380,7 @@
         (xy -0.522288 -0.525463)
         (xy -0.481013 -0.46355)
         (xy -0.465931 -0.388144)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp 5033433d-dc41-4619-b33c-e578927ec43d))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp 5033433d-dc41-4619-b33c-e578927ec43d))
     (fp_poly (pts
         (xy -1.810544 -0.388144)
         (xy -2.004219 0.388144)
@@ -12409,7 +12409,7 @@
         (xy -1.8669 -0.525463)
         (xy -1.825625 -0.46355)
         (xy -1.810544 -0.388144)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp 5ddcc92f-fc98-4d31-811f-4994a190ada5))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp 5ddcc92f-fc98-4d31-811f-4994a190ada5))
     (fp_poly (pts
         (xy -3.150394 -0.388144)
         (xy -3.345656 -0.097631)
@@ -12432,7 +12432,7 @@
         (xy -3.207544 -0.525463)
         (xy -3.165475 -0.46355)
         (xy -3.150394 -0.388144)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp 6a324b01-47ef-439a-8c75-95723ef7e0ec))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp 6a324b01-47ef-439a-8c75-95723ef7e0ec))
     (fp_poly (pts
         (xy 3.733006 0.388144)
         (xy 3.733006 0.581819)
@@ -12442,7 +12442,7 @@
         (xy 3.466306 0.388144)
         (xy 3.659981 0.388144)
         (xy 3.733006 0.388144)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp 753fda0a-a3b7-4fc4-a4c1-f072e9215b20))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp 753fda0a-a3b7-4fc4-a4c1-f072e9215b20))
     (fp_poly (pts
         (xy 1.550194 -0.388144)
         (xy 1.354931 -0.097631)
@@ -12465,7 +12465,7 @@
         (xy 1.493044 -0.525463)
         (xy 1.535113 -0.46355)
         (xy 1.550194 -0.388144)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp 8e4b1668-fa98-43ed-940a-8521da8e89d9))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp 8e4b1668-fa98-43ed-940a-8521da8e89d9))
     (fp_poly (pts
         (xy 0.211931 -0.581819)
         (xy 0.211931 -0.388144)
@@ -12476,7 +12476,7 @@
         (xy -0.370681 -0.388144)
         (xy -0.370681 -0.581819)
         (xy 0.211931 -0.581819)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp 9868c8b4-b6ce-409b-86bc-37fa87dc75a6))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp 9868c8b4-b6ce-409b-86bc-37fa87dc75a6))
     (fp_poly (pts
         (xy 3.178969 -0.388144)
         (xy 2.983706 -0.097631)
@@ -12501,7 +12501,7 @@
         (xy 3.121819 -0.525463)
         (xy 3.163888 -0.46355)
         (xy 3.178969 -0.388144)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp c31a736e-ac28-44f3-b04d-ab12d0e21526))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp c31a736e-ac28-44f3-b04d-ab12d0e21526))
     (fp_poly (pts
         (xy -1.132681 -0.581819)
         (xy -1.132681 -0.388144)
@@ -12512,14 +12512,14 @@
         (xy -1.715294 -0.388144)
         (xy -1.715294 -0.581819)
         (xy -1.132681 -0.581819)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp cb078d50-b374-49aa-85ea-e73e737c0dad))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp cb078d50-b374-49aa-85ea-e73e737c0dad))
     (fp_poly (pts
         (xy 1.824831 -0.581819)
         (xy 1.824831 0.581819)
         (xy 1.631156 0.581819)
         (xy 1.631156 -0.581819)
         (xy 1.824831 -0.581819)
-      ) (layer "F.Cu") (width 0.1) (fill solid) (tstamp e1a06e6e-1de4-4630-a971-2110c8402b06))
+      ) (layer "F.Cu") (width 0.01) (fill solid) (tstamp e1a06e6e-1de4-4630-a971-2110c8402b06))
   )
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
@@ -12894,7 +12894,7 @@
         (xy -0.500724 -0.400844)
         (xy -0.500724 -0.035719)
         (xy -0.427964 -0.035719)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 6948d4ac-fa66-40e2-9baa-8fab7dc7a6c8))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 6948d4ac-fa66-40e2-9baa-8fab7dc7a6c8))
     (fp_poly (pts
         (xy 0.983589 -0.398198)
         (xy 0.983589 -0.292365)
@@ -12908,7 +12908,7 @@
         (xy 0.38563 -0.398198)
         (xy 0.38563 -0.044979)
         (xy 0.983589 -0.398198)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 7ce23b4e-53d2-49ce-a34b-0b50680deb14))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 7ce23b4e-53d2-49ce-a34b-0b50680deb14))
     (fp_poly (pts
         (xy 0.095911 -0.400844)
         (xy 0.183224 -0.400844)
@@ -12919,7 +12919,7 @@
         (xy -0.315516 -0.400844)
         (xy 0.082682 -0.400844)
         (xy 0.095911 -0.400844)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp fefc56bb-42f1-4267-8c06-ffa38634819d))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp fefc56bb-42f1-4267-8c06-ffa38634819d))
   )
 
   (footprint "kibuzzard-628AE061" locked (layer "F.Cu")
@@ -13241,7 +13241,7 @@
         (xy -0.127 -0.175154)
         (xy -0.061119 -0.150283)
         (xy -0.005292 -0.107421)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 092199d1-d335-4d9d-b5a6-f826578b7d45))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 092199d1-d335-4d9d-b5a6-f826578b7d45))
     (fp_poly (pts
         (xy -0.645583 -0.025929)
         (xy -0.629179 0.06985)
@@ -13285,7 +13285,7 @@
         (xy -0.705908 -0.067204)
         (xy -0.61304 -0.07964)
         (xy -0.645583 -0.025929)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 30d9d82d-24e3-4f78-a9ae-dd8fe2a37093))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 30d9d82d-24e3-4f78-a9ae-dd8fe2a37093))
     (fp_poly (pts
         (xy 0.80645 -0.181504)
         (xy 0.902626 -0.163116)
@@ -13333,7 +13333,7 @@
         (xy 0.682096 -0.148696)
         (xy 0.741495 -0.173302)
         (xy 0.80645 -0.181504)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp cd6e82b6-705b-47f4-a2ce-4e8180305b8e))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp cd6e82b6-705b-47f4-a2ce-4e8180305b8e))
   )
 
   (footprint "kibuzzard-628AE860" (layer "F.Cu")
@@ -13370,7 +13370,7 @@
         (xy 0.386292 -0.004233)
         (xy 0.466725 0.2159)
         (xy 0.665692 -0.319617)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 93f084d0-4d2c-454d-825f-8597009dbcd5))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 93f084d0-4d2c-454d-825f-8597009dbcd5))
     (fp_poly (pts
         (xy -0.219075 0.128058)
         (xy -0.137583 0.128058)
@@ -13411,7 +13411,7 @@
         (xy -0.306917 0.214313)
         (xy -0.25744 0.176609)
         (xy -0.219075 0.128058)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp ba32b700-ffe6-4168-9c8a-c31a0b009d1d))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp ba32b700-ffe6-4168-9c8a-c31a0b009d1d))
   )
 
   (footprint "MX_Only:MXOnly-1U-NoLED" (layer "F.Cu")
@@ -13477,14 +13477,14 @@
         (xy 0.466328 -0.398198)
         (xy 0.466328 -0.044979)
         (xy 1.064286 -0.398198)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 59f4f0fc-0bc8-4415-82b2-b1b851c54f5b))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 59f4f0fc-0bc8-4415-82b2-b1b851c54f5b))
     (fp_poly (pts
         (xy -0.450453 0.398198)
         (xy -0.450453 0.30824)
         (xy -0.360495 0.30824)
         (xy -0.360495 0.398198)
         (xy -0.450453 0.398198)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 61962a97-5f38-44fe-b055-2af7c058e1f4))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 61962a97-5f38-44fe-b055-2af7c058e1f4))
     (fp_poly (pts
         (xy -0.564224 -0.309563)
         (xy -0.974328 -0.309563)
@@ -13520,7 +13520,7 @@
         (xy -1.058995 -0.399521)
         (xy -0.564224 -0.399521)
         (xy -0.564224 -0.309563)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 88f79256-406e-490c-817b-3eca4b6f0d92))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 88f79256-406e-490c-817b-3eca4b6f0d92))
     (fp_poly (pts
         (xy 0.143536 -0.400844)
         (xy 0.262599 -0.400844)
@@ -13530,7 +13530,7 @@
         (xy -0.128984 0.05424)
         (xy -0.248047 0.05424)
         (xy 0.143536 -0.400844)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp f2e324cc-9f50-4f96-86c8-23b6c1aaad17))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp f2e324cc-9f50-4f96-86c8-23b6c1aaad17))
   )
 
   (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u" (layer "F.Cu")
@@ -14076,7 +14076,7 @@
         (xy -0.478631 -0.163248)
         (xy -0.396875 -0.106892)
         (xy -0.396875 -0.183092)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 5e766cf7-7900-449e-aff2-7038828aa520))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 5e766cf7-7900-449e-aff2-7038828aa520))
     (fp_poly (pts
         (xy -0.014817 0.24765)
         (xy 0.036645 0.240242)
@@ -14114,7 +14114,7 @@
         (xy -0.141288 0.195263)
         (xy -0.083476 0.234553)
         (xy -0.014817 0.24765)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 86fef83f-748b-465d-920e-d4cb415d1adc))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 86fef83f-748b-465d-920e-d4cb415d1adc))
     (fp_poly (pts
         (xy -1.191683 0.319617)
         (xy -1.277276 0.306255)
@@ -14139,7 +14139,7 @@
         (xy -1.054335 0.283869)
         (xy -1.119246 0.31068)
         (xy -1.191683 0.319617)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 9a80ad86-4c9a-49a1-9614-fb1142bcb81d))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp 9a80ad86-4c9a-49a1-9614-fb1142bcb81d))
     (fp_poly (pts
         (xy 0.62865 -0.319617)
         (xy 0.706438 -0.215371)
@@ -14164,7 +14164,7 @@
         (xy 0.295275 0.319617)
         (xy 0.295275 -0.319617)
         (xy 0.62865 -0.319617)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp dab15406-a18d-4f07-8dee-b89dad2c9653))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp dab15406-a18d-4f07-8dee-b89dad2c9653))
     (fp_poly (pts
         (xy 1.141942 0.319617)
         (xy 1.141942 -0.24765)
@@ -14175,7 +14175,7 @@
         (xy 1.213908 -0.24765)
         (xy 1.213908 0.319617)
         (xy 1.141942 0.319617)
-      ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp e434376a-44ff-4139-97b0-a4d9a9bc5a95))
+      ) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp e434376a-44ff-4139-97b0-a4d9a9bc5a95))
   )
 
   (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u" (layer "F.Cu")

@@ -4072,10 +4072,6 @@
     (uuid ffd175d1-912a-4224-be1e-a8198680f46b)
   )
 
-  (text "This needs double checking" (at 379.73 140.97 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 18dee026-9999-4f10-8c36-736131349406)
-  )
   (text "Stepped capslock\n" (at 13.97 130.81 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c2dac496-fe24-4e64-a260-e66ba01d501a)
