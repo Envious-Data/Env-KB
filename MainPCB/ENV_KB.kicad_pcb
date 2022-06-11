@@ -4157,11 +4157,6 @@
       (net 115 "USB2_N") (pinfunction "USB_DM") (pintype "bidirectional") (tstamp 55870dc1-a751-4fb1-a7eb-fe844b64659b))
     (pad "TP3" thru_hole roundrect locked (at -1.016 -24.125 90) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25)
       (net 114 "USB2_P") (pinfunction "USB_DP") (pintype "bidirectional") (tstamp eed5fd95-a7ce-441e-bbe1-d330431c5e6d))
-    (model "C:/Users/Envy/Documents/GitHub/_RESOURCES/Pico-R3.step"
-      (offset (xyz -10.5 -25.5 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 0))
-    )
   )
 
   (footprint "MountingHole:MountingHole_2.2mm_M2_Pad" (layer "F.Cu")
@@ -4953,11 +4948,6 @@
       (net 116 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 97fe9c60-586f-4895-8504-4d3729f5f81a))
     (pad "S1" thru_hole oval locked (at 5.575 3.02 180) (size 0.9 2.1) (drill oval 0.5 1.7) (layers *.Cu *.Mask "F.Paste")
       (net 116 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp bdc7face-9f7c-4701-80bb-4cc144448db1))
-    (model "C:/Users/Envy/Documents/GitHub/Env-KB/_KiCadLibs/Footprint_library/josh-kicad-lib/packages3d/josh-connectors/TYPE-C-31-M-14.step"
-      (offset (xyz 0 1 0.4))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 0))
-    )
   )
 
   (footprint "MountingHole:MountingHole_2.2mm_M2_Pad" (layer "F.Cu")
