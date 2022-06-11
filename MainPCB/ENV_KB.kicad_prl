@@ -65,7 +65,7 @@
       36
     ],
     "visible_layers": "0009dfc_80000001",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "ENV_KB.kicad_prl",
