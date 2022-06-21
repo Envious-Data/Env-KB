@@ -4,7 +4,8 @@
 - Project Name: EnvKB80
 - Nickname: Delirium
 
-![Rev0 Build](_docs/kbfront.png)
+![Updated PCB](https://raw.githubusercontent.com/Envious-Data/Env-KB/main/_docs/KBFront.png)
+
 ![Rev0 Build](_pictures/Rev.0/Built/DSC_0826.JPG)
 
 [Link to Build Guide](_docs/EnvKB-BuildGuide.pdf)
