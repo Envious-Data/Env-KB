@@ -55,7 +55,17 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|288310000|176655000|1cc6c6b3-e05f-423c-9962-a5a8a11351b9|f08d60a9-55b1-4408-b94f-260833a17d25",
+        "hole_clearance|70538000|180515000|7743ee44-0959-4ac5-8ec9-d5dcda2a6b39|a1e399de-7197-482c-ae1f-406df563b48d",
+        "hole_clearance|72090000|181170000|70ad11be-5470-4e9d-b0c9-aaeff2c0809a|a1e399de-7197-482c-ae1f-406df563b48d",
+        "hole_near_hole|289600000|163320000|659f5478-cdd6-402b-b515-53f953cb73e4|de1b8602-5ed6-4c89-ae32-688d3eaaf1be",
+        "hole_near_hole|304015000|170838000|a67d57a0-54fd-4f4a-82a3-66a4ac645cc9|5a72d974-5708-4069-a463-e89514dfd458",
+        "hole_near_hole|311000000|158900000|367fadb5-656c-4f7e-8dc0-fe878a037ba5|29797be5-cc8b-448b-b273-84df955bd886",
+        "hole_near_hole|54180000|187500000|7d63cea1-cbcd-4243-a9d2-445ca73e8a80|28eff98c-b113-41e2-b955-7c189a7e5a60",
+        "hole_near_hole|65420000|187500000|6a9c7bc3-ab30-463a-928f-db8796bc6db5|73f84fa1-ef3d-4a6a-8ff7-1123555b2e4a",
+        "hole_near_hole|73040000|182420000|7743ee44-0959-4ac5-8ec9-d5dcda2a6b39|a1e399de-7197-482c-ae1f-406df563b48d"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -115,7 +125,7 @@
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.15,
-        "min_via_annular_width": 0.19999999999999998,
+        "min_via_annular_width": 0.13,
         "min_via_diameter": 0.39999999999999997,
         "use_height_for_length_calcs": true
       },
@@ -139,7 +149,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.4,
+          "diameter": 0.5,
           "drill": 0.2
         },
         {
