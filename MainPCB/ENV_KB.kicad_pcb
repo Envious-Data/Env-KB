@@ -524,7 +524,7 @@
       (net 118 "I2CSCL") (pinfunction "Pin_3") (pintype "passive") (tstamp 5ed93df5-0550-4f68-8138-6b58ec386db8))
     (pad "4" thru_hole oval locked (at 0 7.62 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 119 "I2CSDA") (pinfunction "Pin_4") (pintype "passive") (tstamp 1e7a3df3-1564-4fca-a73a-2e1c26f2240d))
-    (model "${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -601,8 +601,8 @@
       (net 116 "GND") (pinfunction "K") (pintype "passive") (tstamp f30fc2c5-1559-44a0-8f7f-3949f7096da9))
     (pad "2" thru_hole circle (at 2.54 0 270) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask)
       (net 122 "Net-(PowerLED0-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 7dc07239-775b-41ec-9082-244118e4118d))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.step"
+      (offset (xyz 0 0 -3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -766,7 +766,7 @@
       (net 129 "Net-(RESISTOR0-Pad1)") (pintype "passive") (tstamp 6579c242-251b-475d-9517-125604881d11))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 116 "GND") (pintype "passive") (tstamp ff704a9b-6f8e-44e3-a049-e755e73d0cc4))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1641,7 +1641,7 @@
       (net 116 "GND") (pintype "passive") (tstamp e6a64e5d-fcd7-437e-8ca5-859502c45ea1))
     (pad "2" thru_hole oval (at 7.62 0 270) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 130 "Net-(RESISTOR1-Pad2)") (pintype "passive") (tstamp 8d695196-ca38-4ea6-a955-b5b96527cc0e))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4156,6 +4156,11 @@
       (net 115 "USB2_N") (pinfunction "USB_DM") (pintype "bidirectional") (tstamp 55870dc1-a751-4fb1-a7eb-fe844b64659b))
     (pad "TP3" thru_hole roundrect locked (at -1.016 -24.125 90) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25)
       (net 114 "USB2_P") (pinfunction "USB_DP") (pintype "bidirectional") (tstamp eed5fd95-a7ce-441e-bbe1-d330431c5e6d))
+    (model "C:/Users/Envy/Documents/GitHub/_RESOURCES/Pico-R3.step"
+      (offset (xyz -10.5 -25.5 0.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "MountingHole:MountingHole_2.2mm_M2_Pad" (layer "F.Cu")
@@ -4332,7 +4337,7 @@
       (net 113 "USBVBUS") (pintype "passive") (tstamp a106d634-ba61-4d04-867c-aefb425e778e))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 122 "Net-(PowerLED0-Pad2)") (pintype "passive") (tstamp 535e685b-7142-46a2-9d98-5a9e648378fe))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4394,7 +4399,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp ba823e13-91c7-47a9-b198-7b27ae88618f))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 31 "Net-(D14-Pad2)") (pinfunction "A") (pintype "passive") (tstamp b00f55cd-2fd0-4be3-95f5-ff701f60c355))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4456,7 +4461,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp d477b005-312c-49d6-9daa-9d09f8b1b229))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 30 "Net-(D13-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 7fe6591b-8f40-443d-8aeb-5a9e439d5b11))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4518,7 +4523,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp b3d2b3b2-eee3-4354-96ae-35ebc3a7e3fd))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 29 "Net-(D12-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 0f81970b-f55e-4039-a8ff-40c0a07bab88))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4580,7 +4585,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp 614a403a-474a-4306-b606-97f15c564ef8))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 27 "Net-(D10-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 86071cfe-1543-479d-bd7a-9553562bc5e9))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4642,7 +4647,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp d585006f-9358-47f4-9303-a822a0a26736))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 28 "Net-(D11-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 624700dd-baae-4a20-a2e6-b73e4b0e622b))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4704,7 +4709,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp 311b8624-7d9a-437a-9da5-5987fabc6fde))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 32 "Net-(D15-Pad2)") (pinfunction "A") (pintype "passive") (tstamp f420da17-70b9-4289-9973-71af4d270f42))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4766,7 +4771,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp 3c27dc86-1701-4cfb-9ebf-f044da440656))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 26 "Net-(D9-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 703f336d-49ef-4e14-8ab0-abbb7a306402))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4828,7 +4833,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp a9d015c2-a71b-46ad-b3a4-6eea7301ee51))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 102 "Net-(D85-Pad2)") (pinfunction "A") (pintype "passive") (tstamp a991215c-d7f8-4d74-b4fb-3a6d0eed12fe))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4921,6 +4926,11 @@
       (net 116 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 97fe9c60-586f-4895-8504-4d3729f5f81a))
     (pad "S1" thru_hole oval locked (at 5.575 3.02 180) (size 0.9 2.1) (drill oval 0.5 1.7) (layers *.Cu *.Mask "F.Paste")
       (net 116 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp bdc7face-9f7c-4701-80bb-4cc144448db1))
+    (model "C:/Users/Envy/Documents/GitHub/_RESOURCES/TYPE-C-31-M-14.step"
+      (offset (xyz 0.05 1 0.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "MountingHole:MountingHole_2.2mm_M2_Pad" (layer "F.Cu")
@@ -5040,7 +5050,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp f78d2d90-68bc-4c20-bfb3-6426e74fa17f))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 44 "Net-(D27-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 0a2dcef2-f4fa-403a-9225-8dae005dca8c))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5102,7 +5112,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp d4286bc5-3f3a-4659-80b9-42b41fa62ce8))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 45 "Net-(D28-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 898c0094-ff4f-4630-91c1-84e767f091ad))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5164,7 +5174,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 4e382949-b4c3-41d4-b556-66ee3e494bfa))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 46 "Net-(D29-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 3897df55-4e8e-4d33-b5e2-ac09206305eb))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5226,7 +5236,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 04748a16-5476-4809-b159-9184ff58426c))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 47 "Net-(D30-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 0c24d40b-c736-4f1e-ba7b-5b05f603e868))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5288,7 +5298,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp bf76e491-9dd7-40e2-950e-c79b71b72d93))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 48 "Net-(D31-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 8afdbac1-8ba5-475c-b038-16f606d61c74))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5350,7 +5360,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp f0660c30-1630-4fed-a3e9-3ee2ebca41e2))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 49 "Net-(D32-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 9ffa7a41-84e2-439f-ab9e-a1334179edc6))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5412,7 +5422,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp d7be9a91-16f0-4839-a91f-250dcabde07e))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 60 "Net-(D43-Pad2)") (pinfunction "A") (pintype "passive") (tstamp e59d4447-9c6c-4094-a5a3-603fca57ff44))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5474,7 +5484,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp fb56868c-b19c-4212-a841-9013b46ee67d))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 61 "Net-(D44-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 06860a96-9024-4961-be5b-75ca7af1d996))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5536,7 +5546,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp f768c20f-2a32-4fea-a800-b4a82a15d553))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 62 "Net-(D45-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 334fe293-3e67-4319-8c33-ffefcb519490))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5598,7 +5608,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 18cf3d0e-decb-4baa-bbca-50180b40811e))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 63 "Net-(D46-Pad2)") (pinfunction "A") (pintype "passive") (tstamp b6049450-f12f-4eca-adfb-237ec3a8e84f))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5660,7 +5670,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 49dd41aa-f677-45d8-941f-226f9b63a72f))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 64 "Net-(D47-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 4cf19d8f-ca41-49ab-87c3-8375eb220775))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5722,7 +5732,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 91ab3f4d-d809-4607-a1fa-cd4bd6a0726c))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 65 "Net-(D48-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 76027acc-26e3-449a-ac06-42967bcb2137))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5784,7 +5794,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 2d51710a-5034-4125-a1c4-2645789501a1))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 66 "Net-(D49-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 97c3dd92-a207-4078-9546-dd9a0d177665))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5846,7 +5856,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp 09526a0f-66b4-4763-b3df-6bad533d60b5))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 77 "Net-(D60-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 0e3aa148-4292-4380-9408-1e897be8da4f))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5908,7 +5918,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp fa41102b-8163-4b6e-a5da-850b9aac1839))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 78 "Net-(D61-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 115c8e86-c44c-49a7-bc69-7044c5ce83c9))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5970,7 +5980,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp e053a144-33eb-4ad0-a28f-c3ec3e6f8862))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 79 "Net-(D62-Pad2)") (pinfunction "A") (pintype "passive") (tstamp fa95aa83-2b8d-4500-b597-eb1e65e745bd))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6032,7 +6042,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp 9aaaa8fa-18b5-4eb7-81f6-7a4bacda9721))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 80 "Net-(D63-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 7fd315ac-f7ff-493a-b66d-c21006776546))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6094,7 +6104,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp 659d7e05-6d30-4048-9451-144bfa6ef129))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 92 "Net-(D75-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 885fe160-5562-498c-ba18-9f416e1d87d2))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6156,7 +6166,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp 3e63fcaa-261d-4d3c-a5b9-9e80616e71a6))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 93 "Net-(D76-Pad2)") (pinfunction "A") (pintype "passive") (tstamp ed456be0-07b8-43ac-86b3-64162a4bcc9a))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6218,7 +6228,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp df5d2842-95e0-4dc7-91e0-af6aa7f859bb))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 94 "Net-(D77-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 029d749e-2289-4769-a0ce-e768bbda0cd0))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6280,7 +6290,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp 056f9cb3-715f-434f-b47c-815c372d9a5b))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 100 "Net-(D83-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 2eb44e1a-4042-4ea6-aca2-4836a6ec84e9))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6342,7 +6352,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp bc0c4d76-7073-443a-8935-0c1edc20eb60))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 101 "Net-(D84-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 29ba223f-0062-42d7-819b-390aa3bcacc3))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6404,7 +6414,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp 5356313d-c6c9-4e43-8779-7f5954c39660))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 103 "Net-(D86-Pad2)") (pinfunction "A") (pintype "passive") (tstamp efd7d119-139b-46c7-a740-b97f28a1acd9))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6466,7 +6476,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp 9e70a67e-a0cb-4ed7-a04f-451f35eb0aa2))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 104 "Net-(D87-Pad2)") (pinfunction "A") (pintype "passive") (tstamp e29ecb3b-bdd4-4ff6-80c6-b91117ba47bf))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6528,7 +6538,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp c511469e-d1c5-496e-ab1b-d9bdfe9a1e6d))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 121 "Net-(D88-Pad2)") (pinfunction "A") (pintype "passive") (tstamp dd472471-f193-48d5-889c-efd694d3f702))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6616,7 +6626,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp daf70a07-a3d2-4ced-9e93-1c9d8ce83d0f))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 81 "Net-(D64-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 01f83146-4808-4dce-868e-509173e2f2d2))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6678,7 +6688,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp efb33de0-b764-4444-a29e-2b79ab867302))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 50 "Net-(D33-Pad2)") (pinfunction "A") (pintype "passive") (tstamp f364e29b-5711-4bf2-8799-5bbae295994d))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6740,7 +6750,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp d529c14c-6b71-446f-a6fb-bec03d4315ab))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 21 "Net-(D2-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 0981ece1-5660-457e-bc8c-8f63dcc9f536))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6802,7 +6812,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp b3ed612d-4b95-418f-bfae-ed954c910011))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 19 "Net-(D0-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 8dbd1a68-f406-4c7f-8b06-9547e6122f38))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6864,7 +6874,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp 2449ad7e-7c10-430f-8adf-47601bb4af79))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 20 "Net-(D1-Pad2)") (pinfunction "A") (pintype "passive") (tstamp d7f30e11-d126-4e7b-a554-c013237d8438))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6926,7 +6936,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp a55e1730-9cc6-449f-95c7-a4b048ce6ae3))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 22 "Net-(D3-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 1427eabc-18a4-411d-bd11-428ec8bd285d))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6988,7 +6998,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp 5c43dd51-b673-40c0-86bf-6d45aa01dce3))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 67 "Net-(D50-Pad2)") (pinfunction "A") (pintype "passive") (tstamp fd0058ab-f81f-45ed-b645-df2b0d3bfce5))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7050,7 +7060,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp f263cfd5-7b24-4140-97ba-078a691115b5))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 95 "Net-(D78-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 2c6fedfa-d124-4a32-aaf9-1170178a9e41))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7112,7 +7122,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp 5cdb6c77-dfe0-4421-823c-8da8613d150a))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 23 "Net-(D4-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 9fe4ec8e-d675-4b57-9038-b2ad5a9800f8))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7174,7 +7184,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp 57e60628-6d13-49e5-8e0f-1cf31bada668))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 111 "Net-(D7-Pad2)") (pinfunction "A") (pintype "passive") (tstamp fa6267a2-77b5-42f5-98c6-40bbae0f2c13))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7236,7 +7246,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp 1699bc09-f09e-4839-81f2-9ca65ce464d7))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 112 "Net-(D8-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 792685e9-fe40-4fbf-a788-175ee65815ee))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7298,7 +7308,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp fb039884-3e73-4397-80ae-d0e816d49104))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 33 "Net-(D16-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 09f00905-8f05-42b4-a7fe-d9d187795276))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7360,7 +7370,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp 65778b97-4bd1-4830-a540-c2ec5320ce4e))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 25 "Net-(D6-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 22ce5f01-00e9-4ddd-a65e-815d60dce969))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7422,7 +7432,7 @@
       (net 105 "row0") (pinfunction "K") (pintype "passive") (tstamp db8a60a1-6c78-42ba-b45c-08cf72ddf99e))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 24 "Net-(D5-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 69029636-79e5-47ae-bb14-9bc5dbdeb2b4))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7484,7 +7494,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp 2dd2edde-b79d-4ec7-87aa-5955ab5302f8))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 88 "Net-(D71-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 067b3699-1a46-41cc-9c7c-3cbbde83e2fb))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7546,7 +7556,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp c4358a16-7fbe-4322-9284-f64d477b6623))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 75 "Net-(D58-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 3a8d75eb-08de-4bf6-ad23-f62b27a89da1))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7608,7 +7618,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp 4f0dfebc-e7f6-45a5-9f1e-4a46e29fdb26))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 76 "Net-(D59-Pad2)") (pinfunction "A") (pintype "passive") (tstamp b6c83280-9de8-48fe-abf6-b38751f1f93a))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7670,7 +7680,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp fa2a5346-d622-407d-8ea5-af43140584bc))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 83 "Net-(D66-Pad2)") (pinfunction "A") (pintype "passive") (tstamp a74d645f-303f-41ae-8029-4f5b19b6a1a3))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7732,7 +7742,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp 1292b9fb-45f9-4291-9d3e-a52497cdea91))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 82 "Net-(D65-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 7ae39c29-5978-4de8-b0d8-d1c366a90b03))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7794,7 +7804,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp 0091242a-bd9b-46a6-8cd0-cc81fa5db24e))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 91 "Net-(D74-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 31f320f8-9fca-458c-80c9-a63045dda05e))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7856,7 +7866,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp 9d460f71-ca89-4f90-b952-20c79bec7158))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 90 "Net-(D73-Pad2)") (pinfunction "A") (pintype "passive") (tstamp c6f64293-5e29-4afa-8644-d8f9ea3d34e8))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7918,7 +7928,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp 4e647fa9-4baf-493a-891e-373b7bb90db1))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 84 "Net-(D67-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 6eaf44a5-2bb8-4e84-ae85-e082a57042dd))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7980,7 +7990,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp d05ca12a-32d4-4c55-95ec-69bfada58ba7))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 89 "Net-(D72-Pad2)") (pinfunction "A") (pintype "passive") (tstamp b908b981-26a7-43ab-bb19-96137e6f2a5a))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8042,7 +8052,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp 5daca09e-60a3-4181-a1f0-19c5300b582a))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 85 "Net-(D68-Pad2)") (pinfunction "A") (pintype "passive") (tstamp ea84d6c1-7995-47e1-9817-9e2e1b9b4529))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8104,7 +8114,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp cc268aca-4ea7-4c71-a771-346b177957a8))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 86 "Net-(D69-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 7924cdcb-45b3-439a-a58e-4e78f2ff9e7a))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8166,7 +8176,7 @@
       (net 109 "row5") (pinfunction "K") (pintype "passive") (tstamp 26c50088-80ff-43fa-a13b-801600e7555b))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 87 "Net-(D70-Pad2)") (pinfunction "A") (pintype "passive") (tstamp b4d5ac25-a764-4661-8e59-75c6a5d8b7e8))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8228,7 +8238,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 147ddcca-5eb3-4302-b1bf-01383fc9ed96))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 55 "Net-(D38-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 1f2dc288-4960-4a9d-8c0d-3474d8b43843))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8290,7 +8300,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 7484c77c-e105-4a67-8a28-565b967352a5))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 56 "Net-(D39-Pad2)") (pinfunction "A") (pintype "passive") (tstamp fdf4a8d8-6f6e-4596-9e52-1eaf9b2199c0))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8352,7 +8362,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 7ddaea75-0e14-403a-984d-c1eba0e6698b))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 43 "Net-(D26-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 2dc8128f-408c-4d56-91b5-3b4d4c6dd33f))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8414,7 +8424,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 54d50405-241d-4e78-88f6-83e047880581))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 54 "Net-(D37-Pad2)") (pinfunction "A") (pintype "passive") (tstamp de4ffb7f-166e-4095-8b0a-e385f35bb285))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8476,7 +8486,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 42cc1569-bc07-4b3c-aa19-1ff89972468d))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 53 "Net-(D36-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 5af15f77-9ad4-4313-9a9a-129da0422f84))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8538,7 +8548,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 24a6640c-c25f-456d-8c74-892f609dcf13))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 39 "Net-(D22-Pad2)") (pinfunction "A") (pintype "passive") (tstamp cbdd1bbf-3cd0-4ee4-887c-601a6f0db5ee))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8600,7 +8610,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp d7c96d03-c33d-42a4-b9f5-33ebc94d6064))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 40 "Net-(D23-Pad2)") (pinfunction "A") (pintype "passive") (tstamp eefbb01a-1017-402d-94d8-5e1519140627))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8662,7 +8672,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 33a39c3c-f8c4-41f3-a381-57130f7b2a74))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 51 "Net-(D34-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 4f8b8c28-14e3-4385-9730-03ef00608dbe))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8724,7 +8734,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 215758b7-a6fb-4570-97eb-4cb848bf40d9))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 52 "Net-(D35-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 1f602866-ca0f-400b-8334-3410fa657b44))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8786,7 +8796,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 09518f18-8c5c-4629-8039-76c971a8c2f1))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 41 "Net-(D24-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 875d8101-02ec-4109-9cb3-dc03033ea564))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8848,7 +8858,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp b407a461-6c5c-47f0-9bdb-869e25d7cc7f))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 42 "Net-(D25-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 68a9e0d6-2c5b-4b0d-80b6-468567de10b2))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8910,7 +8920,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp 911aa946-11a4-4082-a79a-bc4f1c265350))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 73 "Net-(D56-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 18ca81dd-94c5-4d8f-956e-df7c87fd0b93))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8972,7 +8982,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp 7e11542a-c428-4e80-830e-94b7e05e0716))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 70 "Net-(D53-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 439a0826-2a4b-4f2a-9a85-b9cbf2766a09))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9034,7 +9044,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp dbd136bb-61c9-4567-9827-33a734e5ddcc))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 72 "Net-(D55-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 9ab92207-1da7-4613-a632-d3972813f57b))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9096,7 +9106,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp c31fb822-2ed0-43a7-a405-1e3d0205cd17))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 57 "Net-(D40-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 7345a5a6-65ff-44a1-addd-120a34bb25dc))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9158,7 +9168,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp 2086f1f4-059c-4ac4-858b-c6e65c5b1092))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 58 "Net-(D41-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 3745d030-b1db-42b3-88e5-5fb982cc9164))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9220,7 +9230,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp 906df0a0-5839-47c0-b332-cec00bfc8d50))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 74 "Net-(D57-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 1cf58251-c1b2-4126-887d-6d7eeec86d3e))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9282,7 +9292,7 @@
       (net 107 "row3") (pinfunction "K") (pintype "passive") (tstamp ccbccc68-d102-4809-a3c8-c848af50e594))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 59 "Net-(D42-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 38bef892-3741-43c0-a6af-4a33f7f712a2))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9344,7 +9354,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp 184b2fad-24f5-4073-ae78-9c4ec35fa867))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 68 "Net-(D51-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 05c1c0ae-f846-4942-b9ca-9f0f8f62492d))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9406,7 +9416,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp 1feb75da-52bc-4f54-bc22-6a4b1520ccea))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 69 "Net-(D52-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 1d901cb2-360a-4708-b3ed-e4b172d3996f))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9468,7 +9478,7 @@
       (net 108 "row4") (pinfunction "K") (pintype "passive") (tstamp fffbe5d9-ab4f-4620-8b07-dfed6958ef21))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 71 "Net-(D54-Pad2)") (pinfunction "A") (pintype "passive") (tstamp c0b7f3c6-3a8b-4cbc-8e07-4879365e8103))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9530,7 +9540,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp 1dc423f3-1741-4cb4-aa3d-a702d125d769))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 96 "Net-(D79-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 8da81810-0dba-4c36-b58c-934ee2c0935b))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9592,7 +9602,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp b75ad8c5-9f55-49ef-9af8-7ab1b11ab9d4))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 97 "Net-(D80-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 2415f537-fa6d-4c04-bd97-00b9f7ab939d))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9654,7 +9664,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp 0f262423-d4d1-4f04-805d-93d3f5b41978))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 98 "Net-(D81-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 39527c7c-05aa-4994-8d55-39b3fd9e47ff))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9716,7 +9726,7 @@
       (net 110 "row6") (pinfunction "K") (pintype "passive") (tstamp 2143a25a-25e8-4e2e-9312-ce2f7400ce5a))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 99 "Net-(D82-Pad2)") (pinfunction "A") (pintype "passive") (tstamp fa93048a-0287-417c-a157-84428f11f7dd))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9778,7 +9788,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 0bb237b7-3c36-4dd2-83be-cd2c222b4c4e))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 35 "Net-(D18-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 4629e325-a0a2-4fa0-9b82-0617c92179cc))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9840,7 +9850,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 3739076a-baeb-4668-95d4-28b7b5f3ab71))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 38 "Net-(D21-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 6cb9631d-f4f9-464d-ad18-d53fa23081fa))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9902,7 +9912,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp ce87f310-f0ba-406a-b736-4ce38509611a))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 36 "Net-(D19-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 6551c37f-9afc-4b25-9b2a-c1739b8edf17))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9964,7 +9974,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 6a567bea-b4ae-4ae0-8fe6-f1ab689e091c))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 37 "Net-(D20-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 7437b41b-d18a-408f-a04e-b9dbafcc6f80))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10026,7 +10036,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 54fa6277-207f-48fc-8ba5-08367c4ef83e))
     (pad "2" thru_hole oval locked (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 34 "Net-(D17-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 3edb16a2-55e0-491b-bd50-9c4fc4f45ac1))
-    (model "${KISYS3DMOD}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13758,7 +13768,7 @@
       (net 106 "row2") (pinfunction "K") (pintype "passive") (tstamp 9c4ee15b-5bcc-470c-aa14-ce2a6f296b76))
     (pad "2" thru_hole oval (at 7.62 0 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 135 "Net-(D29BS2-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 6453bdcd-ba5e-4313-8ba4-a74be09c4bec))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
