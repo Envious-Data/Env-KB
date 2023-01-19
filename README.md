@@ -4,22 +4,40 @@
 - Project Name: EnvKB80
 - Nickname: Delirium
 
-![Updated PCB](https://raw.githubusercontent.com/Envious-Data/Env-KB/main/_docs/KBFront.png)
+![Updated PCB](https://raw.githubusercontent.com/Envious-Data/Env-KB/main/_pictures/KBFront.png)
 
-![Rev0 Build](_pictures/Rev.0/Built/DSC_0826.JPG)
-
-[Link to Build Guide](_docs/EnvKB-BuildGuide.pdf)
+![Rev0 Build](https://raw.githubusercontent.com/Envious-Data/Env-KB/main/_pictures/Rev.0/Built/DSC_0826.JPG)
 
 
 ### About:
 This is a raspberry pi pico powered keyboard I designed as I wanted something similar to a CFTKB Mysterium but easier to solder and a bit more robustly designed.
 
-### Why a RPI Pico?
-uh well why not, I think it would be a nice example for people to use as a example since python is surprizingly simple.
-Circuitpython + KMK is being used here but if you wish you could write your own firmware.
+### Firmware
+Pre-compiled firmwares can be found [here](https://github.com/Envious-Data/EnvKB-QMK/tree/main/_PREBUILTFIRMWARES)
+- to flash a raspberry pi pico or any RP2040 board you need to hold the bootsel button while plugging in the USB, it'll show up as a USB drive called RP2-boot, you can then drag and drop a UF2 firmware file onto the pico, it will reboot its self.
 
-### Circuitpython users & Windows 7 
-The Windows 7 lacks drivers for circuitpython so you may need to download a driver pack from adafruit.
+### Parts
+- 1x Type-C-31-M-14
+- 90x 1n4148 DO-35
+- 90x MX keyboard switches (5 pin advised if without switch plate)
+- 3x 5.1K 1/4W resistors
+- 1x 3mm LED
+- 1x 1x04 2.54mm pin socket (optional oled)
+- 1x Panasonic EVQPU SMD switch (optional reset)
+- raspberry pi pico
+
+- 10x m2 female standoffs 10mm 
+- 20x m2 screws <5mm
+
+### Building
+Most part orientations should be marked on the PCB however it is important to note that you NEED to connect the pads under the MCU to the respective pads on the board for USB to work, you also need 5.1K resistors to work with USB PD compatible ports.
+
+the type-c port may be difficult for some to solder so use loads of flux and minimal amounts of solder, its best to solder the large 4 outer pins of the shell first.
+
+
+### Why a RPI Pico?
+uh well why not, I think it would be a nice example for people to use as a example.
+When I came up with the idea of this keyboard there was 1 other raspberry pi pico keyboard so I decided it would be cool to make a keyboard.
 
 ### PCBWAY
 

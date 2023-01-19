@@ -1,1 +1,0 @@
-kikit panelize --layout 'grid; rows: 3; cols: 2; space: 2.5mm;' --tabs annotation --source 'tolerance: 15mm' --cuts 'mousebites; drill: 0.2mm; spacing: 0.4mm;' --framing 'frame; width: 5mm; space: 3mm; cuts: h' --post 'millradius: 1mm' ENV_KB.kicad_pcb ./_panel/ENV_KB.kicad_pcb

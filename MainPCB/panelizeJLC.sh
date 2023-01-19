@@ -1,1 +1,0 @@
-kikit panelize --layout 'grid; rows: 3; cols: 2; space: 2mm' -p :jlcTooling ENV_KB.kicad_pcb ./_panel/ENV_KB.kicad_pcb

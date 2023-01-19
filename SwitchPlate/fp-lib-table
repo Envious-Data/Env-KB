@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name Graphic)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/Graphic.pretty)(options "")(descr ""))
-  (lib (name mounthole)(type KiCad)(uri ${KIPRJMOD}/mounthole.pretty)(options "")(descr ""))
-)

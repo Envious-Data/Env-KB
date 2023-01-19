@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name mount)(type KiCad)(uri ${KIPRJMOD}/mount.pretty)(options "")(descr ""))
-)

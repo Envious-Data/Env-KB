@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name EM_Logo)(type KiCad)(uri ${KIPRJMOD}/Footprint_library/EM_Logo.pretty)(options "")(descr ""))
-)
