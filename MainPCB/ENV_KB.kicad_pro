@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.0,
-          "width": 155.0
+          "drill": 3.6,
+          "height": 7.0,
+          "width": 7.0
         },
         "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
@@ -55,7 +55,13 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|242925000|75726000|986e302d-e027-4fa2-8415-d663998269ce|e6e9e5c5-11fe-40a7-a29a-25ee35e8cb13",
+        "hole_clearance|315838000|123315000|0540dd9b-f3bc-4147-8170-250befd91b9b|b5375489-88d9-45e0-9717-6a06f56feae7",
+        "hole_clearance|49100000|168400000|e1640c92-0a7b-4990-ae42-e9436c2a460d|9e3865b4-076f-4451-b53e-909ca27b0b74",
+        "malformed_courtyard|241000000|70595000|00000000-0000-0000-0000-0000609d2f93|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|241000000|78865000|00000000-0000-0000-0000-0000609d2f93|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -421,7 +427,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ENV_KB.step",
       "vrml": "ENV_KB.wrl"
     },
     "page_layout_descr_file": ""
