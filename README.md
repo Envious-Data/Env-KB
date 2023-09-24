@@ -29,6 +29,8 @@ Pre-compiled firmwares can be found [here](https://github.com/Envious-Data/EnvKB
 - 10x m2 female standoffs 10mm 
 - 20x m2 screws <5mm
 
+(this list may not be totally accurate since I often forget what has changed inbetween when the readme is updated.
+
 ### Building
 Most part orientations should be marked on the PCB however it is important to note that you NEED to connect the pads under the MCU to the respective pads on the board for USB to work, you also need 5.1K resistors to work with USB PD compatible ports.
 
