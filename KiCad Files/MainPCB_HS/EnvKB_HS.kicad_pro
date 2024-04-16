@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.7,
-          "height": 6.0,
-          "width": 6.0
+          "drill": 3.73,
+          "height": 6.2,
+          "width": 6.2
         },
         "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
@@ -56,17 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "hole_clearance|288310000|176655000|1cc6c6b3-e05f-423c-9962-a5a8a11351b9|f08d60a9-55b1-4408-b94f-260833a17d25",
-        "hole_clearance|70538000|180515000|7743ee44-0959-4ac5-8ec9-d5dcda2a6b39|a1e399de-7197-482c-ae1f-406df563b48d",
-        "hole_clearance|72090000|181170000|70ad11be-5470-4e9d-b0c9-aaeff2c0809a|a1e399de-7197-482c-ae1f-406df563b48d",
-        "hole_near_hole|289600000|163320000|659f5478-cdd6-402b-b515-53f953cb73e4|de1b8602-5ed6-4c89-ae32-688d3eaaf1be",
-        "hole_near_hole|304015000|170838000|a67d57a0-54fd-4f4a-82a3-66a4ac645cc9|5a72d974-5708-4069-a463-e89514dfd458",
-        "hole_near_hole|311000000|158900000|367fadb5-656c-4f7e-8dc0-fe878a037ba5|29797be5-cc8b-448b-b273-84df955bd886",
-        "hole_near_hole|54180000|187500000|7d63cea1-cbcd-4243-a9d2-445ca73e8a80|28eff98c-b113-41e2-b955-7c189a7e5a60",
-        "hole_near_hole|65420000|187500000|6a9c7bc3-ab30-463a-928f-db8796bc6db5|73f84fa1-ef3d-4a6a-8ff7-1123555b2e4a",
-        "hole_near_hole|73040000|182420000|7743ee44-0959-4ac5-8ec9-d5dcda2a6b39|a1e399de-7197-482c-ae1f-406df563b48d"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -93,7 +83,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
@@ -140,7 +130,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.15,
-        "min_via_annular_width": 0.13,
+        "min_via_annular_width": 0.09999999999999999,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -401,18 +391,23 @@
     "rule_severities": {
       "bus_definition_conflict": "error",
       "bus_entry_needed": "error",
-      "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
+      "conflicting_netclasses": "error",
       "different_unit_footprint": "error",
       "different_unit_net": "error",
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
+      "endpoint_off_grid": "warning",
       "extra_units": "error",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
       "lib_symbol_issues": "warning",
+      "missing_bidi_pin": "warning",
+      "missing_input_pin": "warning",
+      "missing_power_pin": "error",
+      "missing_unit": "warning",
       "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
@@ -422,6 +417,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -503,6 +499,8 @@
   "schematic": {
     "annotate_start_num": 0,
     "drawing": {
+      "dashed_lines_dash_length_ratio": 12.0,
+      "dashed_lines_gap_length_ratio": 3.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
@@ -534,7 +532,11 @@
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
+    "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
+    "spice_save_all_currents": false,
+    "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
